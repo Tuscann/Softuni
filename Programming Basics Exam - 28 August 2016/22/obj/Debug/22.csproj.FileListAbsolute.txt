@@ -3,3 +3,9 @@ C:\Users\123\Desktop\11\22\bin\Debug\22.exe
 C:\Users\123\Desktop\11\22\bin\Debug\22.pdb
 C:\Users\123\Desktop\11\22\obj\Debug\22.exe
 C:\Users\123\Desktop\11\22\obj\Debug\22.pdb
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\22\bin\Debug\22.exe.config
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\22\bin\Debug\22.exe
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\22\bin\Debug\22.pdb
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\22\obj\Debug\22.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\22\obj\Debug\22.exe
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\22\obj\Debug\22.pdb

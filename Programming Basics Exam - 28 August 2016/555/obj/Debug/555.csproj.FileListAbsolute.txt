@@ -4,3 +4,9 @@ C:\Users\123\Desktop\Programming Basics Exam - 28 August 2016\555\bin\Debug\555.
 C:\Users\123\Desktop\Programming Basics Exam - 28 August 2016\555\obj\Debug\555.csprojResolveAssemblyReference.cache
 C:\Users\123\Desktop\Programming Basics Exam - 28 August 2016\555\obj\Debug\555.exe
 C:\Users\123\Desktop\Programming Basics Exam - 28 August 2016\555\obj\Debug\555.pdb
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\555\bin\Debug\555.exe.config
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\555\bin\Debug\555.exe
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\555\bin\Debug\555.pdb
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\555\obj\Debug\555.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\555\obj\Debug\555.exe
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\555\obj\Debug\555.pdb

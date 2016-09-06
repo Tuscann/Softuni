@@ -9,3 +9,9 @@ C:\Users\123\Desktop\Sofuni\Programming Basics Exam - 28 August 2016\33\obj\Debu
 C:\Users\123\Desktop\Sofuni\Programming Basics Exam - 28 August 2016\33\bin\Debug\33.exe
 C:\Users\123\Desktop\Sofuni\Programming Basics Exam - 28 August 2016\33\bin\Debug\33.pdb
 C:\Users\123\Desktop\Sofuni\Programming Basics Exam - 28 August 2016\33\obj\Debug\33.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\33\bin\Debug\33.exe.config
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\33\bin\Debug\33.exe
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\33\bin\Debug\33.pdb
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\33\obj\Debug\33.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\33\obj\Debug\33.exe
+C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\33\obj\Debug\33.pdb

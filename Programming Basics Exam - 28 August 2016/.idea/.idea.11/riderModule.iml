@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../22" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../33" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../44" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../55" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../66" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../555" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../11/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../11/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../22/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../22/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../33/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../33/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../44/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../44/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../55/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../55/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../555/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../555/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../66/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../66/obj" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
