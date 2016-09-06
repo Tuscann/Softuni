@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="Styling a HTML Form.css">
+    <title>Styling HTML Form</title>
+</head>
+<body>
+<div id="container">
+    <!--<form method="post" action="#">-->
+    <p>Step 1: Your details</p>
+    <div class="fields">
+        <label class="field-names" for="name">Name</label>
+        <input type="text" name="name" id="name" placeholder="First and last name"><br>
+    </div>
+    <div class="fields">
+        <label class="field-names" for="email">Email</label>
+        <input type="email" name="email" id="email" placeholder="example@domain.com"><br>
+    </div>
+    <div class="fields">
+        <label class="field-names" for="phone">Phone</label>
+        <input type="tel" id="phone" placeholder="eg. +447500000000"><br>
+    </div>
+    <p>Step 2: Delivery address</p>
+    <div class="fields" id="address-field">
+        <label class="field-names" for="address">Address</label>
+        <textarea name="address" id="address"></textarea><br>
+    </div>
+    <div class="fields" id="postcode-div">
+        <label class="field-names" for="postcode">Post code</label>
+        <input type="text" name="postcode" id="postcode"><br>
+    </div>
+    <div class="fields">
+        <label class="field-names" for="country">Country</label>
+        <input type="text" name="country" id="country"><br>
+    </div>
+    <p>Step 3: Card details</p>
+    <div class="fields" id="cards-choice">
+        <span>Card type</span><br>
+        <div id="cards">
+            <input type="radio" name="radio-cards" id="visa">
+            <img class="png" src="./visa.png" alt="visa" title="visa">
+            <label for="visa">VISA</label>
+            <input type="radio" name="radio-cards" id="amex">
+            <img class="png" src="./amex.png" alt="amex" title="amex">
+            <label for="amex">AmEx</label>
+            <input type="radio" name="radio-cards" id="mastercard">
+            <img class="png" src="./mastercard.png" alt="mastercard" title="mastercard">
+            <label for="mastercard">Mastercard</label><br>
+        </div>
+    </div>
+    <div class="fields">
+        <label class="field-names" for="card-number">Card number</label>
+        <input type="text" name="card-number" id="card-number"><br>
+    </div>
+    <div class="fields">
+        <label class="field-names" for="security-code">Security code</label>
+        <input type="text" name="security-code" id="security-code"><br>
+    </div>
+    <div class="fields">
+        <label class="field-names" for="name-on-card">Name on card</label>
+        <input type="text" name="name-on-card" id="name-on-card" placeholder="exact name as on the card"><br>
+    </div>
+    <a href="http://www.google.com/" target="_blank">
+        <input type="submit" value="BUY IT!" />
+    </a>
+
+
+    <!--</form>-->
+</div>
+</body>
+</html>

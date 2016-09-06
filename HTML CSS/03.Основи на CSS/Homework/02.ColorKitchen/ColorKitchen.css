@@ -221,7 +221,7 @@ span:lang(la):before, span:lang(la):after {
     font-size: 25px;
 }
 
-#\#HSLHSV {
+#HSLHSV {
     background: blue;
     color: white;
     border-radius: 6px;
@@ -230,7 +230,7 @@ span:lang(la):before, span:lang(la):after {
     font-size: 25px;
 }
 
-#\#lorem {
+#lorem {
     background: purple;
     color: white;
     border-radius: 6px;
@@ -250,14 +250,3 @@ a:visited {
 a:link {
     color: black;
 }
-
-/*li:last-of-type{*/
-/*display: block;*/
-/*position: relative;*/
-/*top: -250px;*/
-/*visibility: visible;*/
-/*}*/
-
-
-
-
