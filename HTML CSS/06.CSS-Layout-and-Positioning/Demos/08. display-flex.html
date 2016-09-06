@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Display Flex - CSS Layout</title>
+	<style>
+		.flexbox {
+			display: flex;
+			border: 1px solid blue;
+			width: 100%;
+		}
+		.flexbox > div {
+			background: #ACF;
+			margin: 10px auto;
+			padding: 5px;			
+		}
+		
+		.flexbox-vertical {
+			display: flex;
+			border: 1px solid blue;
+			flex-direction: column;
+			width: 300px;
+		}
+		.flexbox-vertical > div {
+			background: #ACF;
+			margin: 10px auto;
+			padding: 5px;			
+		}
+	</style>
+</head>
+
+<body>						  
+	<div class="flexbox">
+		<div>First Div</div>
+		<div>Second Div</div>
+		<div>Third Div</div>
+		<div>Fourth Div</div>
+		<div>Fifth Div</div>
+		<div>Sixth Div</div>
+		<div>Seventh Div</div>
+		<div>Eighth Div</div>
+	</div>
+	
+	<div class="flexbox-vertical">
+		<div>First Div</div>
+		<div>Second Div</div>
+		<div>Third Div</div>
+		<div>Fourth Div</div>
+		<div>Fifth Div</div>
+		<div>Sixth Div</div>
+		<div>Seventh Div</div>
+		<div>Eighth Div</div>
+	</div>
+</body>
+
+</html>

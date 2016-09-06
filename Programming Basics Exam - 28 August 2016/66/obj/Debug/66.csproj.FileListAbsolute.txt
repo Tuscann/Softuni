@@ -1,0 +1,5 @@
+C:\Users\123\Desktop\11\66\bin\Debug\66.exe.config
+C:\Users\123\Desktop\11\66\bin\Debug\66.exe
+C:\Users\123\Desktop\11\66\bin\Debug\66.pdb
+C:\Users\123\Desktop\11\66\obj\Debug\66.exe
+C:\Users\123\Desktop\11\66\obj\Debug\66.pdb

@@ -1,0 +1,231 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+<link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+	<title>Text-Related CSS Properties</title>
+	<style>
+		body {
+			font-family: "Fjalla One";
+			color: #0053ff;
+			font-size: 20px;
+		}
+
+		article {
+			float: left;
+			width: 450px;
+			height: 250px;
+			border: 1px solid black;
+			padding: 15px;
+			margin: 15px;
+		}
+
+		article h1 {
+			font-size: 1.8em;
+		}
+
+        .color-ccc {
+            color: #CCC;
+        }
+
+        .color-coral {
+            color: coral;
+        }
+
+        .color-rgba {
+            color: rgba(30, 106, 255, 0.75);
+        }
+
+		.font-size-ems {
+			font-size: 1.7em;
+		}
+
+		.font-size-pxs {
+			font-size: 20px;
+		}
+
+		.font-size-large {
+			font-size: large;
+		}
+
+		.font-size-rem {
+			font-size: 1.5rem;
+		}
+
+		.font-family-consolas {
+			font-family: Consolas;
+		}
+
+		.font-family-arial {
+			font-family: Arial;
+		}
+
+		.font-family-verdana {
+			font-family: Verdana;
+		}
+
+		.weight-bold {
+			font-weight: bold;
+		}
+
+		.weight-light {
+			font-weight: lighter;
+		}
+
+		.weight-normal {
+			font-weight: normal;
+		}
+
+		.font-style-italic {
+			font-style: italic;
+		}
+
+		.font-style-oblique {
+			font-style: oblique;
+		}
+
+		.decoration-none {
+			text-decoration: none;
+		}
+
+		.decoration-underline {
+			text-decoration: underline;
+		}
+
+		.decoration-line-trough {
+			text-decoration: line-through;
+		}
+
+		.decoration-overline {
+			text-decoration: overline;
+		}
+
+		.decoration-blink {
+			text-decoration: blink;
+		}
+
+		.text-align-center {
+			text-align: center;
+			list-style-type: none;
+		}
+
+		.text-align-justify {
+			text-align: justify;
+			list-style-type: none;
+		}
+
+		.text-align-right {
+			text-align: right;
+			list-style-type: none;
+		}
+		
+		.line-height {
+			line-height: 60px;
+		}
+		
+		.letter-spacing {
+			letter-spacing: -2px;
+		}
+		
+		.uppercase {
+			text-transform: uppercase;
+		}
+		
+		.small-caps {
+			font-variant: small-caps;
+		}
+
+	</style>
+</head>
+
+<body>
+	<section>
+		<article>
+			<h1>color</h1>
+			<ul>
+				<li>Text with default color</li>
+				<li class="color-ccc">Text with color: #CCC</li>
+				<li class="color-coral">Text with color: coral</li>
+				<li class="color-rgba">Text with color: rgba(30, 106, 255, 0.75)</li>
+			</ul>
+		</article>
+		
+		<article>
+			<h1>font-size</h1>
+			<ul>
+				<li>Text with default font-size</li>
+				<li class="font-size-ems">Text with font-size: 1.7em</li>
+				<li class="font-size-pxs">Text with font-size: 20px</li>
+				<li class="font-size-large">Text with font-size: large</li>
+				<li class="font-size-rem">Text with font-size: 1.5rem</li>
+			</ul>
+		</article>
+		
+		<article>
+			<h1>font-family</h1>
+			<ul>
+				<li>Text with default font-family</li>
+				<li class="font-family-consolas">Text with font-family: Consolas</li>
+				<li class="font-family-arial">Text with font-family: Arial</li>
+				<li class="font-family-verdana">Text with font-family: Verdana</li>
+			</ul>
+		</article>
+		
+		<article>
+			<h1>font-weight</h1>
+			<ul>
+				<li class="weight-light">Text with font-weight: light</li>
+				<li class="weight-normal">Text with font-weight: normal</li>
+				<li class="weight-bold">Text with font-weight: bold</li>
+			</ul>
+		</article>
+		
+		<article>
+			<h1>font-styles</h1>
+			<ul>
+				<li>Text with default font-style</li>
+				<li class="font-style-italic">Text with font-style: italic</li>
+				<li class="font-style-oblique">Text with font-style: oblique</li>
+			</ul>
+		</article>
+
+		<article>
+			<h1>font-styles</h1>
+			<ul>
+				<li class="decoration-none">text with text-decoration: none</li>
+				<li class="decoration-underline">text with text-decoration: underline</li>
+				<li class="decoration-blink">text with text-decoration: blink</li>
+				<li class="decoration-line-trough">text with text-decoration: line-trough</li>
+				<li class="decoration-overline">text with text-decoration: overline</li>
+			</ul>
+		</article>
+		
+		<article>
+			<h1>text-align</h1>
+			<ul>
+				<li class="text-align-center">Text align: center</li>
+				<li class="text-align-justify">Text align: justify; Text align: justify; Text align: justify; Text align: justify; Text align: justify; Text align: justify; Text align: justify; Text align: justify; Text align: justify</li>
+				<li class="text-align-right">Text align: right</li>
+			</ul>
+		</article>
+		
+		<article>
+			<h1>others</h1>
+			<ul>
+				<li class="line-height">line-height: 60px</li>
+				<li class="letter-spacing">letter-spacing: -2px</li>
+				<li class="uppercase">text-transform: uppercase</li>
+				<li class="small-caps">Font Variant: Small Caps</li>
+			</ul>
+		</article>
+		
+		<div style="text-align: center">
+			some text
+			<div style="display:inline-block;width: 50px; border:1px solid red">some text in div</div>
+			dssdfsdfasd
+		</div
+	</section>
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+Room Reservation
+
+Basic Information
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nibh varius odio sollicitudin blandit nec eu elit. Suspendisse ac risus nunc, quis elementum lorem. Pellentesque vehicula egestas eros nec commodo.
+
+Search
+
+Personal Details
+First Name
+Last Name
+Enter Email
+
+Request a reservation
+
+Select a room:
+Options -> Room 1, Room 2, Room 3 (selected), Room 4
+ 
+Number of Rooms:
+
+Check-In: (current date)
+ 
+Check-Out:
+
+
+Book Now
+

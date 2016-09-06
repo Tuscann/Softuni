@@ -1,0 +1,12 @@
+C:\Users\123\Desktop\11\44\bin\Debug\44.exe.config
+C:\Users\123\Desktop\11\44\bin\Debug\44.exe
+C:\Users\123\Desktop\11\44\bin\Debug\44.pdb
+C:\Users\123\Desktop\11\44\obj\Debug\44.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\11\44\obj\Debug\44.exe
+C:\Users\123\Desktop\11\44\obj\Debug\44.pdb
+C:\Users\123\Desktop\Programming Basics Exam - 28 August 2016\44\bin\Debug\44.exe.config
+C:\Users\123\Desktop\Programming Basics Exam - 28 August 2016\44\obj\Debug\44.exe
+C:\Users\123\Desktop\Programming Basics Exam - 28 August 2016\44\obj\Debug\44.pdb
+C:\Users\123\Desktop\Sofuni\Programming Basics Exam - 28 August 2016\44\bin\Debug\44.exe.config
+C:\Users\123\Desktop\Sofuni\Programming Basics Exam - 28 August 2016\44\obj\Debug\44.exe
+C:\Users\123\Desktop\Sofuni\Programming Basics Exam - 28 August 2016\44\obj\Debug\44.pdb

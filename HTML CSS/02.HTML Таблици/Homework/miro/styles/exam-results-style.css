@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid black;
+    font-family: Arial;
+}
+
+table {
+    width: 30%;
+}
+
+#subheaders {
+    text-align: center;
+}
+
+tfoot {
+    text-align: right;
+}

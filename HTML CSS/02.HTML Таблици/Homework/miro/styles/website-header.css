@@ -1,0 +1,29 @@
+#head-background {
+    background-color: rgb(35, 68, 101);
+}
+
+button {
+    background-color: rgb(35, 68, 101);
+    border: none;
+    color: white;
+}
+
+#left-header {
+    width:20%;
+    float: left;
+    background-color: rgb(35, 68, 101);
+}
+
+#right-header {
+    width:80%;
+    float: right;
+    background-color: rgb(35, 68, 101);
+    height: 40.5px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.img {
+    height:30px;
+}
+

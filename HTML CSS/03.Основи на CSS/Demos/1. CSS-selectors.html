@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>CSS Selectors</title>
+    <style>
+		#wrapper {
+			margin: 0 auto;
+			width: 800px;
+			background: #f1f1f1;			
+			border: 2px dotted #aaa;
+			padding: 15px;
+		}
+	
+        header h1 {
+            font-size: 2.4em;
+            font-weight: bold;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+        }
+
+        li.current {
+            font-weight: bold;
+        }
+		
+		#news article header {
+            font-size: 0.5em;
+			color: red;
+		}
+		
+		#news article + article {
+			/* this matches all news articles except the first */
+			background: #fea;
+		}
+		
+		#links header {
+			color: green;
+			font-size: 0.6em;
+		}
+		
+		a.link {
+			color: orange;
+			background: brown;
+			text-decoration: none;
+		}
+		
+		a.link.w3c {
+			color: lightblue;
+			background: brown;
+			text-decoration: none;
+		}
+
+		a.link:hover {
+			font-weight: bold;
+		}
+		
+		#search > header > h1 {
+			color: blue;
+			font-size: 1.5em;
+		}
+		
+		#search-form input[type='text'] {
+			width: 100px;
+		}
+		
+		#search-form input[type='submit'] {
+			width: 100px;
+			border: 2px blue solid;
+		}
+
+		#search-form input[type='submit']:hover {
+			background: blue;
+			color: white;
+		}
+    </style>
+</head>
+
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>Site Header</h1>
+            <nav>
+                <ul>
+                    <li class="current"><a href="#">Home</a></li>
+                    <li><a href="#">Projects</a></li>
+                    <li><a href="#">Downloads</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contacts</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section id="news">
+            <article>
+				<header><h1>HTML Include</h1></header>
+				<p>Exciting news: HTML will finally have <em>include</em>
+				functionality, just like "PHP include" and "CSS @import".</p>
+			</article>
+            <article>
+				<header><h1>HTML 6</h1></header>
+				<p>HTML 6 to be released in June 2018, W3C announced.</p>
+			</article>
+			<article>
+				<header><h1>JavaScript 7</h1></header>
+				<p>JavaScript 7 to be released in September 2019, W3C announced.</p>
+			</article>
+        </section>
+		<section id="links">
+			<header><h1>Links</h1></header>
+			<ul>
+				<li><a class="link" href="http://softuni.bg">SoftUni</a></li>
+				<li><a class="w3c link" href="http://w3.org">W3C</a></li>
+				<li><a class="link" href="http://nakov.com">Nakov.com</a></li>
+			</ul>
+        </section>
+		<section id="search">
+			<header><h1>Search</h1></header>
+			<form id="search-form">
+				<input type="text" name="query" placeholder="Search" />
+				<input type="submit" />
+			</form>
+		</section>
+    </div>
+</body>
+
+</html>

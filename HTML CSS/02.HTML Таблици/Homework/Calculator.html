@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="./style/calculator-style.css">
+</head>
+<body>
+<form name="calculator">
+    <table border="1px">
+        <tr>
+            <td colspan="4">
+                <input type="text" name="answer" disabled>
+            </td>
+        </tr>
+        <tr>
+            <td><input type="button" value=" 1 " onclick="calculator.answer.value+='1'" /></td>
+            <td><input type="button" value=" 2 " onclick="calculator.answer.value+='2'"></td>
+            <td><input type="button" value=" 3 " onclick="calculator.answer.value+='3'"></td>
+            <td><input type="button" value=" + " onclick="calculator.answer.value+='+'"></td>
+        </tr>
+        <tr>
+            <td><input type="button" value=" 4 " onclick="calculator.answer.value+='4'"></td>
+            <td><input type="button" value=" 5 " onclick="calculator.answer.value+='5'"></td>
+            <td><input type="button" value=" 6 " onclick="calculator.answer.value+='6'"></td>
+            <td><input type="button" value=" - " onclick="calculator.answer.value+='-'"></td>
+        </tr>
+        <tr>
+            <td><input type="button" value=" 7 " onclick="calculator.answer.value+='7'"></td>
+            <td><input type="button" value=" 8 " onclick="calculator.answer.value+='8'"></td>
+            <td><input type="button" value=" 9 " onclick="calculator.answer.value+='9'"></td>
+            <td><input type="button" value=" * " onclick="calculator.answer.value+='*'"></td>
+        </tr>
+        <tr>
+            <td><input type="button" value=" C " onclick="calculator.answer.value =''"></td>
+            <td><input type="button" value=" 0 " onclick="calculator.answer.value +='0'"></td>
+            <td><input type="button" value=" = " onclick="calculator.answer.value =eval(calculator.answer.value)"></td>
+            <td><input type="button" value=" / " onclick="calculator.answer.value +='/'"></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>

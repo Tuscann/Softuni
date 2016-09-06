@@ -1,0 +1,37 @@
+#background-image {
+    background-image: url("../pics/SoftUni background slide.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.yellow-symbols {
+    color: rgb(243, 190, 96);
+}
+
+span {
+    color: white;
+}
+
+.inner-span {
+    color: rgb(251, 238, 201);
+}
+
+div {
+    background-color: rgb(32, 32, 30);
+    width: 90%;
+    border-color: rgb(100, 96, 86);
+    border-style: solid;
+    padding: 5px;
+    margin-left: 30px;
+}
+
+dd {
+    -webkit-margin-start: 0px;
+}
+
+dl {
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}

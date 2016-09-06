@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title></title>
+	<style>
+		.invisible {
+			opacity: 0.1;
+			zoom: 0.5;
+		}	
+
+		.third-visible {
+			opacity: 0.3;
+			zoom: 1;
+		}
+
+		.half-visible {
+			opacity: 0.5;
+			zoom: 1.5;
+		}
+
+		.full-visible {
+			opacity: 1;
+			zoom: 2;
+		}	
+
+	</style>
+</head>
+
+<body>
+	<div>
+		<img class="invisible" src="images/sheep.png" />
+		<img class="third-visible" src="images/sheep.png" />
+		<img class="half-visible" src="images/sheep.png" />
+		<img class="full-visible" src="images/sheep.png" />
+	</div>
+
+	<div class="half-visible">
+		<img class="invisible" src="images/sheep.png" />
+		<img class="third-visible" src="images/sheep.png" />
+		<img class="half-visible" src="images/sheep.png" />
+		<img class="full-visible" src="images/sheep.png" />
+	</div>
+</body>
+
+</html>

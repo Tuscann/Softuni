@@ -1,0 +1,156 @@
+body {
+  font-family: Arial;
+  background-image: url(./colorful_dots_on_black.jpg);
+  background-size: 200px;
+
+}
+body > header {
+  color: yellow;
+  background: linear-gradient(to right, red 0%, red 33%, green 33%, green 67%, blue 67%);
+  width: 90%;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+aside {
+  margin: 1em;
+  width:10em;
+  border-style: none;
+  border-radius: 12px;
+  background-color: white;
+  opacity: 0.8;
+}
+nav > header {
+padding-top: 0.8em;
+padding-left: 0.4em;
+text-decoration: underline;
+font-size: 0.9em;
+font-weight: bold;
+}
+
+nav > ul {
+list-style: none;
+list-style-position: inside;
+margin: 0;
+padding-bottom: 0.8em;
+padding-left: 0.6em;
+padding-bottom: 0.8em;
+}
+
+nav > ul > li > a  {
+  text-decoration: none;
+  color: black;
+  font-size: 0.6em;
+  padding: 0.8em;
+  padding-right: 4;
+  border-style: none;
+  border-radius: 6px;
+}
+
+nav > ul > li > a:before  {
+  content: "\2713";
+  margin: 0.4em;
+  border-style: solid;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  border-color: green;
+  background-color: green;
+  color: white;
+  font-size: 0.8em;
+}
+
+nav > ul > li > a:visited {
+  color: gray;
+}
+
+a[href="ColorKitchen.html#webColors"]:hover {
+  background-color: red;
+}
+a[href="ColorKitchen.html#webSafeColors"]:hover {
+  background-color: orange;
+}
+a[href="ColorKitchen.html#RGB"]:hover {
+  background-color: yellow;
+}
+a[href="ColorKitchen.html#RGBA"]:hover {
+  background-color: green;
+}
+a[href="ColorKitchen.html#HSLHSV"]:hover {
+  background-color: blue;
+}
+a[href="ColorKitchen.html#lorem"]:hover {
+  background-color: purple;
+}
+
+article {
+  background-color: white;
+  opacity: 0.8;
+  border-style: none;
+  border-radius: 12px;
+  width: 55em;
+  margin-bottom: 2em;
+  padding: 0.7em;
+
+}
+
+section {
+  position: absolute;
+  left: 14em;
+  top: 2.8em;
+}
+
+article header {
+  border-style: none;
+  border-radius: 8px;
+  background-color: orange;
+  padding: 0.3em;
+  width: 100%;
+  margin-bottom: 0.6em;
+
+}
+
+article div {
+  font-size: 0.6em;
+}
+article div::first-line {
+  font-style: italic;
+  display: block;
+  margin: 2em;
+}
+article div::first-letter {
+  font-size: 3em;
+}
+article span {
+  font-size: 0.6em;
+}
+article span::first-line {
+  font-style: italic;
+}
+article span::first-letter {
+  font-size: 3em;
+}
+footer a {
+  color: grey;
+  font-size: 0.6em;
+  font-style: italic;
+}
+header#webColors {
+  background-color: red;
+}
+header#webSafeColors {
+  background-color: orange;
+}
+header#RGB {
+  background-color: yellow;
+}
+header#RGBA {
+  background-color: green;
+}
+header#HSLHSV {
+  background-color: blue;
+}
+header#lorem {
+  background-color: purple;
+}

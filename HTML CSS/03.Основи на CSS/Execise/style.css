@@ -1,0 +1,55 @@
+body {
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 20px;
+    background-color: #234465;
+}
+
+#wrapper {
+     width: 960px;
+     margin: 10px auto;
+     background-color: rgba(254, 160, 0, 0.75);
+     padding: 20px;
+     border-radius: 30px;
+ }
+
+#page-header {
+    text-align: center;
+    color: #234465;
+    text-shadow: 2px 2px #DDDDDD;
+}
+
+.articles {
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    border: solid 4px #234465;
+}
+
+.articles-header {
+    color: #DDDDDD;
+    text-shadow: 2px 2px #234465;
+    font-style: italic;
+}
+
+.articles-content {
+    color: #DDDDDD;
+}
+
+.read-more, .read-more:hover {
+    color: #234465;
+    font-style: italic;
+    font-size: 0.9em;
+    text-decoration: none;
+}
+
+address, time {
+    color: #CCCCCC;
+    font-style: italic;
+    font-size: 0.7em;
+    text-decoration: underline;
+    text-indent: 50px;
+}
+
+article, time, address, p {
+    text-indent: 50px;
+}

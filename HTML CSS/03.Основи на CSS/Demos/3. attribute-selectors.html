@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Attribute Selectors</title>
+    <style>
+        input[type=text] {
+            width:500px;
+        }
+		
+        a[title] {
+            background-color: darkgray;
+        }
+
+        a[title*='Uni'] {
+            text-decoration:none;
+        }
+    </style>
+</head>
+
+<body>
+    <input type="text" />
+    <a href="http://softuni.bg" title="Telerik Academy">Go to SoftUni</a>
+    <a href="http://softuni.bg">Go to SoftUni</a>    
+</body>
+
+</html>

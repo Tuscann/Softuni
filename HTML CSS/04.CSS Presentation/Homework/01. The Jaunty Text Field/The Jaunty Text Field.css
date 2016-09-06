@@ -1,0 +1,73 @@
+.wrapper {
+    margin: 20px;
+    text-align: center;
+    width: 23em;
+    height: 13em;
+    border-top: 7px dotted #FFFF00;
+    border-right: 13px solid #008000;
+    border-bottom: 7px double #0000FF;
+    border-left: 7px dashed #FF0000;
+    box-shadow: 16px 16px 16px #333333;
+}
+
+#edno {
+    height: 12.2em;
+    width: 24.2em;
+}
+
+#text {
+    color: black;
+    font-size: 1.3em;
+    text-align: center;
+    text-shadow: 5px 5px 7px #000000;
+}
+
+#okolo {
+    color: black;
+    font-size: 0.7em;
+    text-align: center;
+    text-shadow: 5px 5px 7px #000000;
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+    padding-right: 40px;
+}
+
+#notbuttons1, #notbuttons2 {
+    text-align: center;
+    padding: 2px 10px;
+    text-shadow: none;
+    font-weight: bold;
+    background: #D8921A;
+    border-top: 3px solid #EC9C0D;
+    border-left: 3px solid #EC9C0D;
+    border-bottom: 3px solid #AD7206;
+    border-right: 3px solid #AD7206;
+}
+
+.green, .yellow, .red, .blue {
+    border-radius: 75px;
+    /*text-align: center;*/
+    margin-right: 20em;
+}
+
+.blue {
+    horiz-align: center;
+    width: 21em;
+    border: 2px solid #1D1BFF;
+}
+
+.green {
+    width: 20.8em;
+    border: 2px solid #127C30;
+}
+
+.yellow {
+    width: 20.6em;
+    border: 2px solid #FFFF00;
+}
+
+.red {
+    width: 20.4em;
+    border: 2px solid #FF0000;
+}

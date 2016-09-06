@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Backgrounds</title>
+	<style>
+		body {
+			background: url(images/gradient.png) repeat-x #42843A;
+			width: 500px;
+			height: 500px;
+		}
+
+		ul {
+			list-style-type: none;
+			font-size: 24pt;
+		}
+
+			ul li {
+				background: url(images/dot.png) no-repeat;
+				background-position: 0 13px;
+				padding-left: 15px;
+			}
+
+				ul li li {
+					background: url(images/diamond.png) no-repeat;
+					background-position: 0 13px;
+					padding-left: 15px;
+				}
+	</style>
+</head>
+
+<body>
+	<div class="gradient-back-img"></div>
+	<ul>
+		<li>List item
+			<ul>
+				<li>Sublist item</li>
+				<li>Sublist item</li>
+				<li>Sublist item</li>
+			</ul>
+		</li>
+		<li>List item</li>
+		<li>List item</li>
+	</ul>
+</body>
+
+</html>
+

@@ -1,0 +1,81 @@
+#head {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-color:#ffff03;
+    border: 3px solid black;
+}
+
+#leftEye{
+     width: 90px;
+     height: 90px;
+     border-radius: 50%;
+     background-color: white;
+     border: 3px solid black;
+     margin-top: 100px;
+     margin-left: 100px;
+ }
+#leftPupil {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: black;
+    border: 3px solid black;
+    margin-left: 52px;
+    margin-top: 50px;
+}
+
+#rightEye{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: white;
+    border: 3px solid black;
+    margin-top: -90px;
+    margin-left: 300px;
+}
+#rightPupil {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: black;
+    border: 3px solid black;
+    margin-left: 5px;
+    margin-top: -3px;
+}
+#nose{
+    width: 73px;
+    height: 73px;
+    border-radius: 50%;
+    background-color: red;
+    border: 3px solid black;
+    margin-top: 20px;
+    margin-left: 210px;
+}
+#mouth {
+    width: 200px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: white;
+    border: 3px solid black;
+    margin-left: 145px;
+    margin-top: 30px;
+}
+#leftTooth {
+    width: 40px;
+    height: 40px;
+    border-radius: 0 0 9px 9px;
+    background-color: white;
+    border: 3px solid black;
+    margin-left: 55px;
+    margin-top: -2px;
+}
+#rightTooth {
+    width: 40px;
+    height: 40px;
+    border-radius: 0 0 9px 9px;
+    background-color: white;
+    border: 3px solid black;
+    margin-left: 101px;
+    margin-top: -46px;
+}

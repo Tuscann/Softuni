@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Styling Lists</title>
+	<style>
+		ul.dots {
+			list-style-image: url('images/dot.png');
+		}
+
+		ul.menu {
+			list-style-image: none;
+		}
+			ul.menu li {
+				display: inline-block;
+				background: #9999FF;
+				padding: 5px 12px;
+				color: black;
+				border-radius: 5px;
+				margin-right: 4px;
+			}
+			ul.menu li:hover {
+				color: white;
+				cursor: pointer;
+			}
+
+		ul.buttons {
+            list-style-type: none;
+		}
+            ul.buttons li::before {
+                content: "\25BA";
+                margin-right: 5px;
+                font-family: Arial;
+                color: green;
+            }
+            ul.buttons li {
+                border: 1px solid #CCC;
+                display: inline-block;
+                padding: 3px 15px 3px 5px;
+                border-radius: 3px 5px 8px 12px;
+            }
+            ul.buttons li:hover {
+               color: black;
+               background:linear-gradient(#808080, #CCC);
+               cursor: pointer;
+            }
+	</style>
+</head>
+
+<body>
+	<ul class="dots">
+	  <li>Coffee</li>
+	  <li>Tea</li>
+	  <li>Water</li>
+	  <li>Cola</li>
+	</ul>
+
+	<ul class="buttons">
+	  <li>Coffee</li>
+	  <li>Tea</li>
+	  <li>Water</li>
+	  <li>Cola</li>
+	</ul>
+
+	<ul class="menu">
+	  <li>Coffee</li>
+	  <li>Tea</li>
+	  <li>Water</li>
+	  <li>Cola</li>
+	</ul>
+</body>
+
+</html>

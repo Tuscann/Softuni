@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Structure - Demo</title>
+		<style>
+			img {
+				width:150px;
+			}
+
+            img:hover {
+                cursor: pointer;
+                opacity: 0.5;
+            }
+		</style>
+	</head>
+	<body>
+		<h1>Hello SoftUni!</h1>
+		<a href="https://softuni.bg">Go to SoftUni Web site</a>
+		<hr width="95%" size="3px"/>
+		<img src="images/SoftUni-logo.png" onclick="onClick()"/>
+		<script>
+			function onClick() {
+				alert("You clicked the SoftUni logo");
+			}
+		</script>
+	</body>
+</html>

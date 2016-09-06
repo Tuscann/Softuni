@@ -1,0 +1,117 @@
+body {
+  font-family: Arial;
+}
+div#wrapper {
+  background-color: #049F39;
+  width:42em;
+  padding: 0.4em;
+}
+table {
+  width: 95%;
+}
+table tr:last-child td:first-child {
+    border-bottom-left-radius: 10px;
+}
+
+table tr:last-child td:last-child {
+    border-bottom-right-radius: 10px;
+}
+table tr:first-child th:first-child {
+  border-top-left-radius: 10px;
+}
+table tr:first-child th:last-child {
+  border-top-right-radius: 10px;
+}
+th {
+  background-color: #FFC803;
+}
+th:first-child {
+  text-align: right;
+}
+th:nth-child(3){
+  text-align: left;
+}
+td:nth-child(2), td:nth-child(4) {
+  text-align: center;
+}
+td {
+  font-size:0.8em;
+  padding:0.4em
+}
+td:nth-child(1), td:nth-child(5){
+  text-align: right;
+}
+td:nth-child(3), td:nth-child(7){
+  text-align: left;
+}
+tr:nth-child(2n+1) {
+  background-color: white;
+}
+tr:nth-child(even) {
+  background-color: #BDBDBD;
+}
+td, th {
+  border-style: solid;
+  border-width: thin;
+}
+button#bet-button {
+  border-radius: 50%;
+  width: 3em;
+  height: 3em;
+  text-align: center;;
+  font-size: 0.5em;
+  padding: 0;
+}
+button#bet-button.inactive {
+  background-color: red;
+}
+button#bet-button.active {
+  background-color: green;
+}
+td#predict select[disabled="disabled"]  {
+  color: red;
+  background-color: #E2DFDF;
+}
+td#predict select  {
+  color: green;
+}
+
+span {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  position: relative;
+  display: inline-block;
+  width: 1em;
+  padding: 0.1em;
+}
+.br-flag {
+  background-image: url(./flags/br.svg);
+}
+.ar-flag {
+  background-image: url(./flags/ar.svg);
+}
+.ba-flag {
+  background-image: url(./flags/ba.svg);
+}
+.nl-flag {
+  background-image: url(./flags/nl.svg);
+}
+.mx-flag {
+  background-image: url(./flags/mx.svg);
+}
+.gb-eng-flag {
+  background-image: url(./flags/gb-eng.svg);
+}
+.it-flag {
+  background-image: url(./flags/it.svg);
+}
+.de-flag {
+  background-image: url(./flags/de.svg);
+}
+.es-flag {
+  background-image: url(./flags/es.svg);
+}
+.pt-flag {
+  background-image: url(./flags/pt.svg);
+}
