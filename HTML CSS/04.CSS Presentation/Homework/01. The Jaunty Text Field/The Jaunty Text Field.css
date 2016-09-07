@@ -24,13 +24,11 @@
 
 #okolo {
     color: black;
-    font-size: 0.7em;
+    font-size: 0.9em;
     text-align: center;
     text-shadow: 5px 5px 7px #000000;
-    margin: 10px;
     border: 10px;
-    padding: 10px;
-    padding-right: 40px;
+
 }
 
 #notbuttons1, #notbuttons2 {
@@ -45,29 +43,16 @@
     border-right: 3px solid #AD7206;
 }
 
-.green, .yellow, .red, .blue {
+.rainbow {
     border-radius: 75px;
-    /*text-align: center;*/
-    margin-right: 20em;
+    box-shadow:
+0 0 0 2px red,
+0 0 0 4px yellow,
+0 0 0 6px green,
+0 0 0 8px blue;
+    margin-left: 20px;
+    height: 80px;
+ 
+    
 }
 
-.blue {
-    horiz-align: center;
-    width: 21em;
-    border: 2px solid #1D1BFF;
-}
-
-.green {
-    width: 20.8em;
-    border: 2px solid #127C30;
-}
-
-.yellow {
-    width: 20.6em;
-    border: 2px solid #FFFF00;
-}
-
-.red {
-    width: 20.4em;
-    border: 2px solid #FF0000;
-}

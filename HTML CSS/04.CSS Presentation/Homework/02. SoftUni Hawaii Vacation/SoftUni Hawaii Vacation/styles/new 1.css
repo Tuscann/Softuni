@@ -8,7 +8,7 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
+figure, figcaption, footer, header,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
      margin: 0;
@@ -20,7 +20,7 @@ time, mark, audio, video {
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+footer, header,menu, nav, section {
      display: block;
 }
 body {
@@ -52,7 +52,7 @@ table {
 body {
      position: relative;
      background: url("../images/HawaiiBackground.png"),
-     -webkit-radial-gradient(170px 120px, circle,#F9F9F9 0%,#F9F7BB 8%,#F1F6FC 13%,#006EDB 60% ),
+     /*-webkit-radial-gradient(170px 120px, circle,#F9F9F9 0%,#F9F7BB 8%,#F1F6FC 13%,#006EDB 60% ),*/
      -webkit-linear-gradient(left, #509fdf, #0069db);
      background-repeat: no-repeat;
      -webkit-background-size: 900px 600px;
