@@ -23,103 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="PowerPoint Slide.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PowerPoint Slide.html">
+      <file leaf-file-name="06.Profile.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06.Profile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-              <folding>
-                <element signature="e#428#432#0" expanded="true" />
-                <element signature="e#434#438#0" expanded="true" />
-                <element signature="e#445#452#0" expanded="true" />
-                <element signature="e#460#464#0" expanded="true" />
-                <element signature="e#466#470#0" expanded="true" />
-                <element signature="e#551#555#0" expanded="true" />
-                <element signature="e#557#561#0" expanded="true" />
-                <element signature="e#570#574#0" expanded="true" />
-                <element signature="e#577#581#0" expanded="true" />
-                <element signature="e#622#626#0" expanded="true" />
-                <element signature="e#628#632#0" expanded="true" />
-                <element signature="e#645#649#0" expanded="true" />
-                <element signature="e#652#656#0" expanded="true" />
-                <element signature="e#697#701#0" expanded="true" />
-                <element signature="e#703#707#0" expanded="true" />
-                <element signature="e#720#724#0" expanded="true" />
-                <element signature="e#727#731#0" expanded="true" />
-                <element signature="e#877#881#0" expanded="true" />
-                <element signature="e#882#886#0" expanded="true" />
-                <element signature="e#992#996#0" expanded="true" />
-                <element signature="e#997#1001#0" expanded="true" />
-                <element signature="e#1027#1031#0" expanded="true" />
-                <element signature="e#1033#1037#0" expanded="true" />
-                <element signature="e#1103#1107#0" expanded="true" />
-                <element signature="e#1108#1112#0" expanded="true" />
-                <element signature="e#1139#1143#0" expanded="true" />
-                <element signature="e#1145#1149#0" expanded="true" />
-                <element signature="e#1289#1293#0" expanded="true" />
-                <element signature="e#1296#1300#0" expanded="true" />
-                <element signature="e#1318#1322#0" expanded="true" />
-                <element signature="e#1326#1330#0" expanded="true" />
-                <element signature="e#1436#1440#0" expanded="true" />
-                <element signature="e#1473#1477#0" expanded="true" />
-                <element signature="e#1518#1524#0" expanded="true" />
-                <element signature="e#1524#1530#1" expanded="true" />
-                <element signature="e#1634#1638#0" expanded="true" />
-                <element signature="e#1642#1646#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="background.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/background.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            <state relative-caret-position="408">
+              <caret line="24" column="93" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html-lists.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html-lists.html">
+      <file leaf-file-name="doge-background.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/doge-background.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="27" column="64" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="70" />
-              <folding>
-                <element signature="e#313#319#0" expanded="true" />
-                <element signature="e#364#370#0" expanded="true" />
-                <element signature="e#513#519#0" expanded="true" />
-                <element signature="e#564#570#0" expanded="true" />
-                <element signature="e#661#667#0" expanded="true" />
-                <element signature="e#722#728#0" expanded="true" />
-                <element signature="e#837#843#0" expanded="true" />
-                <element signature="e#908#914#0" expanded="true" />
-                <element signature="e#1043#1049#0" expanded="true" />
-                <element signature="e#1152#1158#0" expanded="true" />
-                <element signature="e#1304#1310#0" expanded="true" />
-                <element signature="e#1355#1361#0" expanded="true" />
-                <element signature="e#1406#1412#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user-profile-pages.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user-profile-pages.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="doge-picture.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doge-picture.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -146,6 +64,13 @@
         <option value="$PROJECT_DIR$/html-lists.html" />
         <option value="$PROJECT_DIR$/background.css" />
         <option value="$PROJECT_DIR$/PowerPoint Slide.html" />
+        <option value="$PROJECT_DIR$/04.Html-lists.html" />
+        <option value="$PROJECT_DIR$/05.Power-point Slide.html" />
+        <option value="$PROJECT_DIR$/styles/background-of-powerpoint-slide.css" />
+        <option value="$PROJECT_DIR$/06.Home.html" />
+        <option value="$PROJECT_DIR$/06.Friends.html" />
+        <option value="$PROJECT_DIR$/styles/doge-background.css" />
+        <option value="$PROJECT_DIR$/06.Profile.html" />
       </list>
     </option>
   </component>
@@ -156,10 +81,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1044" />
+    <option name="x" value="960" />
+    <option name="y" value="44" />
+    <option name="width" value="960" />
+    <option name="height" value="1036" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -172,7 +97,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -185,13 +110,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -269,14 +188,15 @@
       <updated>1472109950556</updated>
       <workItem from="1472109951756" duration="13350000" />
       <workItem from="1472133962810" duration="4677000" />
+      <workItem from="1473401208628" duration="5202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18027000" />
+    <option name="totallyTimeSpent" value="23229000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1044" extended-state="6" />
+    <frame x="960" y="44" width="960" height="1036" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.011979166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -313,186 +233,84 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PowerPoint Slide.html">
+    <entry file="file://$PROJECT_DIR$/PowerPoint Slide.html" />
+    <entry file="file://$PROJECT_DIR$/background.css" />
+    <entry file="file://$PROJECT_DIR$/user-profile-pages.html" />
+    <entry file="file://$PROJECT_DIR$/doge-picture.css" />
+    <entry file="file://$PROJECT_DIR$/hello-html.html" />
+    <entry file="file://$PROJECT_DIR$/runners-home.html" />
+    <entry file="file://$PROJECT_DIR$/Paragraphs-and-Images-of-Text.html" />
+    <entry file="file://$PROJECT_DIR$/user-profile-pages.html" />
+    <entry file="file://$PROJECT_DIR$/doge-picture.css" />
+    <entry file="file://$PROJECT_DIR$/html-lists.html" />
+    <entry file="file://$PROJECT_DIR$/background.css" />
+    <entry file="file://$PROJECT_DIR$/PowerPoint Slide.html" />
+    <entry file="file://$PROJECT_DIR$/04.Html-lists.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="e#428#432#0" expanded="true" />
-            <element signature="e#434#438#0" expanded="true" />
-            <element signature="e#445#452#0" expanded="true" />
-            <element signature="e#460#464#0" expanded="true" />
-            <element signature="e#466#470#0" expanded="true" />
-            <element signature="e#551#555#0" expanded="true" />
-            <element signature="e#557#561#0" expanded="true" />
-            <element signature="e#570#574#0" expanded="true" />
-            <element signature="e#577#581#0" expanded="true" />
-            <element signature="e#622#626#0" expanded="true" />
-            <element signature="e#628#632#0" expanded="true" />
-            <element signature="e#645#649#0" expanded="true" />
-            <element signature="e#652#656#0" expanded="true" />
-            <element signature="e#697#701#0" expanded="true" />
-            <element signature="e#703#707#0" expanded="true" />
-            <element signature="e#720#724#0" expanded="true" />
-            <element signature="e#727#731#0" expanded="true" />
-            <element signature="e#877#881#0" expanded="true" />
-            <element signature="e#882#886#0" expanded="true" />
-            <element signature="e#992#996#0" expanded="true" />
-            <element signature="e#997#1001#0" expanded="true" />
-            <element signature="e#1027#1031#0" expanded="true" />
-            <element signature="e#1033#1037#0" expanded="true" />
-            <element signature="e#1103#1107#0" expanded="true" />
-            <element signature="e#1108#1112#0" expanded="true" />
-            <element signature="e#1139#1143#0" expanded="true" />
-            <element signature="e#1145#1149#0" expanded="true" />
-            <element signature="e#1289#1293#0" expanded="true" />
-            <element signature="e#1296#1300#0" expanded="true" />
-            <element signature="e#1318#1322#0" expanded="true" />
-            <element signature="e#1326#1330#0" expanded="true" />
-            <element signature="e#1436#1440#0" expanded="true" />
-            <element signature="e#1473#1477#0" expanded="true" />
-            <element signature="e#1518#1524#0" expanded="true" />
-            <element signature="e#1524#1530#1" expanded="true" />
-            <element signature="e#1634#1638#0" expanded="true" />
-            <element signature="e#1642#1646#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/background.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-profile-pages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doge-picture.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-html.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runners-home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Paragraphs-and-Images-of-Text.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" column="70" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-profile-pages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doge-picture.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html-lists.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="27" column="64" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="70" />
-          <folding>
-            <element signature="e#313#319#0" expanded="true" />
-            <element signature="e#364#370#0" expanded="true" />
-            <element signature="e#513#519#0" expanded="true" />
-            <element signature="e#564#570#0" expanded="true" />
-            <element signature="e#661#667#0" expanded="true" />
-            <element signature="e#722#728#0" expanded="true" />
-            <element signature="e#837#843#0" expanded="true" />
-            <element signature="e#908#914#0" expanded="true" />
-            <element signature="e#1043#1049#0" expanded="true" />
-            <element signature="e#1152#1158#0" expanded="true" />
-            <element signature="e#1304#1310#0" expanded="true" />
-            <element signature="e#1355#1361#0" expanded="true" />
-            <element signature="e#1406#1412#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/background.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
+        <state relative-caret-position="69">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="e#396#402#0" expanded="true" />
+            <element signature="e#402#408#0" expanded="true" />
+            <element signature="e#451#457#0" expanded="true" />
+            <element signature="e#457#463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/background-of-powerpoint-slide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PowerPoint Slide.html">
+    <entry file="file://$PROJECT_DIR$/05.Power-point Slide.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        <state relative-caret-position="294">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
-            <element signature="e#428#432#0" expanded="true" />
-            <element signature="e#434#438#0" expanded="true" />
-            <element signature="e#445#452#0" expanded="true" />
-            <element signature="e#460#464#0" expanded="true" />
-            <element signature="e#466#470#0" expanded="true" />
-            <element signature="e#551#555#0" expanded="true" />
-            <element signature="e#557#561#0" expanded="true" />
-            <element signature="e#570#574#0" expanded="true" />
-            <element signature="e#577#581#0" expanded="true" />
-            <element signature="e#622#626#0" expanded="true" />
-            <element signature="e#628#632#0" expanded="true" />
-            <element signature="e#645#649#0" expanded="true" />
-            <element signature="e#652#656#0" expanded="true" />
-            <element signature="e#697#701#0" expanded="true" />
-            <element signature="e#703#707#0" expanded="true" />
-            <element signature="e#720#724#0" expanded="true" />
-            <element signature="e#727#731#0" expanded="true" />
-            <element signature="e#877#881#0" expanded="true" />
-            <element signature="e#882#886#0" expanded="true" />
-            <element signature="e#992#996#0" expanded="true" />
-            <element signature="e#997#1001#0" expanded="true" />
-            <element signature="e#1027#1031#0" expanded="true" />
-            <element signature="e#1033#1037#0" expanded="true" />
-            <element signature="e#1103#1107#0" expanded="true" />
-            <element signature="e#1108#1112#0" expanded="true" />
-            <element signature="e#1139#1143#0" expanded="true" />
-            <element signature="e#1145#1149#0" expanded="true" />
-            <element signature="e#1289#1293#0" expanded="true" />
-            <element signature="e#1296#1300#0" expanded="true" />
-            <element signature="e#1318#1322#0" expanded="true" />
-            <element signature="e#1326#1330#0" expanded="true" />
-            <element signature="e#1436#1440#0" expanded="true" />
-            <element signature="e#1473#1477#0" expanded="true" />
-            <element signature="e#1518#1524#0" expanded="true" />
-            <element signature="e#1524#1530#1" expanded="true" />
-            <element signature="e#1634#1638#0" expanded="true" />
-            <element signature="e#1642#1646#0" expanded="true" />
+            <element signature="e#393#397#0" expanded="true" />
+            <element signature="e#399#403#0" expanded="true" />
+            <element signature="e#1192#1196#0" expanded="true" />
+            <element signature="e#1272#1278#0" expanded="true" />
+            <element signature="e#1278#1284#0" expanded="true" />
+            <element signature="e#1337#1341#0" expanded="true" />
+            <element signature="e#1345#1349#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Friends.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/doge-background.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="93" selection-start-line="24" selection-start-column="93" selection-end-line="24" selection-end-column="93" />
+          <folding />
         </state>
       </provider>
     </entry>

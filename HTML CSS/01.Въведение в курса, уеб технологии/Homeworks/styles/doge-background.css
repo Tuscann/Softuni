@@ -1,3 +1,7 @@
 body {
     background-color: rgb(173, 216, 230);
 }
+.picture{
+    width: 155px;
+    height: 155px;
+}

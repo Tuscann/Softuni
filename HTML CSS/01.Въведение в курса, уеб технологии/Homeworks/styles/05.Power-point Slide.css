@@ -1,7 +1,15 @@
+body{
+    font-family: sans-serif;
+}
+
 #background-image {
     background-image: url("../pics/SoftUni background slide.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+
+}
+h2{
+    font-weight:normal ;
 }
 
 .yellow-symbols {
@@ -10,12 +18,14 @@
 
 span {
     color: white;
+    opacity: 0.94;
+    padding-top: 22px;
 }
+div dl dd span{
 
-.inner-span {
-    color: rgb(251, 238, 201);
+    color: #FBEEC9;
+    opacity: 0.8;
 }
-
 div {
     background-color: rgb(32, 32, 30);
     width: 90%;
@@ -24,7 +34,6 @@ div {
     padding: 5px;
     margin-left: 30px;
 }
-
 dd {
     -webkit-margin-start: 0px;
 }
@@ -34,4 +43,7 @@ dl {
     -webkit-margin-after: 0em;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
+    padding-left: -19px;
+
+
 }
