@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Form</title>
+    <link rel="stylesheet" href="./styles/reset.css">
+    <link rel="stylesheet" href="./styles/01.Simple%20Form.css">
+</head>
+<body>
+<div class="wrapper">
+    <div class="container">
+        <div class="col-md-12">
+            <h2 class="enter"><strong>Enter the system</strong></h2>
+            <p>It is necessary to login in Your account in order to sign in for a course</p>
+            <section class="contact-form">
+                <form action="" method="post" class="contact-form" role="form">
+                    <div class="col-md-4">
+                        <h5 class="formTitle"><span class="grey">Are new?</span> Register</h5>
+
+                        <label class="span4">
+                            <input type="text" name="username" class="form-control" placeholder="User name" required="required">
+                        </label>
+                        <label class="span4">
+                            <input type="email" name="email" class="form-control" placeholder="Email" required="required">
+                        </label>
+                        <label class="span4">
+                            <input type="password" name="password" class="form-control" placeholder="Password" required="required">
+                        </label>
+                        <label class="span4">
+                            <input type="password" name="confPassword" class="form-control" placeholder="Confirm Password" required="required">
+                        </label>
+                        <div class="buttonRow col-md-6 pull-right">
+                            <input type="submit" class="signUp2" value="Register">
+                        </div>
+                    </div>
+                </form>
+            </section><!-- END Register form -->
+
+            <div class="col-md-4 login-form">
+                <form action="" class="contact-form login">
+                    <h5 class="formTitle2"><span>Already a student? Login</span></h5>
+
+                    <label class="span4 username">
+                        <input type="text" name="uname" class="form-control" placeholder="User name" required="required">
+                    </label>
+                    <label class="span4 password">
+                        <input type="password" name="password" class="form-control" placeholder="Password" required="required">
+                    </label>
+                    <div class="rowForm moreSpace">
+                        <div class="pull-left">
+                            <div id="checkbox-login" class="checked">
+                                <input type="checkbox" id="login-checkbox">
+                                <label for="login-checkbox" class="chkBox">Remember me?</label>
+                            </div>
+                        </div>
+                        <div class="col-md-6 pull-right" id="submit">
+                            <input type="submit" class="btn btn-primary entry" value="Login">
+                            <a href="#">Forgot password</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
