@@ -22,22 +22,22 @@
     <favorites_list name="Web Fundamentals  -  HTML CSS" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="04.Website Header.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/04.Website Header.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="website-header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/miro/website-header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-200">
-              <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+            <state relative-caret-position="357">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04.Website Header.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/styles/04.Website Header.css">
+      <file leaf-file-name="07.Calculator.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/07.Calculator.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="956">
-              <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+            <state relative-caret-position="238">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -88,6 +88,13 @@
         <option value="$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/styles/03.Nested Tables.css" />
         <option value="$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/04.Website Header.html" />
         <option value="$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/styles/04.Website Header.css" />
+        <option value="$USER_HOME$/Desktop/SoftUni-Work-master/HTML-CSS/02.Tables/02-HTML-Tables/styles/04-styles.css" />
+        <option value="$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/styles/05.Life in SoftUni.css" />
+        <option value="$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/05.Life in SoftUni.html" />
+        <option value="$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/styles/06.Life in SoftUni Keyboard.html" />
+        <option value="$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/06.Life in SoftUni Keyboard.html" />
+        <option value="$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/styles/06.Life in SoftUni Keyboard.css" />
+        <option value="$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/07.Calculator.html" />
       </list>
     </option>
   </component>
@@ -98,9 +105,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="44" />
-    <option name="width" value="1356" />
-    <option name="height" value="1036" />
+    <option name="x" value="-4" />
+    <option name="y" value="40" />
+    <option name="width" value="1928" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -127,7 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -160,79 +168,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02.HTML Таблици" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Homework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02.HTML Таблици" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Homework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Homework HTML-Tables" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML CSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02.HTML Таблици" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Homework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Homework HTML-Tables" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
@@ -246,6 +188,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Softuni\HTML CSS\02.HTML Таблици\Homework\Homework HTML-Tables" />
       <recent name="E:\Softuni\HTML CSS\02.HTML Таблици\Homework\04.JavaSript Worship" />
       <recent name="C:\Users\123\Desktop\Sofuni\HTML CSS\03.Основи на CSS\Homework" />
       <recent name="C:\Users\123\Desktop\Sofuni\Web Fundamentals  -  HTML CSS\" />
@@ -369,18 +312,20 @@
       <workItem from="1472985985446" duration="13060000" />
       <workItem from="1473145282475" duration="600000" />
       <workItem from="1473496127029" duration="1033000" />
-      <workItem from="1473497713085" duration="15111000" />
+      <workItem from="1473497713085" duration="16755000" />
+      <workItem from="1473515917795" duration="184000" />
+      <workItem from="1473516173269" duration="3633000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106793000" />
+    <option name="totallyTimeSpent" value="112254000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="44" width="1356" height="1036" extended-state="0" />
-    <editor active="true" />
+    <frame x="-4" y="40" width="1928" height="1044" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16913946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10364583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -426,35 +371,9 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/01.World Cup Brazil.html" />
     <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/01.World Cup Brazil.css" />
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Calculator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/01.World Cup Brazil.html" />
-    <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/01.World Cup Brazil.css" />
-    <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/01.World Cup Brazil.html" />
-    <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/01.World Cup Brazil.css" />
-    <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/01.World Cup Brazil.html" />
-    <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/01.World Cup Brazil.css" />
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Website Header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Website Header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Website Header.html" />
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Website Header.html" />
     <entry file="file://$PROJECT_DIR$/Website Header.html" />
     <entry file="file://$PROJECT_DIR$/Life in SoftUni.html" />
     <entry file="file://$PROJECT_DIR$/Website Header.html" />
@@ -463,20 +382,8 @@
     <entry file="file://$PROJECT_DIR$/Life in SoftUni.html" />
     <entry file="file://$PROJECT_DIR$/Website Header.html" />
     <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Website Header.html" />
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Еxam Results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Website Header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Еxam Results.html" />
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Website Header.html" />
     <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Execise/css-overview.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -487,13 +394,7 @@
     <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/01.World Cup Brazil.css" />
     <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/01.World Cup Brazil.html" />
     <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/ColorKitchen.html" />
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Calculator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Calculator.html" />
     <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/01.World Cup Brazil/01.World Cup Brazil.html" />
     <entry file="file://$PROJECT_DIR$/03.Основи на CSS/Homework/03.SoftUni Student Before exam/03.SoftUni Student Before exam.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -535,87 +436,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="74" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/02.My Car Resources/Some other Semantic Tag.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/03.Kent-s Profile Resources/Kent’s Media Profile.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="854">
-          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/03.Kent-s Profile Resources/Kent’s Media Profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="79" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/04.JavaSript Worship/JavaScript Worship.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/04.JavaSript Worship/JavaScript Worship.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/04.JavaSript Worship/Canvas and JavaScript.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/Calculator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/02.My Car Resources/Some Other Semantic Tags.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/01.Simple Table/Simple Table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/02.My Car Resources/Some other Semantic Tag.css" />
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/03.Kent-s Profile Resources/Kent’s Media Profile.css" />
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/03.Kent-s Profile Resources/Kent’s Media Profile.html" />
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/04.JavaSript Worship/JavaScript Worship.html" />
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/04.JavaSript Worship/JavaScript Worship.css" />
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/04.JavaSript Worship/Canvas and JavaScript.html" />
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/Calculator.html" />
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/02.My Car Resources/Some Other Semantic Tags.html" />
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/01.Simple Table/Simple Table.html" />
     <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/styles/01.Simple Table.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,7 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="65" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,7 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,15 +487,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/styles/04.Website Header.css">
+    <entry file="file://$USER_HOME$/Desktop/SoftUni-Work-master/HTML-CSS/02.Tables/02-HTML-Tables/styles/04-styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="956">
-          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="2074">
+          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -671,6 +501,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-200">
           <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/styles/04.Website Header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="956">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/05.Life in SoftUni.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/styles/05.Life in SoftUni.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/miro/life-in-softuni-keyboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/styles/06.Life in SoftUni Keyboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/06.Life in SoftUni Keyboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/miro/website-header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HTML Таблици/Homework/Homework HTML-Tables/07.Calculator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>

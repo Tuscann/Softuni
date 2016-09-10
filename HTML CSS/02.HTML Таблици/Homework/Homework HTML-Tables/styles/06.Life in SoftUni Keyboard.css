@@ -1,0 +1,77 @@
+body {
+    font-family: Tahoma;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+table, th, tr, td {
+    border: solid;
+    border-width: 1px;
+}
+
+table td, table th {
+    height: 100px;
+    width: 100px;
+}
+
+table td table {
+    border: none;
+}
+
+table td table td {
+    height: 45px;
+    border: none;
+}
+
+table td table td button {
+    height: 45px;
+}
+
+button{
+    color: blue;
+}
+
+table th button {
+    width: 410px;
+    height: 95px;
+    font-size: 28px;
+    font-weight: bold;
+
+}
+
+table th button:hover {
+    font-size: 30px;
+}
+button:hover {
+    font-size:20px;
+    cursor:pointer;
+}
+.small button:hover {
+    font-size:18px;
+}
+#beer button:hover {
+    font-size: 27px;
+}
+
+button {
+    width: 95px;
+    height: 95px;
+    font-size: 18px;
+}
+
+#game button, #google button, #github button {
+    width: 195px;
+}
+
+#beer button {
+    width: 305px;
+    text-align: right;
+    font-size: 25px;
+}
+.small button {
+    font-size: 12px;
+}
+
