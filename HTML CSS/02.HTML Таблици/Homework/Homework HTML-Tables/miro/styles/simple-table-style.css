@@ -1,0 +1,11 @@
+a:hover {
+    cursor: pointer;
+}
+
+#size-of-table {
+    width: 30%;
+}
+
+table {
+    font-family: Arial;
+}

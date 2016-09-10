@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Sliders and Spinboxes</title>
+	<style>
+		#sliderColorDiv, #spinboxColorDiv {
+			width:200px;
+			height:200px;
+			background-color:#000
+		}
+		fieldset {
+			width: 200px;
+			height: 350px;
+			display: inline;
+		}
+		fieldset span {
+			width: 50px;
+			display: inline-block;
+		}
+	</style>
+	
+	<script>
+		 function changeColor(type){
+			var redValue = document.getElementById(type+"Red").value;
+			var greenValue = document.getElementById(type+"Green").value;
+			var blueValue = document.getElementById(type+"Blue").value;
+			var redInHex = parseInt(redValue).toString(16).toUpperCase();
+			if (redInHex.length == 1) {
+				redInHex = "0" + redInHex;
+			}
+			var greenInHex = parseInt(greenValue).toString(16).toUpperCase();
+			if (greenInHex.length == 1) {
+				greenInHex = "0" + greenInHex;
+			}
+			var blueInHex = parseInt(blueValue).toString(16).toUpperCase();
+			if (blueInHex.length == 1) {
+				blueInHex = "0" + blueInHex;
+			}
+			
+			var newColor = "#" + redInHex + greenInHex + blueInHex;
+			var colorDivElement = type + "ColorDiv";
+			var colorDiv = document.getElementById(colorDivElement);
+			
+			colorDiv.style.backgroundColor = newColor;
+			
+			var colorValuesDiv = document.getElementById(type + "ColorValueDiv");
+			colorValuesDiv.innerText=newColor;
+		 }
+	</script>
+</head>
+
+<body>
+	<form method="get" action="#">
+		<fieldset>
+			<legend>Sliders</legend>
+			<span>Red:</span><input id="sliderRed" type="range" min="0" max="255" value="0" onchange="changeColor('slider')"/>
+			<br/>
+			<span>Green:</span><input id="sliderGreen" type="range" min="0" max="255" value="0" onchange="changeColor('slider')"/>
+			<br/>
+			<span>Blue:</span><input id="sliderBlue" type="range" min="0" max="255" value="0" onchange="changeColor('slider')"/>		
+			<br/>
+			<div id="sliderColorValueDiv">#000000</div>
+			<div id="sliderColorDiv"></div>
+		</fieldset>
+		
+		<fieldset>
+			<legend>Spinboxes</legend>	
+			<span>Red:</span><input id="spinboxRed" type="number" min="0" max="255" value="0" onchange="changeColor('spinbox')"/>
+			<br/>
+			<span>Green:</span><input id="spinboxGreen" type="number" min="0" max="255" value="0" onchange="changeColor('spinbox')"/>
+			<br/>
+			<span>Blue:</span><input id="spinboxBlue" type="number" min="0" max="255" value="0" onchange="changeColor('spinbox')"/>		
+			<br/>
+			<div id="spinboxColorValueDiv">#000000</div>
+			<div id="spinboxColorDiv"></div>
+		</fieldset>
+	</form>
+</body>
+
+</html>

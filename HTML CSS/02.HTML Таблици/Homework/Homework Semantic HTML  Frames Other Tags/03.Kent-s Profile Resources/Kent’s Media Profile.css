@@ -1,0 +1,55 @@
+*{
+    position: relative;
+}
+#BigDiv{
+    border-radius: 10px;
+    top: 100px;
+    left: 250px;
+    border: 1px solid;
+    width: 940px;
+    height: 320px;
+    background-color: pink;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+}
+#KenProfile{
+    float: left;
+    width: 250px;
+    height: 250px;
+    top: -25px;
+}
+span{
+    font-size: 18px;
+    left: 10px;
+}
+#KenPicture{
+    width: 220px;
+    left: 10px;
+}
+meter{
+    left: 10px;
+    width: 165px;
+}
+#AudioFiles{
+    float: left;
+    width: 300px;
+    height: 200px;
+    top: -25px;
+}
+#AudioPicture{
+    width: 302px;
+    height: 140px;
+}
+#VideoDiv{
+    float: left;
+    width: 350px;
+    height: 230px;
+    top: -25px;
+    left: 20px;
+}
+#Video{
+    width: 350px;
+    height: 222px;
+}

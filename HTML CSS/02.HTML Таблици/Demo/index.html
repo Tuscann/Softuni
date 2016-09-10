@@ -1,0 +1,133 @@
+<!-- Positioning - x -->
+<!-- Music Video -->
+<!-- YouTube iFrame - x -->
+<!-- Responsive -->
+<!-- JS - jQuery - x -->
+
+<!doctype>
+<html>
+<head>
+	<title>Car feed site</title>
+	<meta charset="UTF-8" />
+	<link rel="stylesheet" type="text/css" href="css/reset.css" />
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			setInterval(function(){
+				if(!isElementVisible($('#site-header'))){
+					$('.show-on-scroll').show();
+				}
+				else{
+					$('.show-on-scroll').hide()	;
+				}
+			}, 100);
+		});
+
+		function isElementVisible(elementToBeChecked)
+		{
+		    var TopView = $(window).scrollTop();
+		    var BotView = TopView + $(window).height();
+		    var TopElement = $(elementToBeChecked).offset().top;
+		    var BotElement = TopElement + $(elementToBeChecked).height();
+		    return ((BotElement <= BotView) && (TopElement >= TopView));
+		}
+	</script>
+</head>
+<body>
+	<div id="wrapper">
+		<header id="site-header">
+			<img src="img/site-logo.png" />
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#" class="selected">Cars</a></li>
+				<li><a href="#">Trucks</a></li>
+				<li><a href="#">Motorbikes</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+		</header>
+		<header class="show-on-scroll" style="display: none;">
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#" class="selected">Cars</a></li>
+				<li><a href="#">Trucks</a></li>
+				<li><a href="#">Motorbikes</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+		</header>
+		<main>
+			<section id="vip">
+				<article id="1" class="car-ad">
+					<header><h3>Lada Niva</h3></header>
+					<section>
+						<img src="img/lada-niva.jpg" />
+						<details>
+							КАТО НОВА. ГАС. НОВ ВНОЗ. УНИКАТ.
+						</details>
+					</section>
+					<footer>3200,00лв.</footer>
+				</article>
+				<article id="2" class="car-ad">
+					<header><h3>Lada Niva</h3></header>
+					<section>
+						<img src="img/lada-niva.jpg" />
+						<details>
+							КАТО НОВА. ГАС. НОВ ВНОЗ. УНИКАТ.
+						</details>
+					</section>
+					<footer>2200,00лв.</footer>
+				</article>
+				<article id="3" class="car-ad">
+					<header><h3>Lada Niva</h3></header>
+					<section>
+						<img src="img/lada-niva.jpg" />
+						<details>
+							КАТО НОВА. ГАС. НОВ ВНОЗ. УНИКАТ.
+						</details>
+					</section>
+					<footer>2300,00лв.</footer>
+				</article>
+				<article id="4" class="car-ad">
+					<header><h3>Lada Niva</h3></header>
+					<section>
+						<img src="img/lada-niva.jpg" />
+						<details>
+							КАТО НОВА. ГАС. НОВ ВНОЗ. УНИКАТ.
+						</details>
+					</section>
+					<footer>2400,00лв.</footer>
+				</article>
+				<article id="5" class="car-ad">
+					<header><h3>Lada Niva</h3></header>
+					<section>
+						<img src="img/lada-niva.jpg" />
+						<details>
+							КАТО НОВА. ГАС. НОВ ВНОЗ. УНИКАТ.
+						</details>
+					</section>
+					<footer>2500,00лв.</footer>
+				</article>	
+				<article id="6" class="car-ad">
+					<header><h3>Lada Niva</h3></header>
+					<section>
+						<img src="img/lada-niva.jpg" />
+						<details>
+							КАТО НОВА. ГАС. НОВ ВНОЗ. УНИКАТ.
+						</details>
+					</section>
+					<footer>2500,00лв.</footer>
+				</article>	
+			</section>
+			<section id="regular">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/ixb98LN3RaU" frameborder="0" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/ixb98LN3RaU" frameborder="0" allowfullscreen></iframe>
+		</main>
+		<footer>
+
+		</footer>
+	</div>
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Website Header</title>
+    <link rel="stylesheet" href="./styles/04.Website%20Header.css">
+    <script>
+
+        /* When the user clicks on the button,
+         toggle between hiding and showing the dropdown content */
+        function myFunction() {
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+        function myFunction1() {
+            document.getElementById("myDropdown1").classList.toggle("show");
+        }
+        // Close the dropdown menu if the user clicks outside of it
+        window.onclick = function (event) {
+            if (!event.target.matches('.dropbtn')) {
+
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                var i;
+                for (i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')) {
+                        openDropdown.classList.remove('show');
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<body>
+<div class="left-panel">
+    <td><a href="https://softuni.bg/" target="_blank"><img src="./images/SoftuniLogo.jpg" alt="logo"></a></td>
+</div>
+<div class="right-panel">
+    <td><a href="https://softuni.bg/" target="_blank">SOFTUNI</a></td>
+    <td class="arrow-down">
+        <div class="dropdown">
+            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">TRAININGS
+                <span class="caret"></span></button>
+            <ul class="dropdown-menu">
+                <li><a href="https://www.google.bg" target="_blank">\GUGEL\</a></li>
+                <li><a href="https://www.kaldata.com/IT-%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/" target="_blank">Kaldata.com</a>
+                </li>
+                <li><a href="http://www.moreto.net/novini.php" target="_blank">Moreto.net</a></li>
+                <li><a href="http://www.abv.bg" target="_blank">Abv.bg</a></li>
+            </ul>
+        </div>
+    </td>
+    <td>
+        <div class="dropdown">
+            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">PARTNERS
+                <span class="caret"></span></button>
+            <ul class="dropdown-menu">
+                <li><a href="http://www.sportal.bg/news_category.php?category=4" target="_blank">Sportal.bg</a></li>
+                <li><a href="http://www.vbox7.com/" target="_blank">Vbox7</a></li>
+                <li><a href="http://www.dir.bg/" target="_blank">Dir.bg</a></li>
+                <li><a href="http://www.vesti.bg/" target="_blank">Vesti.bg</a></li>
+            </ul>
+        </div>
+    </td>
+    <td>
+        <div class="dropdown">
+            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">PARTNERS
+                <span class="caret"></span></button>
+            <ul class="dropdown-menu">
+                <li><a href="#">HTML</a></li>
+                <li><a href="#">CSS</a></li>
+                <li><a href="#">JavaScript</a></li>
+            </ul>
+        </div>
+    <td><a href="https://softuni.bg/forum" target="_blank">FORUM</a></td>
+    <td><a href="https://softuni.bg/contacts" target="_blank">COTACTS</a></td>
+    <td><a href="">Search</a></td>
+    <td><a href="https://softuni.bg/users/profile/show" target="_blank"><img src="./images/profile%20picture.jpg"
+                                                                             alt="logo" height="50" width="50"></a>
+    </td>
+    </tr>
+</div>
+</body>
+</html>

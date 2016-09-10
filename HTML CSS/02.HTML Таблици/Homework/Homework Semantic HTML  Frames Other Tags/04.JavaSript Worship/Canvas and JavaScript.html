@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>JavaScript Worship</title>
+    <link href='http://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
+    <style>
+        canvas{
+            border: 5px dotted red;
+        }
+    </style>
+</head>
+<body>
+
+<div id="container">
+    <canvas id="js-logo" width="250" height="300"></canvas>
+</div>
+
+<script>
+    window.onload = function(){
+        var container = document.getElementById("js-logo");
+        var ctx = container.getContext('2d');
+        ctx.beginPath();
+        ctx.font = "36px Georgie";
+        ctx.fillText("I love JavaScipt", 12, 60);
+        ctx.fillStyle = 'rgb(241,218,78)';
+        ctx.fillRect(50,100, 150, 150);
+        ctx.font = "100px Oswald";
+        ctx.fillStyle = 'black';
+        ctx.fillText("JS", 100, 235);
+    }
+</script>
+
+</body>
+</html>

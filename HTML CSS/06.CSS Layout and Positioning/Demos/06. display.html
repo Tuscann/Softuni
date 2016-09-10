@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Display Inline / Block - CSS Layout</title>
+	<style>
+		.inline {
+			display: inline;
+		}
+
+		.block {
+			display: block;
+		}
+
+		.none {
+			display: none;
+		}
+
+		.inline-block {
+			display: inline-block;
+		}
+
+		div {
+			background-color: #add8e6;
+		}
+
+		span {
+			background-color: #a020ae;
+		}
+
+		header nav ul li{
+			display: inline-block;
+			height: 20px;
+			width: 100px;
+			background-color: #add8e6;
+			padding: 5px;
+			text-align: center;
+		}
+
+		header nav ul li:nth-of-type(2n+1)
+		{								  
+			background-color: #13b44c;
+		}
+		
+		.box {
+			display: block;
+			width: 250px;
+			height: 250px;
+			border: 1px solid #2929d3;
+			background-color: #add8e6;
+			text-align: center;
+			line-height: 250px;
+		}
+	</style>
+</head>
+
+<body>
+	<header>
+		<nav>
+			This is an "inline-block" menu:
+			<ul>
+				<li><a href="#">Nav Item</a></li>
+				<li><a href="#">Nav Item</a></li>
+				<li><a href="#">Nav Item</a></li>
+				<li><a href="#">Nav Item</a></li>
+				<li><a href="#">Nav Item</a></li>
+				<li><a href="#">Nav Item</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<section>
+		<div>Normal div</div>
+		<br />
+		This is a <div class="inline">Div with display <strong>inline</strong></div>. It stays inlined.
+		<br /> <br />
+		This is a <span>Normal span</span>. It is shown inline.
+		<br /> <br />
+		<span class="block">Span with display <strong>block</strong></span>
+		<br />
+		<div class="box">text in a box</div>
+	</section>
+</body>
+
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en" xml:lang="en">
+
+<head>
+	<title>HTML 5 Form Validation</title>
+</head>
+
+<body>
+	<form method="get">
+		<fieldset>
+			<legend>Personal Info</legend>
+			
+			<label for="telInput">Telephone Number:</label>
+			<input id="telInput" 
+				type="tel" 
+				required="true" 
+				pattern="\+[0-9]{3}\-[0-9]{3}\-[0-9]{2}\-[0-9]{2}\-[0-9]{2}"
+				placeholder="+359-888-88-88-88"
+				title="Please use the format: +359-888-88-88-88" />
+			<br/>
+			<label for="urlInput">Your Web Site:</label>
+			<input id="urlInput"
+				type="url" 
+				required="true" 
+				placeholder="http://sample.com"
+				title="Please use the format: http://someurl" />
+			<br/>	
+			<label for="emailInput">Your email:</label>
+			<input id="emailInput" 
+				type="email" 
+				required="true" 
+				pattern="[a-zA-Z0-9_]{3,}@[a-zA-Z0-9_]{3,}.[a-zA-Z0-9_]{2,4}"
+				placeholder="sample@email.com"
+				title="Please enter a valid email address" />
+			<br/>
+			<input type="submit" value="submit"/>
+		</fieldset>
+	</form>
+</body>
+
+</html>

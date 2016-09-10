@@ -1,0 +1,33 @@
+.wrpapper{
+    border-width:5px;
+    border-style:dotted;
+    border-color:red ;
+    height: 400px;
+    width: 400px;
+    text-align:center;
+    font-size: 25px;
+}
+.JS{
+    background:rgb(241,218,78);
+    height: 200px;
+    width: 200px;
+    vertical-align: middle;
+    font-weight: bold;
+    margin-left: 100px;
+    text-combine-downright: all;
+    position: relative;
+
+}
+.JS p{
+    position:absolute;
+    bottom:0;
+    right:0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 121px;
+}
+.ivan{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 52px;
+}

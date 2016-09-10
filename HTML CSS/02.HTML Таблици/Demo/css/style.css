@@ -1,0 +1,88 @@
+body{
+	margin: 20px 0px;
+	font-size: 29px;
+}
+
+a,
+a:active,
+a:visited {
+	color: #000;
+	text-decoration: none;
+	transition: 2s;
+	border-radius: 4px;
+	padding:5px;
+}
+
+a:hover{
+	color: #F53103;
+	background: rgba(255, 255, 0, 0.5);
+}
+
+#wrapper{
+	margin: 0 auto;
+	width: 960px;
+	background: #7B7A78;
+	padding: 10px;
+}
+
+header > img{
+	width:170px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+header {
+	background: url('../img/lada-header-bg.jpg'); 	
+	width: 960px;
+	height: 100px;
+}
+
+	header > ul {
+		float: right;
+		margin-top: 35px;
+		margin-right: 10px;
+	}
+
+		header > ul > li {
+			display: inline-block;
+		}
+
+			header > ul > li > a.selected {
+				color: yellow;
+			}
+
+
+
+article header{
+	background: none;
+	width:auto;
+	height:auto;
+}
+article.car-ad {
+	width: 250px;
+	margin: 5px 10px;
+	border: 2px solid yellow;
+	padding: 5px;
+	display: inline-block;
+}
+
+.car-ad header{
+	text-align: center;
+}
+
+.car-ad img{
+	width: 240px;
+	padding:5px;
+}
+
+.car-ad details{
+	font-size: 20px;
+}
+
+
+.show-on-scroll{
+	position:fixed;
+	top: 0;
+	
+}
