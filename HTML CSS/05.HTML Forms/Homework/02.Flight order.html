@@ -20,20 +20,16 @@
         </select></div>
         <br>
         <div class="italic">Departure Date</div>
-        <div><input type="date" value="2014-06-09"></div>
+        <div><input type="date"  value="2014-06-09"></div>
         <div class="italic">Return Date</div>
         <div><input type="date" value="2014-06-13"></div>
-        <div>
-            <span class="italic">12+</span>
-            <span class="italic">2-12</span>
-            <span class="italic">0-2</span>
-        </div>
-        <div class="row">
-            <td>
-                <input type="number" min="12" max="99" name="12" id="12+" class="small" value="0"/>
-                <input type="number" min="2" max="12" name="212" id="2-12" class="small" value="0"/>
-                <input type="number" max="2" min="0" name="02" id="0-2" class="small" value="0"/>
-            </td>
+        <div id="three-cols">
+            <label class="italic" for="12+">12+</label>
+            <input type="number" min="12" max="99" name="12" id="12+" class="small" value="0"/>
+            <label class="italic" for="2-12">2-12</label>
+            <input type="number" min="2" max="12" name="212" id="2-12" class="small" value="0"/>
+            <label class="italic" for="0-2">0-2</label>
+            <input type="number" max="2" min="0" name="02" id="0-2" class="small" value="0"/>
         </div>
     </div>
     <div class="right">
@@ -49,7 +45,8 @@
         <div><input type="checkbox" name="direct" value="1" id="direct" class="italic"/> Prefer directs</div>
         <div class="italic">Time Interval</div>
         <div>
-            <span><input type="date" value="09.06.2014" class="date_select" id="departure_date" required="required"></span>
+            <span><input type="date" value="09.06.2014" class="date_select" id="departure_date"
+                         required="required"></span>
             <span><input type="time" name="interval" value="05:00"></span>
         </div>
         <div class="italic"> Time Interval</div>
@@ -63,7 +60,7 @@
             <option value="bisuiness">Business</option>
             <option value="economy" selected="selected">Economy</option>
         </select></div>
-        <div><input type="submit" value="Search"></div>
+        <div><input class="search" type="submit" value="Search"></div>
     </div>
 </div>
 

@@ -1,0 +1,18 @@
+.container{
+    padding: 10px;
+}
+
+img{
+
+    width:334px;
+    height:69px;
+
+}
+#image{
+    vertical-align: middle;
+    width:20px;
+    height:18px;
+}
+.space{
+    margin-top: 10px;
+}

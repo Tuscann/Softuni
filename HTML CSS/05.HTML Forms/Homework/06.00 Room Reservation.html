@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Room Reservation</title>
+    <link rel="stylesheet" href="./styles/reset.css">
+    <link rel="stylesheet" href="./styles/06.Room%20Reservation.css">
+</head>
+<body>
+<div class="container">
+    <div class="header">Room Reservation</div>
+    <div class="basic">Basic Information</div>
+    <div class="search"><label>Search</label><input type="search"/>
+        <button></button>
+    </div>
+    <div class="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at nibh varius odio
+        sollicitudin blandit nec
+        eu elit. Suspendisse ac risus nunc, quis elementum lorem. Pellentesque vehicula egestas eros nec commodo.
+    </div>
+    <div class="border">
+        <div class="personal">Personal Details<input type="text" placeholder="First name"/>
+            <input type="text" placeholder="Last name"/>
+            <input type="email" placeholder="Email"/></div>
+        <div class="request">
+            <article>
+                <h2>Request a reservation</h2>
+                <div>
+                    <form class="a1">
+                        Select a room:<br>
+                        <select>
+                            <option>Room 1</option>
+                            <option>Room 2</option>
+                            <option selected="selected">Room 3</option>
+                        </select>
+                    </form>
+                    <form class="a2">
+                        Number of rooms:<br>
+                        <input type="number" min="0" max="10" value="1"/>
+                    </form>
+                </div>
+                <div>
+                    <form >
+                        Check-In:<br>
+                        <input  class="a3" type="date" id="date"/>
+                    </form>
+                    <form class="a4">
+                        Check-out:<br>
+                        <input type="date" id="dateout"/>
+                    </form>
+                </div>
+            </article>
+        </div>
+    </div>
+    <div>
+        <input class="book" type="submit" value="Book Now"/>
+    </div>
+</div>
+</body>
+</html>

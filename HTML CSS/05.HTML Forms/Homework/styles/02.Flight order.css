@@ -1,6 +1,6 @@
 .wrapper {
     background-color: pink;
-    width: 35em;
+    width: 32em;
     height: 25em;
     margin-left: 5em;
     margin-top: 5em;
@@ -20,18 +20,48 @@ div {
     margin: 0.2em;
 }
 
-.left {
+.left-text {
     float: left;
     width: 220px;
 }
 
-.right {
+.right-text {
     float: right;
 }
 
 .city {
     padding-right: 6em;
 }
-.italic{
+
+.italic {
     font-style: italic;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.leftt {
+    float: left;
+    width: 33%;
+    font-style: italic;
+}
+#three-cols{
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3; /* Other */
+    column-gap: 1px; /* Other */
+    -moz-column-gap: 1px; /* Firefox */
+    -webkit-column-gap: 1px; /* Safari and Chrome */
+    margin-left: 1px;
+}
+#three-cols input {
+    width: 75%
+}
+.search{
+
+    height: 35px;
+    width: 95%;
 }
