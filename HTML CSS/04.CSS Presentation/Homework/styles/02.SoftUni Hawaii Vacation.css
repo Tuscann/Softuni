@@ -1,0 +1,46 @@
+#wrapper {
+     position: absolute;
+     left: 50px;
+     top: 50px;
+     height: auto;
+     width: auto;
+     background: #0067db;
+}
+
+#situation {
+     position: absolute;
+     height: 600px;
+     width: 900px;
+     background-image: url(../resources/HawaiiBackground.png), radial-gradient(farthest-side at 180px 150px, lightyellow 100px, lightyellow 30px, #77bfec 50%, #2196f3 100%),
+     radial-gradient(closest-side, lightyellow 10%, lightyellow 50%, #77bfec 90%, #2196f3 100%);
+}
+
+#peoples {
+     display: inline-block;
+     height: 600px;
+     width: 900px;
+     position: absolute;
+     background-image: url(../resources/TediHula.png), url(../resources/PetiaHula.png), url(../resources/AlexHula.png),
+     url(../resources/VladoGHula.png), url(../resources/VladoKHula.png), url(../resources/NakovHula.png);
+     background-position: 261px 361px, 27.5% 86%, 490px 202px, 7% 90%, 669px 232px, 411px 158px;
+     background-repeat: no-repeat;
+}
+
+@font-face {
+     font-family: Animated;
+     src: url(../resources/Animated.ttf);
+}
+
+p {
+     display: block;
+     height: 48px;
+     width: auto;
+     font-family: Animated;
+     font-size: 48px;
+     float: right;
+     color: #fac822;
+     position: absolute;
+     right: 20px;
+     top: 20px;
+}
+
