@@ -1,0 +1,52 @@
+.container {
+
+    margin: 10px;
+    height: 200px;
+    width: 1000px;
+    background-color: darkgray;
+    font-family: Tahoma, "Helvetica", sans-serif;
+    font-size: 14px;
+}
+
+#green {
+    background-color: darkgreen;
+    height: 29px;
+    width: 200px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    padding: 12px;
+}
+
+.blue {
+    background-color: dodgerblue;
+    height: 29px;
+    width: 200px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    padding: 12px;
+}
+
+.header {
+    color: dodgerblue;
+    font-weight: bold;
+    padding-bottom: 7px;
+    padding-top: 12px;
+    /*padding-left: 84px;*/
+}
+
+.serch {
+    padding-bottom: 12px;
+        text-align: left;}
+
+div{float: left;
+    padding-left: 12px;
+}
+
+
+#business, #city, #ZIP, #country {
+    margin-left: 20px;
+    height: 26px;
+
+}
