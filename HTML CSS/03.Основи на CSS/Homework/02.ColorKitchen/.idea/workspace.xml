@@ -26,8 +26,8 @@
       <file leaf-file-name="ColorKitchen.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ColorKitchen.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="78" selection-start-line="0" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -143,6 +143,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="85875e45-56e4-49ca-af1a-d267ab854a67" name="Default" comment="" />
@@ -151,12 +154,12 @@
       <option name="presentableId" value="Default" />
       <updated>1473148376123</updated>
       <workItem from="1473148377296" duration="5049000" />
-      <workItem from="1473671232120" duration="271000" />
+      <workItem from="1473671232120" duration="308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5320000" />
+    <option name="totallyTimeSpent" value="5357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="40" width="1928" height="1044" extended-state="6" />
@@ -205,8 +208,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ColorKitchen.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="78" selection-start-line="0" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
           <folding />
         </state>
       </provider>
