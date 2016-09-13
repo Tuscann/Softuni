@@ -1,6 +1,6 @@
 .wrapper {
     background-color: pink;
-    width: 32em;
+    width: 35em;
     height: 25em;
     margin-left: 5em;
     margin-top: 5em;
@@ -22,7 +22,7 @@ div {
 
 .left-text {
     float: left;
-    width: 220px;
+    width: 200px;
 }
 
 .right-text {
