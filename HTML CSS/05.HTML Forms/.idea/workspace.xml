@@ -23,11 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="02.Flight order.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="02.Flight order.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework/02.Flight order.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="63" column="14" selection-start-line="34" selection-start-column="8" selection-end-line="63" selection-end-column="14" />
+            <state relative-caret-position="1071">
+              <caret line="63" column="10" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05.Laptop Choise.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework/05.Laptop Choise.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -36,9 +46,12 @@
       <file leaf-file-name="02.Flight order.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework/styles/02.Flight order.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="391">
               <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-              <folding />
+              <folding>
+                <marker date="1473797066633" expanded="true" signature="9:51" ph="{...}" />
+                <marker date="1473797066633" expanded="true" signature="370:376" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,7 +83,6 @@
         <option value="$PROJECT_DIR$/Homework/04.Fakebook Register Form.html" />
         <option value="$PROJECT_DIR$/Homework/styles/04.Fakebook Register Form.css" />
         <option value="$PROJECT_DIR$/Homework/styles/05.Laptop Choise.css" />
-        <option value="$PROJECT_DIR$/Homework/05.Laptop Choise.html" />
         <option value="$PROJECT_DIR$/Homework/06.Room Reservation.html" />
         <option value="$PROJECT_DIR$/Homework/styles/06.Room Reservation.css" />
         <option value="$PROJECT_DIR$/Homework/06.00 Room Reservation.html" />
@@ -78,6 +90,7 @@
         <option value="$PROJECT_DIR$/Homework/07.Search Job.html" />
         <option value="$PROJECT_DIR$/Homework/styles/02.Flight order.css" />
         <option value="$PROJECT_DIR$/Homework/02.Flight order.html" />
+        <option value="$PROJECT_DIR$/Homework/05.Laptop Choise.html" />
       </list>
     </option>
   </component>
@@ -89,9 +102,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
-    <option name="y" value="24" />
-    <option name="width" value="1374" />
-    <option name="height" value="748" />
+    <option name="y" value="40" />
+    <option name="width" value="1928" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -285,17 +298,18 @@
       <workItem from="1473569528442" duration="28823000" />
       <workItem from="1473657704114" duration="7049000" />
       <workItem from="1473764776078" duration="728000" />
+      <workItem from="1473799214071" duration="517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52771000" />
+    <option name="totallyTimeSpent" value="53288000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="24" width="1374" height="748" extended-state="6" />
+    <frame x="-4" y="40" width="1928" height="1044" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16059479" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16041666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -329,11 +343,29 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Homework/07.Search Job.html">
+    <entry file="file://$PROJECT_DIR$/Homework/02.Flight order.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/styles/02.Flight order.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <marker date="1473797066633" expanded="true" signature="9:51" ph="{...}" />
+            <marker date="1473797066633" expanded="true" signature="370:376" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/07.Search Job.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -400,13 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/05.Laptop Choise.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework/styles/05.Laptop Choise.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1526">
@@ -440,22 +465,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework/styles/02.Flight order.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="391">
           <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding />
+          <folding>
+            <marker date="1473797066633" expanded="true" signature="9:51" ph="{...}" />
+            <marker date="1473797066633" expanded="true" signature="370:376" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework/02.Flight order.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="63" column="14" selection-start-line="34" selection-start-column="8" selection-end-line="63" selection-end-column="14" />
+        <state relative-caret-position="1071">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/05.Laptop Choise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>
