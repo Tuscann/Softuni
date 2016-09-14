@@ -1,0 +1,119 @@
+.wraper {
+    margin-right: 100px;
+    width: 400px;
+    height: 710px;
+    background-image: url('../resources/formBackground.jpg');
+    font-family: Calibri;
+}
+
+.header {
+    color: white;
+    font-size: 16px;
+    margin-left: 20px;
+    padding-top: 12px;
+}
+
+div.name {
+    margin-left: 19px;
+    margin-right: 9px;
+    margin-top: 4px;
+    padding-right: 40px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 5px;
+    border: 0.5px solid white ;
+    color: Black;
+    background-color: rgba(255, 255, 255, 0.3);
+    text-align: left;
+    horiz-align: center;
+    vertical-align: middle;
+    height: 26px;
+    width: 80%;
+
+}
+
+.input {
+    padding-left: 5px;
+    font-size: 13px;
+    float: left;
+    vertical-align: middle;
+    margin-top: 5px;
+}
+
+.inside {
+    margin-right: 45px;
+    margin-top: 2px;
+    height: 18px;
+    padding-right: 39px;
+    border-radius: 2px;
+    border: solid white 1px;
+    float: right;
+    vertical-align: middle;
+    color: black;
+    font-size: 11px;
+}
+
+div.adress {
+    margin-left: 19px;
+    margin-top: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 5px;
+    border: solid white 0.5px;
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 90%;
+}
+.address-inside{
+    margin-left: 3.9em;
+    margin-top: 3px;
+    margin-bottom: 2px;
+    border-radius: 2px;
+    border: solid white 1px;
+    min-height: 65px;
+    width: 168px;
+    resize: vertical;
+    max-height: 185px;
+}
+
+div.border-cards {
+    padding: 5px;
+    padding-bottom: 0px;
+    margin-left: 18px;
+    margin-bottom: 1px;
+    width: 351px;
+    height: 50px;
+    border: 1px solid #C8D5E3;
+    border-radius: 5px;
+    background-color: rgba(255,255,255,0.3);
+
+}
+p{
+    padding-bottom: 2px;
+    font-size: 11px;
+}
+div.border-cards input {
+    display: inline-block;
+    width: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#but {
+    border: none;
+    color: white;
+    background-color: #04152F;
+    width: 90px;
+    height: 25px;
+    border-radius: 15px;
+    font-size: 0.8em;
+    margin-left: 35%;
+    margin-top: 15px;
+}
+#but:hover {
+    background-color: black;
+    color: greenyellow;
+    font-size: 0.6em;
+    font-weight: bolder;
+    border: 2px solid #4cff00;
+}

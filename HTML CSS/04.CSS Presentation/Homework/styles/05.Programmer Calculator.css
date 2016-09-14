@@ -1,0 +1,224 @@
+#wrapper {
+    height: 480px;
+    width: 550px;
+    background: #a3bdd8;
+    position: absolute;
+    padding: 3px;
+    left: 20px;
+    top: 20px;
+    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+/* Fist ROW */
+header {
+    height: 32px;
+    width: auto;
+    margin-bottom: 2px;
+}
+header p {
+    height: 32px;
+    position: absolute;
+    top: 12px;
+    left: 42px;
+}
+.pic {
+    background-image: url(../resources/calc-img.png);
+    background-size: 24px 32px;
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 24px;
+    margin-left: 10px;
+}
+.pic, p, body div header div {
+    display: inline-block;
+}
+body div header div:nth-of-type(2) {
+    position: absolute;
+    background-image: url(../resources/lastbtn.png);
+    background-size: 32px 20px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 32px;
+    background-color: #d2d9ec;
+    right: 8px;
+    top: 10px;
+}
+body div header div:nth-of-type(3) {
+    position: absolute;
+    background-image: url(../resources/secondbtn.png);
+    background-size: 32px 21px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 21px;
+    width: 32px;
+    background-color: #d2d9ec;
+    right: 41px;
+    top: 10px;
+}
+body div header div:nth-of-type(4) {
+    position: absolute;
+    background-image: url(../resources/firstbtn.png);
+    background-size: 32px 22px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 22px;
+    width: 32px;
+    background-color: #d2d9ec;
+    right: 76px;
+    top: 10px;
+}
+/* Second ROW */
+.toolbar {
+    height: 24px;
+    width: auto;
+    padding: 0 5px 0 5px;
+    margin: 0 5px 0 5px;
+    background: #d2d9ec;
+    border-bottom: 1px solid lightgrey;
+}
+.toolbar p {
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 18px;
+    margin-top: 5px;
+
+}
+/* MAIN CONTAINER */
+main {
+    display: inline-block;
+    height: 415px;
+    width: 540px;
+    background: #dae4f0;
+    margin-left: 5px;
+    margin-top: 1px;
+    color: navy;
+}
+/* FIRST IN-CONTEINER */
+main div:nth-of-type(1) {
+    position: absolute;
+    height: 60px;
+    width: 521px;
+    margin: 10px;
+    border: 1px solid grey;
+    background: #c1d5e7;
+    background: -moz-linear-gradient(top,  #c1d5e7 0%, #ebf5fd 100%);
+    background: -webkit-linear-gradient(top,  #c1d5e7 0%,#ebf5fd 100%);
+    background: linear-gradient(to bottom,  #c1d5e7 0%,#ebf5fd 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c1d5e7', endColorstr='#ebf5fd',GradientType=0 );
+    border-radius: 2px;
+    margin-left: 12px;
+}
+select {
+    -webkit-appearance:none;
+    height:100%;
+    width:100%;
+    border: none;
+    font-size: 40px;
+    position: relative;
+    text-align: right;
+    background: none;
+    right: 5px;
+}
+main div:nth-of-type(2) {
+    position: relative;
+    top: 70px;
+    height: 80px;
+    width: 521px;
+    margin: 5px;
+    border: 1px solid grey;
+    border-radius: 2px;
+    padding-bottom: 5px;
+    margin-left: 12px;
+}
+/* SECOD IN-CONTEINER */
+main div table {
+    height: auto;
+    width: auto;
+    margin-top: 5px;
+}
+
+main div table tr td {
+    height: 20px;
+    width: 50px;
+    padding-left: 17px;
+
+}
+main div table tr td:nth-of-type(1) {
+    padding-left: 8px;
+}
+/* ASIDE CONTEINERS */
+
+main div:nth-of-type(3), main div:nth-of-type(4) {
+    position: relative;
+    height: 109px;
+    width: 85px;
+    border: 1px solid grey;
+    margin-left: 12px;
+    margin-bottom: 5px;
+    top: 72px;
+}
+main div:nth-of-type(3) input, main div:nth-of-type(4) input {
+
+    margin: 10px 5px 3px 5px;
+}
+/* Main BUTTONS */
+
+section {
+    position: absolute;
+    width: 440px;
+    height: 240px;
+    /*border: 1px solid green;*/
+    left: 111px;
+    bottom: 20px;
+}
+button {
+    height: 33px;
+    width: 48.4px;
+    border-radius: 3px;
+    background: #dae4f0;
+    margin: 5.5px 2px 0 0;
+    padding: 0;
+    border: 1px solid grey;
+    font-size: 12px;
+}
+.high1 {
+    height: 71px;
+    width: 48.4px;
+}
+.long1 {
+    height: 33px;
+    width: 103.8px;
+}
+.one {
+    position: relative;
+    bottom: 20px;
+
+}
+.two {
+    position: relative;
+    bottom: 40px;
+    margin-top: 7px;
+}
+button:hover {
+    cursor: pointer;
+    background: lightgrey;
+}
+button {
+    font-size: 16px;
+}
+button:nth-child(3), button:nth-child(8), button:nth-child(12), button:nth-child(17),
+button:nth-child(21), button:nth-child(26), button:nth-child(30), button:nth-child(35),
+button:nth-child(39), button:nth-child(48), button:nth-child(50) {
+    border:1px solid grey;
+    opacity: 0.5;
+}
+button:nth-child(22),button:nth-child(23),button:nth-child(24),button:nth-child(31),
+button:nth-child(32),button:nth-child(33),button:nth-child(40),button:nth-child(41)
+,button:nth-child(42),button:nth-child(49) {
+
+    background: #e6edf5;
+
+
+}
+
+
