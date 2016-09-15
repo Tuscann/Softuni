@@ -7,7 +7,7 @@ body {
 #container {
     margin: 0 auto;
     width: 860px;
-    height: 700px;
+    height: 600px;
     background-color: #3B5997;
 }
 
@@ -24,11 +24,11 @@ fieldset {
     height: 100%;
 }
 
-h1, h3, h4, label, legend {
+h1, h3, h5, label, legend {
     color: white;
 }
 
-h1, h3, h4, legend {
+h1, h3, h5, legend {
     font-weight: bold;
     text-align: center;
 }
@@ -42,12 +42,12 @@ h1 {
     font-size: 8rem;
 }
 
-h3, h4 {
+h3, h5 {
     margin: 10px;
 }
 
-h4 {
-    font-size: 1.3rem;
+h5 {
+    font-size: 1.1rem;
 }
 
 legend {
@@ -62,8 +62,6 @@ input, textarea {
 input {
     width: 150px;
     height: 25px;
-    margin-left: 2px;
-    margin-right: 2px;
 }
 
 textarea {
@@ -128,6 +126,6 @@ tr:nth-child(2) td {
     height: 35px;
 }
 
-/*td {*/
-    /*vertical-align: middle;*/
-/*}*/
+td {
+    vertical-align: middle;
+}
