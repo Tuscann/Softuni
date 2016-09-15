@@ -7,7 +7,7 @@ body {
 #container {
     margin: 0 auto;
     width: 860px;
-    height: 600px;
+    height: 700px;
     background-color: #3B5997;
 }
 
@@ -126,6 +126,6 @@ tr:nth-child(2) td {
     height: 35px;
 }
 
-td {
-    vertical-align: middle;
-}
+/*td {*/
+    /*vertical-align: middle;*/
+/*}*/

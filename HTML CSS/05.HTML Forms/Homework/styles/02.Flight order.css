@@ -1,68 +1,82 @@
-.wrapper {
-    background-color: pink;
-    width: 55em;
-    height: 25em;
-    margin-left: 5em;
-    margin-top: 5em;
-    font-family: Tahoma;
+body {
+
+    font-family: Tahoma, sans-serif;
 }
 
-.first {
-    font-size: 2em;
+form {
+    background-color: #FFC0CB;
+    width: 360px;
+    height: 260px;
+}
+
+form header {
+    font-style: italic;
+    text-transform: uppercase;
     text-align: center;
-    padding-top: 0.8em;
-    padding-bottom: 0.8em;
-    font-weight: bold;
-    font-style: italic;
+    margin-bottom: -25px;
 }
 
-div {
-    margin: 0.2em;
-}
-
-.left-text {
+form section {
+    width: 49%;
     float: left;
-    width: 150px;
+    display: inline-block;
+    margin-left: 3px;
 }
 
-.right-text {
-    float: right;
-    width: 45%;
-}
-
-.city {
-    padding-right: 6em;
-}
-
-.italic {
+form label, p {
+    font-size: 70%;
     font-style: italic;
+    margin-left: 3px;
 }
 
-.container {
-    width: 100%;
-    text-align: center;
-    vertical-align: middle;
+input#depart-date {
+    padding-right: 22px;
 }
 
-.leftt {
-    float: left;
-    width: 33%;
-    font-style: italic;
+
+input#return-date {
+    padding-right: 22px;
 }
-#three-cols{
+
+#from {
+    margin-bottom: 18px;
+    padding-right: 76px;
+}
+
+#to {
+    padding-right: 78px;
+}
+
+#directs-checkbox {
+    margin-top: 2px;
+    margin-bottom: -3px;
+}
+
+#clas {
+    height: 22px;
+    width: 95%;
+}
+
+#search {
+    margin-top: 5px;
+    height: 26px;
+    width: 95%;
+}
+
+.time input {
+    width: 43%;
+}
+
+#three-cols {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3; /* Other */
-    column-gap: 1px; /* Other */
-    -moz-column-gap: 1px; /* Firefox */
-    -webkit-column-gap: 1px; /* Safari and Chrome */
-    margin-left: 1px;
+    column-gap: 2px; /* Other */
+    -moz-column-gap: 2px; /* Firefox */
+    -webkit-column-gap: 2px; /* Safari and Chrome */
+    margin-left: 2px;
 }
+
 #three-cols input {
     width: 75%
-}
-.search{
-
-    height: 35px;
-    width: 95%;
 }

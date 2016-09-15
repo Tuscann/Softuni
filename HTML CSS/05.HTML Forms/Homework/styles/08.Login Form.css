@@ -1,0 +1,32 @@
+body{
+    background-image:url("../pictures/backgroundImage.jpg");
+    background-repeat:no-repeat;
+}
+
+
+.container{
+    height: 800px;
+    width: 1200px;
+    padding: 30px;
+    /*background-color: red;*/
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 383px;
+}
+h1{
+    color: white;
+    border-bottom: solid orange 1px;
+    height: 30px;
+    padding-top: 90px;
+    padding-bottom: 23px;
+    font-size: 50px;
+}
+.left{
+    float: left;
+    color: yellow;
+    background-color: rgba(255, 0, 0, 0.5);
+}
+.right{
+    float: right;
+    color: yellow;
+}

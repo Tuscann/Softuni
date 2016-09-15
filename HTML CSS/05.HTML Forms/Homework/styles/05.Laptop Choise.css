@@ -1,22 +1,24 @@
-body{
+body {
     background-color: beige;
 }
-.container{
-    margin: 5ex;
-    background-color: white;
-    width: 58em;
-    height: 28em;
-    text-align: center;
 
+.container {
+    margin: 2ex;
+    background-color: white;
+    width: 57em;
+    height: 29em;
+    text-align: center;
 }
-.leftt{
+
+.leftt {
     width: 74%;
     float: left;
     height: 100%;
     padding: 6px;
 
 }
-.rightt{
+
+.rightt {
     background-color: #f7fcff;
     width: 24%;
     float: right;
@@ -27,6 +29,7 @@ body{
     text-align: center;
     padding: 5px;
 }
+
 .left-text {
     width: 49%;
     float: left;
@@ -34,51 +37,57 @@ body{
     text-align: left;
     padding: 2px;
 }
+
 .right-text {
     float: right;
     height: 20px;
     text-align: right;
     padding: 2px;
 }
-.longslider{
-    margin-left:4px;
+
+.longslider {
+    margin-left: 4px;
     /*margin-right:13px;*/
     width: 96%;
 }
-img{
-    width:160px ;
+
+img {
+    width: 160px;
     height: 90px;
 }
-a{
+
+a {
     text-decoration: none;
     float: left;
     width: 182px;
     height: 160px;
     border: 1px solid #d9eefa;
-    border-bottom-left-radius:12px ;
-    border-top-left-radius:12px ;
-    border-top-right-radius:12px ;
+    border-bottom-left-radius: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
     position: relative;
-    padding: 0 0 0 0;
+    padding: 7px 0 7px 7px;
     margin: 6px 6px 6px 6px;
     color: #2e4879;
 }
-a:hover{
+
+a:hover {
     border: solid red 1px;
 }
+
 #last-div {
     clear: both;
 }
-.price{
+
+.price {
     text-align: center;
     background-color: dodgerblue;
     color: white;
-    padding-top: 0;
+    padding-top: 7px;
     border-top-left-radius: 10px;
-    width: 100px;
+    width: 102px;
     height: 20px;
     float: right;
     font-size: 16px;
-
-
+    margin-right: -1px;
 }

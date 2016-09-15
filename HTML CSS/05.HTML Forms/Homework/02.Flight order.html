@@ -1,68 +1,67 @@
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/html">
+<html>
 <head>
     <meta charset="UTF-8">
-    <title>02.Flight order</title>
-    <link rel="stylesheet" href="styles/reset.css">
+    <title>Flight Order</title>
     <link rel="stylesheet" href="styles/02.Flight%20order.css">
 </head>
 <body>
-<div class="wrapper">
-    <div class="first">FLIGHT ORDER</div>
-    <div class="left">
-        <div class="italic">From</div>
-        <div><select name="citys" class="city">
+<form method="get">
+    <header>
+        <h2>Flight Order</h2>
+    </header>
+    <section>
+        <label for="from">From</label>
+        <div><select id="from" name="citys" class="city" required>
             <option value="varna">Varna</option>
             <option value="sofia">Sofia</option>
             <option value="plovdiv">Plovdiv</option>
             <option value="ruse">Ruse</option>
-            <option value="default" selected="selected">enter a city</option>
+            <option value="default" selected="selected" hidden>enter a city</option>
         </select></div>
-        <br>
-        <div class="italic">Departure Date</div>
-        <div><input type="date"  value="2014-06-09"></div>
-        <div class="italic">Return Date</div>
-        <div><input type="date" value="2014-06-13"></div>
+        <label for="depart-date">Departure Date</label>
+        <input id="depart-date" type="date" value="2014-09-06" />
+        <label for="return-date">Return Date</label>
+        <input id="return-date" type="date" value="2014-06-13" />
+
         <div id="three-cols">
-            <label class="italic" for="12+">12+</label>
-            <input type="number" min="12" max="99" name="12" id="12+" class="small" value="0"/>
-            <label class="italic" for="2-12">2-12</label>
-            <input type="number" min="2" max="12" name="212" id="2-12" class="small" value="0"/>
-            <label class="italic" for="0-2">0-2</label>
-            <input type="number" max="2" min="0" name="02" id="0-2" class="small" value="0"/>
+            <label for="12+">12+</label>
+            <input id="12+" type="number" value="0" min="12" max="99">
+            <label for="2-12">2-12</label>
+            <input id="2-12" type="number" value="0" min="2" max="12"/>
+            <label for="0-2">0-2</label>
+            <input id="0-2" type="number" value="0" min="0" max="2"/>
         </div>
-    </div>
-    <div class="right">
-        <div class="italic">To</div>
-        <div><select name="citys" class="city">
+    </section>
+
+    <section>
+        <label for="to">To</label>
+        <div><select id="to" name="citys" class="city" required>
             <option value="varna">Varna</option>
             <option value="sofia">Sofia</option>
             <option value="plovdiv">Plovdiv</option>
             <option value="ruse">Ruse</option>
-            <option value="default" selected="selected">enter a city</option>
+            <option value="default" selected="selected" hidden>enter a city</option>
         </select></div>
-
-        <div><input type="checkbox" name="direct" value="1" id="direct" class="italic"/> Prefer directs</div>
-        <div class="italic">Time Interval</div>
-        <div>
-            <span><input type="date" value="09.06.2014" class="date_select" id="departure_date"
-                         required="required"></span>
-            <span><input type="time" name="interval" value="05:00"></span>
+        <p id="directs-checkbox"><input type="checkbox">Prefer directs</p>
+        <label for="depart-time-int">Time Interval</label>
+        <div class="time">
+            <input id="depart-time-int" type="time" value="00:20"/>
+            <input type="time" value="05:00"/>
         </div>
-        <div class="italic"> Time Interval</div>
-        <div>
-            <span><input type="time" name="interval" value="16:00"></span>
-            <span><input type="time" name="interval" value="22:00"></span>
+        <label for="return-time-int">Time Interval</label>
+        <div class="time">
+            <input id="return-time-int" type="time" value="16:00"/>
+            <input type="time" value="22:00"/>
         </div>
-        <div class="italic">Choose class</div>
-        <div><select name="citys" class="city">
-            <option value="normal">Normal</option>
-            <option value="bisuiness">Business</option>
-            <option value="economy" selected="selected">Economy</option>
-        </select></div>
-        <div><input class="search" type="submit" value="Search"></div>
-    </div>
-</div>
-
+        <label for="clas">Choose class</label>
+        <select id="clas">
+            <option>First Class</option>
+            <option selected>Economy</option>
+            <option>Business</option>
+        </select>
+        <br><input id="search" type="submit" value="Search"/>
+    </section>
+</form>
 </body>
 </html>
