@@ -1,0 +1,82 @@
+body {
+
+    font-family: Tahoma, sans-serif;
+}
+
+form {
+    background-color: #FFC0CB;
+    width: 360px;
+    height: 260px;
+}
+
+form header {
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: -25px;
+}
+
+form section {
+    width: 49%;
+    float: left;
+    display: inline-block;
+    margin-left: 3px;
+}
+
+form label, p {
+    font-size: 70%;
+    font-style: italic;
+    margin-left: 3px;
+}
+
+input#depart-date {
+    padding-right: 22px;
+}
+
+
+input#return-date {
+    padding-right: 22px;
+}
+
+#from {
+    margin-bottom: 18px;
+    padding-right: 76px;
+}
+
+#to {
+    padding-right: 78px;
+}
+
+#directs-checkbox {
+    margin-top: 2px;
+    margin-bottom: -3px;
+}
+
+#clas {
+    height: 22px;
+    width: 95%;
+}
+
+#search {
+    margin-top: 5px;
+    height: 26px;
+    width: 95%;
+}
+
+.time input {
+    width: 43%;
+}
+
+#three-cols {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3; /* Other */
+    column-gap: 2px; /* Other */
+    -moz-column-gap: 2px; /* Firefox */
+    -webkit-column-gap: 2px; /* Safari and Chrome */
+    margin-left: 2px;
+}
+
+#three-cols input {
+    width: 75%
+}

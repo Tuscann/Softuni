@@ -1,18 +1,19 @@
-.container{
+.container {
     padding: 10px;
 }
 
-img{
-
-    width:334px;
-    height:69px;
-
+img {
+    width: 334px;
+    height: 69px;
 }
-#image{
-    vertical-align: middle;
-    width:20px;
-    height:18px;
+
+#image {
+    vertical-align: bottom;
+    width: 23px;
+    height: 21px;
+    padding-left: 3px;
 }
-.space{
+
+#image, #search, label {
     margin-top: 10px;
 }
