@@ -24,11 +24,11 @@ fieldset {
     height: 100%;
 }
 
-h1, h3, h5, label, legend {
+h1, h3, h4, label, legend {
     color: white;
 }
 
-h1, h3, h5, legend {
+h1, h3, h4, legend {
     font-weight: bold;
     text-align: center;
 }
@@ -42,12 +42,12 @@ h1 {
     font-size: 8rem;
 }
 
-h3, h5 {
+h3, h4 {
     margin: 10px;
 }
 
-h5 {
-    font-size: 1.1rem;
+h4 {
+    font-size: 1.3rem;
 }
 
 legend {
@@ -62,6 +62,8 @@ input, textarea {
 input {
     width: 150px;
     height: 25px;
+    margin-left: 2px;
+    margin-right: 2px;
 }
 
 textarea {
