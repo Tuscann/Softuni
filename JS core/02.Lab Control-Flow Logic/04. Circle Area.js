@@ -1,9 +1,7 @@
-function triangleArea(num) {
+function triangleArea(r) {
 
-    let a = parseInt(num[0]);
-    let area = a * a * Math.PI;
+    let area = r * r * Math.PI;
     console.log(area);
     console.log(area.toFixed(2));
-
 }
-triangleArea([5]);
+triangleArea(['5']);
