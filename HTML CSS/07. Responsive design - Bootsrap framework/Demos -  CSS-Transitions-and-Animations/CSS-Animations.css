@@ -1,0 +1,140 @@
+body {
+	background: #EEE;
+}
+
+/* Colors with rotation animation   */
+
+.colors-and-rotate {            
+	display: inline-block;
+	width: 400px;
+	height: 400px;
+	background: #6b8cc6;
+	text-align: center;
+}
+
+	.colors-and-rotate:hover {
+		-webkit-animation: colors-and-rotate-animation 2s;
+		animation: colors-and-rotate-animation 2s;
+		background: darkred;
+		border-radius: 50px;
+	}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes colors-and-rotate-animation {
+	0% {
+		background: grass;
+	}
+
+	100% {
+		background: green;
+		-webkit-transform: rotate(360deg);
+	}
+}
+
+/* Firefox */
+@keyframes colors-and-rotate-animation {
+	from {
+		background: grass;
+	}
+
+	to {
+		background: green;
+		transform: rotate(360deg);
+	}
+}
+
+/* Hypnoza animation */
+
+.colors-rotate-moving {
+   overflow: hidden;
+   border-radius: 100px;
+   text-align: center;
+   display: inline-block;
+   width: 300px;
+   height: 300px;
+   background: red;
+   position: absolute;
+   top: 8px;
+   left: 450px;
+   -webkit-animation: Hypnoza 5s both infinite; /* Chrome, Safari, Opera */
+   animation: Hypnoza 5s both infinite;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes Hypnoza {
+	0% {
+		background: red;
+		left: -400px;
+		top: 20px;
+		transform:rotate(360deg);
+	}
+
+	25% {
+		background: yellow;
+		left: 70%;
+		top: 20px;
+		-webkit-transform:rotate(720deg);
+	}
+
+	50% {
+		background: blue;
+		left: 70%;
+		top: 30%;
+		-webkit-transform:rotate(1080deg);  
+	}
+
+	75% {
+		background: green;
+		left: -400px;
+		top: 30%;
+		-webkit-transform:rotate(360deg);   
+	}
+
+	100% {
+		background: red;
+		left: -400px;
+		top: 20px;
+		-webkit-transform:rotate(360deg);
+		opacity:0.2;
+	}
+}
+
+
+/* Firefox */
+@keyframes Hypnoza {
+	from {
+		background: red;
+		left: -400px;
+		top: 20px;
+		transform:rotate(360deg);
+	}
+
+	25% {
+		background: yellow;
+		left: 70%;
+		top: 20px;
+		transform:rotate(720deg);
+	}
+
+	50% {
+		background: blue;
+		left: 70%;
+		top: 30%;
+		transform:rotate(1080deg);  
+	}
+
+	75% {
+		background: green;
+		left: -400px;
+		top: 30%;
+		transform:rotate(360deg);   
+	}
+
+	100% {
+		background: red;
+		left: -400px;
+		top: 20px;
+		transform:rotate(360deg);
+		opacity:0.2;
+	}
+}

@@ -1,0 +1,8 @@
+
+For the Responsive design topic: 
+ - Add responsive tables + demo
+ - Add more examples: we have many from the HTML & CSS exam topics
+ - Add responsive navigation
+ - Add responsive lists
+ - http://bradfrost.github.io/this-is-responsive/patterns.html
+ - Add slides about Flexbox (display:flex) - they are in the CSS Layout and Positioning lecture. Should we move them?
