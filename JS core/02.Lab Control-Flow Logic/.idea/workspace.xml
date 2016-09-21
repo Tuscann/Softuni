@@ -23,33 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="12. Prime Number Checker.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12. Prime Number Checker.js">
+      <file leaf-file-name="04. Circle Area.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04. Circle Area.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01.Multiply Numbers.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01.Multiply Numbers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="203">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02. Boxes and Bottles.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02. Boxes and Bottles.js">
+      <file leaf-file-name="05. Triangle Area.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05. Triangle Area.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="217">
+              <caret line="7" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -68,18 +56,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/01л.js" />
-        <option value="$PROJECT_DIR$/03. Leap Year.js" />
         <option value="$PROJECT_DIR$/06. Cone.js" />
         <option value="$PROJECT_DIR$/07. Odd  Even.js" />
         <option value="$PROJECT_DIR$/08. Fruit or Vegetable.js" />
         <option value="$PROJECT_DIR$/09. Colorful Numbers.js" />
         <option value="$PROJECT_DIR$/10. Chessboard.js" />
         <option value="$PROJECT_DIR$/11. Binary Logarithm.js" />
-        <option value="$PROJECT_DIR$/02. Boxes and Bottles.js" />
         <option value="$PROJECT_DIR$/01.Multiply Numbers.js" />
         <option value="$PROJECT_DIR$/04. Circle Area.js" />
-        <option value="$PROJECT_DIR$/05. Triangle Area.js" />
         <option value="$PROJECT_DIR$/12. Prime Number Checker.js" />
+        <option value="$PROJECT_DIR$/02. Boxes and Bottles.js" />
+        <option value="$PROJECT_DIR$/03. Leap Year.js" />
+        <option value="$PROJECT_DIR$/05. Triangle Area.js" />
       </list>
     </option>
   </component>
@@ -120,7 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -142,6 +129,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,23 +141,27 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Softuni\JS core\02.Lab Control-Flow Logic" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.12. Prime Number Checker.js">
-    <configuration default="false" name="01.Multiply Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01.Multiply Numbers.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.05. Triangle Area.js">
+    <configuration default="false" name="02. Boxes and Bottles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. Boxes and Bottles.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="04.Filter By Age..js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04.Filter By Age..js" working-dir="$PROJECT_DIR$/../01.Lab Intro to JavaScript">
+    <configuration default="false" name="03. Leap Year.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03. Leap Year.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="01.ExamResults-Solution.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01.ExamResults-Solution.js" working-dir="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.357">
       <method />
     </configuration>
     <configuration default="false" name="04. Circle Area.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04. Circle Area.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="12. Prime Number Checker.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="12. Prime Number Checker.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="05. Triangle Area.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05. Triangle Area.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -225,18 +217,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.01.Multiply Numbers.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.04.Filter By Age..js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.04. Circle Area.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.12. Prime Number Checker.js" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.02. Boxes and Bottles.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.03. Leap Year.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.01.ExamResults-Solution.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.04. Circle Area.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.05. Triangle Area.js" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.12. Prime Number Checker.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.01.Multiply Numbers.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.04. Circle Area.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.04.Filter By Age..js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.05. Triangle Area.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.04. Circle Area.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.01.ExamResults-Solution.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.03. Leap Year.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.02. Boxes and Bottles.js" />
       </list>
     </recent_temporary>
   </component>
@@ -259,11 +253,12 @@
       <workItem from="1474385343392" duration="924000" />
       <workItem from="1474386346683" duration="1130000" />
       <workItem from="1474449019406" duration="1530000" />
+      <workItem from="1474451236942" duration="3856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7367000" />
+    <option name="totallyTimeSpent" value="11223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="40" width="1928" height="1044" extended-state="6" />
@@ -273,11 +268,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32814237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32814237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39933258" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -298,11 +293,42 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/12. Prime Number Checker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Multiply Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Boxes and Bottles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05. Triangle Area.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -385,13 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03. Leap Year.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../01.Lab Intro to JavaScript/04.Filter By Age..js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -399,25 +418,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04. Circle Area.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05. Triangle Area.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12. Prime Number Checker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="119">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#42#0" expanded="false" />
@@ -425,7 +428,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01.Multiply Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/02. Boxes and Bottles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Leap Year.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -433,10 +452,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.Multiply Numbers.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.357/01.ExamResults-Solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="442">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.473/02.FilterMatrix-Solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Circle Area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Triangle Area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="26" />
           <folding />
         </state>
       </provider>
