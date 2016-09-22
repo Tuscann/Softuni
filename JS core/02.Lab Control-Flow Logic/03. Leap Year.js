@@ -1,4 +1,6 @@
-function leap([year]) {
+function leap(input) {
+
+    let year=Number(input[0]);
 
     let x = (year % 400 == 0)||(year % 4 == 0 && year % 100 != 0);
 
