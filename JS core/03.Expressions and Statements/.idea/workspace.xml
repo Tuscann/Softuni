@@ -22,11 +22,11 @@
     <favorites_list name="03.Expressions and Statements" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="06. Compound Interest.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06. Compound Interest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
+            <state relative-caret-position="153">
               <caret line="11" column="30" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="30" />
               <folding>
                 <element signature="n#!!doc;n#interest#0" expanded="false" />
@@ -35,14 +35,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07. Rounding.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07. Rounding.js">
+      <file leaf-file-name="01.Hello JavaScript.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.Hello JavaScript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc;n#Round#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02. Area and Perimeter.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02. Area and Perimeter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,13 +67,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01.Hello JavaScript.js" />
-        <option value="$PROJECT_DIR$/02. Area and Perimeter.js" />
         <option value="$PROJECT_DIR$/03. Distance over Time.js" />
         <option value="$PROJECT_DIR$/04. Distance in 3D.js" />
         <option value="$PROJECT_DIR$/05. Grads to Radians.js" />
         <option value="$PROJECT_DIR$/06. Compound Interest.js" />
         <option value="$PROJECT_DIR$/07. Rounding.js" />
+        <option value="$PROJECT_DIR$/01.Hello JavaScript.js" />
+        <option value="$PROJECT_DIR$/02. Area and Perimeter.js" />
       </list>
     </option>
   </component>
@@ -106,6 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -127,7 +136,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,14 +146,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Node.js.07. Rounding.js">
-    <configuration default="false" name="03. Distance over Time.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03. Distance over Time.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="04. Distance in 3D.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04. Distance in 3D.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.02. Area and Perimeter.js">
     <configuration default="false" name="05. Grads to Radians.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05. Grads to Radians.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -153,6 +156,12 @@
       <method />
     </configuration>
     <configuration default="false" name="07. Rounding.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07. Rounding.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="01.Hello JavaScript.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01.Hello JavaScript.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="02. Area and Perimeter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. Area and Perimeter.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -180,6 +189,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -203,19 +218,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.03. Distance over Time.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.04. Distance in 3D.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.05. Grads to Radians.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.06. Compound Interest.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.07. Rounding.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.05. Grads to Radians.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.06. Compound Interest.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.07. Rounding.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.01.Hello JavaScript.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.02. Area and Perimeter.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.07. Rounding.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.06. Compound Interest.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.05. Grads to Radians.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.04. Distance in 3D.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.03. Distance over Time.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.02. Area and Perimeter.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.01.Hello JavaScript.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.07. Rounding.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.06. Compound Interest.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.05. Grads to Radians.js" />
       </list>
     </recent_temporary>
   </component>
@@ -234,11 +249,13 @@
       <updated>1474376417489</updated>
       <workItem from="1474376418752" duration="8000" />
       <workItem from="1474472146313" duration="6967000" />
+      <workItem from="1474529296253" duration="187000" />
+      <workItem from="1474545802966" duration="346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6975000" />
+    <option name="totallyTimeSpent" value="7508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="40" width="1928" height="1044" extended-state="0" />
@@ -278,57 +295,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01.Hello JavaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03. Distance over Time.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
-          <folding>
-            <element signature="n#!!doc;n#distance#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02. Area and Perimeter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc;n#area#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. Distance in 3D.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc;n#distance3D#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05. Grads to Radians.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc;n#radians#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06. Compound Interest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="153">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="30" />
           <folding>
             <element signature="n#!!doc;n#interest#0" expanded="false" />
@@ -339,10 +308,87 @@
     <entry file="file://$PROJECT_DIR$/07. Rounding.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc;n#Round#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Compound Interest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc;n#interest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Rounding.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#Round#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Distance over Time.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Distance in 3D.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Grads to Radians.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Rounding.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc;n#Round#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Compound Interest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc;n#interest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Hello JavaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Area and Perimeter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
