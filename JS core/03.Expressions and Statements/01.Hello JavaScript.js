@@ -1,5 +1,6 @@
-function hello(neme) {
-    console.log("Hello, " + neme + ", I am JavaScript!");
+function hello(input) {
+    let name = String(input);
+    console.log("Hello, " + name + ", I am JavaScript!");
 }
 hello(['Pesho']);
 hello(['Bill Gates']);
