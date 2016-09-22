@@ -1,15 +1,14 @@
-/**
- * Created by 123 on 21.9.2016 г..
- */
 function radians(input) {
     let grads = Number(input[0]);
-
     let diff = (400 / 360);
 
     if (grads > 360) {
         grads = (grads % 400) / diff;
     }
     else if (grads < 0) {
+        if (grads < -400) {
+            grads = grads % 400;
+        }
         grads = 360 + grads / diff;
     }
     else {

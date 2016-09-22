@@ -1,7 +1,5 @@
-/**
- * Created by 123 on 21.9.2016 г..
- */
 function distance3D(input) {
+
     let x1 = Number(input[0]);
     let y1 = Number(input[1]);
     let z1 = Number(input[2]);
