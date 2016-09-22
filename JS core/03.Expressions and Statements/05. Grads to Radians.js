@@ -16,6 +16,7 @@ function radians(input) {
     }
     console.log(grads);
 }
+radians(['0']);
 radians(['100']);
 radians(['400']);
 radians(['850']);

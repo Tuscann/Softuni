@@ -1,10 +1,8 @@
 function mult(nums) {
-    let num1 = Number(nums);
 
-
-    let x = parseInt(num1 / 2);
-
-    console.log('$$')
+    for (row = 1; row <= Number(nums); row++) {
+        console.log(new Array(row + 1).join('$'));
+    }
 }
-mult(['3']);
+mult(['4']);
 

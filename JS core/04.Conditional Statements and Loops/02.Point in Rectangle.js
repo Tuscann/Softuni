@@ -1,24 +1,20 @@
 function mult(nums) {
-    let num1 = Number(nums[0]);
-    let num2 = Number(nums[1]);
-    let num3 = Number(nums[2]);
-    let num4 = Number(nums[3]);
-    let num5 = Number(nums[4]);
-    let num6 = Number(nums[5]);
-    let result = Math.max(num1, num2, num3, num4, num5, num6);
+    let x = Number(nums[0]);
+    let y = Number(nums[1]);
+    let xMin = Number(nums[2]);
+    let xMax = Number(nums[3]);
+    let yMin = Number(nums[4]);
+    let yMax = Number(nums[5]);
 
-    if (num1 == result) {
-        console.log("outside");
-    }
-    else if(num2 == result){
-        console.log("outside");
-    }
-    // else if(num1 == result||){
-    //
-    // }
-    else {
+    if (xMin <= x && x <= xMax && yMin <= y && y <= yMax) {
         console.log("inside");
     }
+    else {
+        console.log("outside");
+    }
 }
+mult(['8', '-1', '2', '12', '-3', '3']);
 mult(['12.5', '-1', '2', '12', '-3', '3']);
+mult(['12', '-3', '2', '12', '3', '1']);
+mult(['12', '-4', '2', '12', '-3', '3']);
 

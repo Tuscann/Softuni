@@ -23,12 +23,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01.Biggest of 3 Numbers.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01.Biggest of 3 Numbers.js">
+      <file leaf-file-name="06. Quadratic Equation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06. Quadratic Equation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="287">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc;n#QuadraticEquation#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07. Multiplication Table.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07. Multiplication Table.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc;n#multiplicationTable#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,10 +59,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/08. Figure of 4 Squares.js" />
+        <option value="$PROJECT_DIR$/01.Biggest of 3 Numbers.js" />
         <option value="$PROJECT_DIR$/02.Point in Rectangle.js" />
         <option value="$PROJECT_DIR$/03.Odd Numbers 1 to N.js" />
         <option value="$PROJECT_DIR$/04.Triangle of Dollars.js" />
-        <option value="$PROJECT_DIR$/01.Biggest of 3 Numbers.js" />
+        <option value="$PROJECT_DIR$/05. Movie Prices.js" />
+        <option value="$PROJECT_DIR$/06. Quadratic Equation.js" />
+        <option value="$PROJECT_DIR$/07. Multiplication Table.js" />
       </list>
     </option>
   </component>
@@ -128,10 +146,7 @@
       <recent name="E:\Softuni\JS core\04.Conditional Statements and Loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.01.Biggest of 3 Numbers.js">
-    <configuration default="false" name="01.Biggest of 3 Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01.Biggest of 3 Numbers.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.06. Quadratic Equation.js">
     <configuration default="false" name="02.Point in Rectangle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02.Point in Rectangle.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -139,6 +154,12 @@
       <method />
     </configuration>
     <configuration default="false" name="04.Triangle of Dollars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04.Triangle of Dollars.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="05. Movie Prices.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05. Movie Prices.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="06. Quadratic Equation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06. Quadratic Equation.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -194,18 +215,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.01.Biggest of 3 Numbers.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.02.Point in Rectangle.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.03.Odd Numbers 1 to N.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.04.Triangle of Dollars.js" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.02.Point in Rectangle.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.03.Odd Numbers 1 to N.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.04.Triangle of Dollars.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.05. Movie Prices.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.06. Quadratic Equation.js" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.01.Biggest of 3 Numbers.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.04.Triangle of Dollars.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.03.Odd Numbers 1 to N.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.02.Point in Rectangle.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.06. Quadratic Equation.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.05. Movie Prices.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.04.Triangle of Dollars.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.03.Odd Numbers 1 to N.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.02.Point in Rectangle.js" />
       </list>
     </recent_temporary>
   </component>
@@ -224,11 +247,12 @@
       <updated>1474376445264</updated>
       <workItem from="1474376446512" duration="4078000" />
       <workItem from="1474556115040" duration="191000" />
+      <workItem from="1474556462705" duration="7720000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4269000" />
+    <option name="totallyTimeSpent" value="11989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="40" width="1928" height="1044" extended-state="0" />
@@ -268,6 +292,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01.Biggest of 3 Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04.Triangle of Dollars.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -284,35 +316,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Point in Rectangle.js">
+    <entry file="file://$PROJECT_DIR$/08. Figure of 4 Squares.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="4" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04.Triangle of Dollars.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Odd Numbers 1 to N.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="578">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01.Biggest of 3 Numbers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Point in Rectangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Odd Numbers 1 to N.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Movie Prices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4403">
+          <caret line="119" column="9" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.Triangle of Dollars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Quadratic Equation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#QuadraticEquation#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Multiplication Table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc;n#multiplicationTable#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

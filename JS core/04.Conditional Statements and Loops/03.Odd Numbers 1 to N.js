@@ -1,9 +1,10 @@
 function mult(nums) {
     let num1 = Number(nums);
-    for(i=1;i<=num1;i=i+2)
-    {
-        console.log(i)
+    for (row = 1; row <= num1; row = row + 2) {
+        console.log(row)
     }
 }
 mult(['5']);
+mult(['4']);
+mult(['7']);
 
