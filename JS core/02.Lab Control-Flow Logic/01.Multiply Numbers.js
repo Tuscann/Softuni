@@ -2,7 +2,8 @@ function mult(nums) {
     let num1 = Number(nums[0]);
     let num2 = Number(nums[1]);
     let result = num1 * num2;
-    console.log(result)
+    return (result)
 }
- mult(['1.20','2.60','3.50']);
+console.log(mult(['3', '2']));
+console.log(mult([23632.36, -12.3249]));
 
