@@ -1,9 +1,12 @@
 function nums(n) {
     let html = '<ul>\n';
     for (let i = 1; i <= n; i++) {
-        let color = 'blue';
-        if (i % 2 != 0) color = 'green';
-        html += `  <li><span style='color: ${color}'>${i}</span></li>\n`;
+        if (i % 2 != 0) {
+            html += '   <li><span style="color:green">' + i + '</span></li>\n'
+        }
+        else {
+            html += '   <li><span style="color:blue">' + i + '</span></li>\n'
+        }
     }
     html += '</ul>';
     return html;

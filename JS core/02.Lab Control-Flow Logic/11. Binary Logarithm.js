@@ -1,10 +1,8 @@
-/**
- * Created by 123 on 20.9.2016 г..
- */
-function binary(input){
+function binary(input) {
+    let nums = input.map(Number);
 
-    for(let i of input){
-        console.log(Math.log2(i));
+    for (let num of nums) {
+        console.log(Math.log2(num));
     }
 }
-binary(["2",81,'4'])
+binary(["2", 81, '4', "1024"])

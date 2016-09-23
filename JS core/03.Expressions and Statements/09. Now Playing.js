@@ -1,6 +1,3 @@
-/**
- * Created by 123 on 22.9.2016 г..
- */
 function now(input) {
 
     let artistName = String(input[0]);

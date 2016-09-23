@@ -22,7 +22,30 @@
     <favorites_list name="04.Conditional Statements and Loops" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="07. Multiplication Table.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07. Multiplication Table.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <folding>
+                <element signature="n#!!doc;n#multiplicationTable#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08. Figure of 4 Squares.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08. Figure of 4 Squares.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,9 +63,9 @@
         <option value="$PROJECT_DIR$/04.Triangle of Dollars.js" />
         <option value="$PROJECT_DIR$/05. Movie Prices.js" />
         <option value="$PROJECT_DIR$/06. Quadratic Equation.js" />
-        <option value="$PROJECT_DIR$/07. Multiplication Table.js" />
         <option value="$PROJECT_DIR$/08. Figure of 4 Squares.js" />
         <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/07. Multiplication Table.js" />
       </list>
     </option>
   </component>
@@ -117,16 +140,14 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Softuni\JS core\04.Conditional Statements and Loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.test.js">
-    <configuration default="false" name="04.Triangle of Dollars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04.Triangle of Dollars.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.07. Multiplication Table.js">
     <configuration default="false" name="05. Movie Prices.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05. Movie Prices.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -137,6 +158,9 @@
       <method />
     </configuration>
     <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="07. Multiplication Table.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07. Multiplication Table.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -193,19 +217,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.04.Triangle of Dollars.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.05. Movie Prices.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.06. Quadratic Equation.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.08. Figure of 4 Squares.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.05. Movie Prices.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.06. Quadratic Equation.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.08. Figure of 4 Squares.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.07. Multiplication Table.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.08. Figure of 4 Squares.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.06. Quadratic Equation.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05. Movie Prices.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.04.Triangle of Dollars.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.07. Multiplication Table.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.08. Figure of 4 Squares.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.06. Quadratic Equation.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.05. Movie Prices.js" />
       </list>
     </recent_temporary>
   </component>
@@ -226,17 +250,18 @@
       <workItem from="1474556115040" duration="191000" />
       <workItem from="1474556462705" duration="7720000" />
       <workItem from="1474616894754" duration="4625000" />
+      <workItem from="1474624742395" duration="2807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16614000" />
+    <option name="totallyTimeSpent" value="19421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="40" width="1928" height="1044" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -292,9 +317,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#QuadraticEquation#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -368,16 +390,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#QuadraticEquation#0" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/07. Multiplication Table.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="203">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
           <folding>
             <element signature="n#!!doc;n#multiplicationTable#0" expanded="false" />
           </folding>
@@ -386,16 +412,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/08. Figure of 4 Squares.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="264">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
           <folding />
         </state>
       </provider>

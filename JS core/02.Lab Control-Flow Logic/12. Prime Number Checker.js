@@ -1,6 +1,3 @@
-/**
- * Created by 123 on 20.9.2016 г..
- */
 function prime(input) {
     let n = Number(input[0]);
 
