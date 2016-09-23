@@ -1,6 +1,3 @@
-/**
- * Created by 123 on 21.9.2016 г..
- */
 function interest(input) {
 
     let p = Number(input[0]);

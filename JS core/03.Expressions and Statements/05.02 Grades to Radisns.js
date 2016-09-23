@@ -13,4 +13,5 @@ radians(['200']);
 radians(['300']);
 radians(['400']);
 radians(['401']);
+radians(['-396']);
 radians(['-410']);

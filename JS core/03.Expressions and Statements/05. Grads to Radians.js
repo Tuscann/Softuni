@@ -18,7 +18,9 @@ function radians(input) {
 }
 radians(['0']);
 radians(['100']);
+radians(['396']);
 radians(['400']);
 radians(['850']);
 radians(['-50']);
+radians(['-396']);
 radians(['-410']);

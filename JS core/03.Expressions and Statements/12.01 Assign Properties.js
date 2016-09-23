@@ -3,7 +3,7 @@ function properties(input) {
     let name = input[0];
     let age = input[2];
     let gender = input[4];
-    obj[name]=input[1];
+    obj[name] = input[1];
     obj[age] = input[3];
     obj[gender] = input[5];
     console.log(obj);

@@ -15,4 +15,5 @@ console.log(radians(['400']));
 console.log(radians(['401']));
 console.log(radians(['850']));
 console.log(radians(['-50']));
+console.log(radians(['-396']));
 console.log(radians(['-410']));

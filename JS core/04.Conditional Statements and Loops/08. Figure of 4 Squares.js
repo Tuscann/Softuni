@@ -1,18 +1,29 @@
-function draw4Squares(input) {
-    let size = Number(input[0]);
-    let horizontal = size * 2 - 1;
-    let vertical = (size % 2 == 0) ? size - 1 : size;
-    let result = "";
-    for (let r = 1; r <= vertical; r++) {
-        for (let c = 1; c <= horizontal; c++) {
-            if (r == 1 || r == Math.ceil(vertical / 2) || r == vertical){
-                result += (c == 1 || c == size || c == horizontal) ? '+' : '-';
-            }
-            else{
-                result += (c == 1 || c == size || c == horizontal) ? '|' : ' ';
-            }
+function figure(input) {
+    let n = Number(input[0]);
+    let counter = parseInt(((2 * n) - 3) / 2);
+    // let counter = n - 2;
+
+    if (n % 2 == 0) {//четни
+        console.log("+" + "-".repeat(counter) + "+" + '-'.repeat(counter) + '+');
+        for (i = 0; i < parseInt((n - 3) / 2); i++) {
+            console.log('|' + " ".repeat(counter) + '|' + " ".repeat(counter) + '|');
         }
-        result += '\n';
+        console.log("+" + "-".repeat(counter) + "+" + '-'.repeat(counter) + '+');
+        for (i = 0; i < parseInt((n - 3) / 2); i++) {
+            console.log('|' + " ".repeat(counter) + '|' + " ".repeat(counter) + '|');
+        }
+        console.log("+" + "-".repeat(counter) + "+" + '-'.repeat(counter) + '+');
     }
-    console.log(result);
+    else {// нечетни
+        console.log("+" + "-".repeat(counter) + "+" + '-'.repeat(counter) + '+');
+        for (i = 0; i < ((n - 4) / 2); i++) {
+            console.log('|' + " ".repeat(counter) + '|' + " ".repeat(counter) + '|');
+        }
+        console.log("+" + "-".repeat(counter) + "+" + '-'.repeat(counter) + '+');
+        for (i = 0; i < ((n - 4) / 2); i++) {
+            console.log('|' + " ".repeat(counter) + '|' + " ".repeat(n - 2) + '|');
+        }
+        console.log("+" + "-".repeat(counter) + "+" + '-'.repeat(counter) + '+');
+    }
 }
+figure(['2']);

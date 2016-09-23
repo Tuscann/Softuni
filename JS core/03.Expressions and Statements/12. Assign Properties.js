@@ -1,6 +1,3 @@
-/**
- * Created by 123 on 22.9.2016 г..
- */
 function properties(input) {
 
     let x1 = String(input[0]);
