@@ -2,7 +2,7 @@ function stars(input) {
     let n = Number(input[0]);
 
     console.log("*".repeat(n));
-    for (i = 0; i < n - 2; i++) {
+    for (number = 0; number < n - 2; number++) {
         console.log("*" + " ".repeat(n - 2) + "*");
     }
     console.log("*".repeat(n));

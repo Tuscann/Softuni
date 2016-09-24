@@ -21,9 +21,9 @@ function figure(input) {
         }
         console.log("+" + "-".repeat(counter) + "+" + '-'.repeat(counter) + '+');
         for (i = 0; i < ((n - 4) / 2); i++) {
-            console.log('|' + " ".repeat(counter) + '|' + " ".repeat(n - 2) + '|');
+            console.log('|' + " ".repeat(counter) + '|' + " ".repeat(counter) + '|');
         }
         console.log("+" + "-".repeat(counter) + "+" + '-'.repeat(counter) + '+');
     }
 }
-figure(['2']);
+figure(['6']);

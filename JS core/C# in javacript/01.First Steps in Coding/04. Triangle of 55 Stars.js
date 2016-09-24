@@ -1,7 +1,7 @@
 function triangle(n) {
 
-    for (i = 1; i <= 10; i++) {
-        console.log("*".repeat(i));
+    for (number = 1; number <= 10; number++) {
+        console.log("*".repeat(number));
     }
 }
 triangle(["10"])

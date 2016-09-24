@@ -1,7 +1,7 @@
 function expression(n) {
 
-    for (i = 1; i < 21; i++) {
-        console.log(i);
+    for (number = 1; number < 21; number++) {
+        console.log(number);
     }
 }
 expression(["0"])
