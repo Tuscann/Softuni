@@ -1,16 +1,8 @@
-function c (input) {
-    var a = [
-        "Hydrogen",
-        "Helium",
-        "Lithiumqwqw",
-
-    ];
-
-    var a2 = a.map(function(s){ return s.length });
-
-    var a3 = a.map( s => s.length );
-    console.log(a2);
-    console.log(a3);
-
+function circleArea(input) {
+    let pi = Math.PI;
+    let diameter = Number(input[0]) * Number(input[0]);
+    let area = pi * diameter;
+    console.log(area)
 }
-c(['2']);
+
+circleArea(['10'])
