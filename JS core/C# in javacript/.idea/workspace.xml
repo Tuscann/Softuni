@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/07.Advanced Loops/11.Enter Even Number.js" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9bbce973-29f3-4f51-9785-c7b66bd36b90" name="Default" comment="" />
     <ignored path="C# in javacript.iws" />
@@ -22,7 +25,18 @@
     <favorites_list name="C# in javacript" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="12.Fibonacci.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07.Advanced Loops/12.Fibonacci.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,13 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Simple Conditional Statements/08.01.js" />
-        <option value="$PROJECT_DIR$/Simple Conditional Statements/09.Password Guess.js" />
-        <option value="$PROJECT_DIR$/Simple Conditional Statements/10.Number 100...200.js" />
-        <option value="$PROJECT_DIR$/Simple Conditional Statements/11.Equal Words.js" />
-        <option value="$PROJECT_DIR$/Simple Conditional Statements/12.Speed Info.js" />
-        <option value="$PROJECT_DIR$/Simple Conditional Statements/13.Area of Figures.js" />
-        <option value="$PROJECT_DIR$/Simple Conditional Statements/14.Time + 15 Minutes.js" />
         <option value="$PROJECT_DIR$/Simple Conditional Statements/15.3 Equal Numbers.js" />
         <option value="$PROJECT_DIR$/Simple Conditional Statements/16.Number 0...100 to Text.js" />
         <option value="$PROJECT_DIR$/04.Complex Conditional Statements/01. Personal Titles.js" />
@@ -82,9 +89,16 @@
         <option value="$PROJECT_DIR$/07.Advanced Loops/04.Even Powers of 2.js" />
         <option value="$PROJECT_DIR$/07.Advanced Loops/05.Sequence 2k+1.js" />
         <option value="$PROJECT_DIR$/07.Advanced Loops/06.Number in Range [1...100].js" />
-        <option value="$PROJECT_DIR$/07.Advanced Loops/test.js" />
         <option value="$PROJECT_DIR$/07.Advanced Loops/07.Greatest Common Divisor (CGD).js" />
         <option value="$PROJECT_DIR$/07.Advanced Loops/08.Factorial.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.435/solve.js" />
+        <option value="$PROJECT_DIR$/07.Advanced Loops/test.js" />
+        <option value="$PROJECT_DIR$/07.Advanced Loops/09.Sum Digits.js" />
+        <option value="$PROJECT_DIR$/07.Advanced Loops/10.Prime.js" />
+        <option value="module.js" />
+        <option value="timers.js" />
+        <option value="$PROJECT_DIR$/07.Advanced Loops/11.Enter Even Number.js" />
+        <option value="$PROJECT_DIR$/07.Advanced Loops/12.Fibonacci.js" />
       </list>
     </option>
   </component>
@@ -125,6 +139,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -142,11 +158,23 @@
               <option name="myItemId" value="C# in javacript" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07.Advanced Loops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="C# in javacript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="C# in javacript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,20 +193,20 @@
       <recent name="E:\Softuni\JS core\C# in javacript\05" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.08.Factorial.js">
-    <configuration default="false" name="07.Greatest Common Divisor (CGD).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07.Greatest Common Divisor (CGD).js" working-dir="$PROJECT_DIR$/07.Advanced Loops">
+  <component name="RunManager" selected="Node.js.12.Fibonacci.js">
+    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/07.Advanced Loops">
       <method />
     </configuration>
-    <configuration default="false" name="01.Numbers 1...N with Step 3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01.Numbers 1...N with Step 3.js" working-dir="$PROJECT_DIR$/07.Advanced Loops">
+    <configuration default="false" name="09.Sum Digits.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="09.Sum Digits.js" working-dir="$PROJECT_DIR$/07.Advanced Loops">
       <method />
     </configuration>
-    <configuration default="false" name="04.Even Powers of 2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04.Even Powers of 2.js" working-dir="$PROJECT_DIR$/07.Advanced Loops">
+    <configuration default="false" name="10.Prime.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10.Prime.js" working-dir="$PROJECT_DIR$/07.Advanced Loops">
       <method />
     </configuration>
-    <configuration default="false" name="07. 2D Rectangle Area.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07. 2D Rectangle Area.js" working-dir="$PROJECT_DIR$/02.Simple Calculations">
+    <configuration default="false" name="11.Enter Even Number.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="11.Enter Even Number.js" working-dir="$PROJECT_DIR$/07.Advanced Loops">
       <method />
     </configuration>
-    <configuration default="false" name="08.Factorial.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="08.Factorial.js" working-dir="$PROJECT_DIR$/07.Advanced Loops">
+    <configuration default="false" name="12.Fibonacci.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="12.Fibonacci.js" working-dir="$PROJECT_DIR$/07.Advanced Loops">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -235,19 +263,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.07.Greatest Common Divisor (CGD).js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.01.Numbers 1...N with Step 3.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.04.Even Powers of 2.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.07. 2D Rectangle Area.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.08.Factorial.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.09.Sum Digits.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.10.Prime.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.11.Enter Even Number.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.12.Fibonacci.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.08.Factorial.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.07.Greatest Common Divisor (CGD).js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.04.Even Powers of 2.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.07. 2D Rectangle Area.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.01.Numbers 1...N with Step 3.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.12.Fibonacci.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.11.Enter Even Number.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.10.Prime.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.09.Sum Digits.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -271,11 +299,13 @@
       <workItem from="1474724703126" duration="10181000" />
       <workItem from="1474735506652" duration="11799000" />
       <workItem from="1474748082426" duration="4701000" />
+      <workItem from="1474753127098" duration="665000" />
+      <workItem from="1474787455621" duration="11268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70515000" />
+    <option name="totallyTimeSpent" value="82448000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -288,13 +318,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="40" width="1928" height="1044" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.114797264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20379147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35038933" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2580645" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -319,63 +349,23 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/07.Advanced Loops/04.Even Powers of 2.js</url>
           <line>3</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/02.Simple Calculations/07. 2D Rectangle Area.js</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="8" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="exports" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03.Simple Conditional Statements/06.Bonus Score.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Simple Conditional Statements/09.Password Guess.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Simple Conditional Statements/10.Number 100...200.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Simple Conditional Statements/11.Equal Words.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Simple Conditional Statements/12.Speed Info.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Simple Conditional Statements/16.Number 0...100 to Text.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03.Simple Conditional Statements/15.3 Equal Numbers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
@@ -394,13 +384,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
           <caret line="19" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04.Complex Conditional Statements/01. Personal Titles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -450,13 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04.Complex Conditional Statements/08. Trade Comissions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -527,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,7 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -602,13 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/02.Numbers N...1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="5" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07.Advanced Loops/05.Sequence 2k+1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -620,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,23 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="1" column="39" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/01.Numbers 1...N with Step 3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,15 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/06.Number in Range [1...100].js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,18 +627,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/07.Greatest Common Divisor (CGD).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.435/solve.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.292/solve.js" />
+    <entry file="file://$PROJECT_DIR$/04.Complex Conditional Statements/08. Trade Comissions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.Complex Conditional Statements/01. Personal Titles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/02.Numbers N...1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/01.Numbers 1...N with Step 3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/06.Number in Range [1...100].js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/11.Enter Even Number.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/10.Prime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="13" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/09.Sum Digits.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/07.Advanced Loops/08.Factorial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="93">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/07.Greatest Common Divisor (CGD).js">
+    <entry file="file://$PROJECT_DIR$/07.Advanced Loops/12.Fibonacci.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="455">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
           <folding />
         </state>
       </provider>
