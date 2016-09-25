@@ -20,4 +20,4 @@ function fib(input) {
     }
 }
 fib(['5']);
-// fib(['1']);
+fib(['20']);

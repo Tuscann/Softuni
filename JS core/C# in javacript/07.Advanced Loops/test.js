@@ -3,7 +3,7 @@ function circleArea(input) {
     n = input.map(String);
     let repeats = input[0];
 
-    var real = n.splice(1, n.length);
+    let real = n.splice(1, n.length);
     let totalMoney = 0.0;
 
     if (repeats == 0) {
@@ -13,9 +13,9 @@ function circleArea(input) {
     if (repeats > 0) {
         for (i = 0; i < repeats; i++) {
 
-            var pricePerCapsule = Number.parseFloat(real[i]);
-            var date = real[i + 1].split('/');
-            var capsulesCount = parseInt(real[i + 2]);
+            let pricePerCapsule = Number.parseFloat(real[i]);
+            let date = real[i + 1].split('/');
+            let capsulesCount = parseInt(real[i + 2]);
             let diffDays = new Date(Date.UTC(date[2], date[1], 0));
             let price = (diffDays.getDate() * capsulesCount) * pricePerCapsule;
 
