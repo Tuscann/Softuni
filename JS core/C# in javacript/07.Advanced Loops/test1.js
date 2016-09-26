@@ -1,34 +1,24 @@
-function solve([n, ...input]) {
-    n = Number(n);
-    let total = 0.0;
+function solve([input]) {
 
-    for (let i = 0; i < input.length; i += 3) {
+    var myMap = new Map();
+    var keyString = "a string",
+        keyObj = {},
+        keyFunc = function () {
+        };
 
-        var pricePerCapsule = Number.parseFloat(input[i]);
-        var month = input[i + 1].split('/');
-        var capsulesCount = parseInt(input[i + 2]);
+    // myMap.set(keyString, "value associated with 'a string'");
+    // myMap.set(keyObj, "value associated with keyObj");
+    // myMap.set(keyFunc, "value associated with keyFunc");
+    // myMap.set('key', 'value');
 
-        var diffDays = daysInMonth(Number(month[1]), Number(month[2]));
-        var price = ((diffDays * capsulesCount) * pricePerCapsule);
-        console.log(price.toFixed(20));
-        console.log(round(price, 2));
-        total += price;
-        console.log(`The price for the coffee is: $${price.toFixed(2)}`)
-    }
-
-    console.log(`Total: $${round(total,3).toFixed(2)}`);
-    return;
-
-    function daysInMonth(month, year) {
-        return new Date(year, month, 0).getDate();
-    }
-
-    function round(number, precision) {
-        var factor = Math.pow(10, precision);
-        var tempNumber = number * factor;
-        var roundedTempNumber = Math.round(tempNumber);
-        return roundedTempNumber / factor;
-    };
+    // console.log(myMap);
+    // console.log(myMap.get(keyString));
+    // for (var [key,value] of myMap.entries()){
+    //     console.log(key+ ' = '+value);
+    // }
+    myMap.forEach(function (value,key) {
+        console.log(key + ' = ' + value);
+    }, myMap)
 
 
 }
