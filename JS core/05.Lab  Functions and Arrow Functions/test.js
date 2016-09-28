@@ -1,24 +1,18 @@
-function solve([n]) {
-    n = Number(n);
-    let dash = '-';
-    let sp = ' ';
-    let inner = n - 2;
-    if (n % 2 == 0 ) {
-        n -= 1;
+function das(input) {
+    let str = input[0];
+    let regex = /\W+/g;
+    let array = str.split(regex);
+    // console.log(array);
+    array = array.map(e => e.toUpperCase());
+    // console.log(array);
+    let temp = [];
+    for (let elem of array){
+        elem && temp.push(elem);
+        // console.log(elem);
     }
-    if (n <= 2){
-        n = 3;
-    }
+    array = temp;
 
-    for (let i = 0; i < n; i++) {
-
-        if (i == 0 || i == n - 1 || (n-1) / 2 == i) {
-            console.log(`+${dash.repeat(inner)}+${dash.repeat(inner)}+`);
-        }
-        else {
-            console.log(`|${sp.repeat(inner)}|${sp.repeat(inner)}|`);
-        }
-    }
-
+    console.log(array.join(', '))
 }
-solve(['8']);
+das(['Hi, how are you?']);
+// das(['Functions in JS can be nested, i.e. hold other functions']);

@@ -9,5 +9,4 @@ function lastMonthlastDay([day, month, year]){
     newDate = new Date(newDate.getTime() - oneDay);
     console.log(newDate.getDate()); //показва датата като разлика 1970 до тарсената дата пресметната във милисекунди
 }
-
 lastMonthlastDay(['17','3','2002'])
