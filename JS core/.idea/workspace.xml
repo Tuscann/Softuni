@@ -22,38 +22,7 @@
     <favorites_list name="JS core" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="02. Road Radar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/02. Road Radar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2294">
-              <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03. Template Format.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/03. Template Format.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04. Cooking by Numbers.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/04. Cooking by Numbers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,12 +46,18 @@
         <option value="$PROJECT_DIR$/03.Expressions and Statements/13.01 Last Month.js" />
         <option value="$PROJECT_DIR$/05.Lab  Functions and Arrow Functions/test.js" />
         <option value="$PROJECT_DIR$/05.Lab  Functions and Arrow Functions/07.Words Uppercase.js" />
-        <option value="$PROJECT_DIR$/06.Function and Arrow Functions/01. Inside Volume.js" />
         <option value="$PROJECT_DIR$/05.Lab  Functions and Arrow Functions/07.01 Words Uppercase.js" />
         <option value="$PROJECT_DIR$/05.Lab  Functions and Arrow Functions/07.1 Words Uppercase.js" />
         <option value="$PROJECT_DIR$/06.Function and Arrow Functions/02. Road Radar.js" />
         <option value="$PROJECT_DIR$/06.Function and Arrow Functions/03. Template Format.js" />
         <option value="$PROJECT_DIR$/06.Function and Arrow Functions/04. Cooking by Numbers.js" />
+        <option value="$PROJECT_DIR$/03.Expressions and Statements/04.01 Distance in 3D.js" />
+        <option value="$PROJECT_DIR$/03.Expressions and Statements/test.js" />
+        <option value="$PROJECT_DIR$/06.Function and Arrow Functions/06. Validity Checker.js" />
+        <option value="$PROJECT_DIR$/06.Function and Arrow Functions/05.01.js" />
+        <option value="$PROJECT_DIR$/06.Function and Arrow Functions/05. Modify Average.js" />
+        <option value="$PROJECT_DIR$/06.Function and Arrow Functions/test.js" />
+        <option value="$PROJECT_DIR$/06.Function and Arrow Functions/01. Inside Volume.js" />
       </list>
     </option>
   </component>
@@ -172,20 +147,20 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
-  <component name="RunManager" selected="Node.js.03. Template Format.js">
-    <configuration default="false" name="07.Words Uppercase.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/05.Lab  Functions and Arrow Functions/07.00 Words Uppercase.js" working-dir="$PROJECT_DIR$/05.Lab  Functions and Arrow Functions">
+  <component name="RunManager" selected="Node.js.01. Inside Volume.js">
+    <configuration default="false" name="05. Modify Average.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05. Modify Average.js" working-dir="$PROJECT_DIR$/06.Function and Arrow Functions">
+      <method />
+    </configuration>
+    <configuration default="false" name="06. Validity Checker.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06. Validity Checker.js" working-dir="$PROJECT_DIR$/06.Function and Arrow Functions">
+      <method />
+    </configuration>
+    <configuration default="false" name="05.01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05.01.js" working-dir="$PROJECT_DIR$/06.Function and Arrow Functions">
       <method />
     </configuration>
     <configuration default="false" name="01. Inside Volume.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01. Inside Volume.js" working-dir="$PROJECT_DIR$/06.Function and Arrow Functions">
       <method />
     </configuration>
-    <configuration default="false" name="07.1 Words Uppercase.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/05.Lab  Functions and Arrow Functions/07.01 Words Uppercase.js" working-dir="$PROJECT_DIR$/05.Lab  Functions and Arrow Functions">
-      <method />
-    </configuration>
-    <configuration default="false" name="02. Road Radar.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. Road Radar.js" working-dir="$PROJECT_DIR$/06.Function and Arrow Functions">
-      <method />
-    </configuration>
-    <configuration default="false" name="03. Template Format.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03. Template Format.js" working-dir="$PROJECT_DIR$/06.Function and Arrow Functions">
+    <configuration default="false" name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/06.Function and Arrow Functions">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -242,19 +217,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.07.Words Uppercase.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.01. Inside Volume.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.07.1 Words Uppercase.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.02. Road Radar.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.03. Template Format.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.05. Modify Average.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.06. Validity Checker.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.05.01.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.01. Inside Volume.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.03. Template Format.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.02. Road Radar.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.07.1 Words Uppercase.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.01. Inside Volume.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.07.Words Uppercase.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.01. Inside Volume.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.05. Modify Average.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.05.01.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.06. Validity Checker.js" />
       </list>
     </recent_temporary>
   </component>
@@ -275,23 +250,23 @@
       <workItem from="1475007722545" duration="1100000" />
       <workItem from="1475044881871" duration="1016000" />
       <workItem from="1475071568560" duration="1365000" />
-      <workItem from="1475073648837" duration="10422000" />
+      <workItem from="1475073648837" duration="20418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35899000" />
+    <option name="totallyTimeSpent" value="45895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="40" width="1928" height="1044" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22696155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -391,13 +366,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03.Expressions and Statements/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04.Conditional Statements and Loops/08. Figure of 4 Squares.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -430,20 +398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Expressions and Statements/04.01 Distance in 3D.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Expressions and Statements/04. Distance in 3D.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -541,10 +495,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/01. Inside Volume.js">
+    <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/03. Template Format.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="12" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/04. Cooking by Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -557,18 +519,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/03. Template Format.js">
+    <entry file="file://$PROJECT_DIR$/03.Expressions and Statements/04. Distance in 3D.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="2" />
+        <state relative-caret-position="126">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/04. Cooking by Numbers.js">
+    <entry file="file://$PROJECT_DIR$/03.Expressions and Statements/04.01 Distance in 3D.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Expressions and Statements/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/05.01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/05. Modify Average.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/01. Inside Volume.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/06. Validity Checker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>

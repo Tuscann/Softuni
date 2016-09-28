@@ -17,8 +17,8 @@ function solve(input) {
         return `{` + a + `, ` + b + `} to {` + c + `, ` + d + `} is invalid`;
     }
 
-    console.log(isValid(x1, x2, 0, 0));
+    console.log(isValid(x1, y1, 0, 0));
     console.log(isValid(x2, y2, 0, 0));
     console.log(isValid(x1, y1, x2, y2));
 }
-solve(["3.5", "0", "1", "0", "2", "-1"]);
+solve(['3','0','0','4']);
