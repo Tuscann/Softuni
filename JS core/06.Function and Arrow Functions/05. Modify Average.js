@@ -18,7 +18,7 @@ function sas(input) {
 
            var curentNumberSum = string.split('').reduce(function (prev, current) {
                     return parseInt(prev, 10) + parseInt(current, 10);
-                }, 0);         // прьави число от текущата сума
+                }, 0);         // прави число от текущата сума
 
             if (curentNumberSum / string.length > 5) {
                 console.log(string);  //ако средната сума е по голяма от 5 печатаи
