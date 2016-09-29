@@ -15,8 +15,8 @@ function vol(input) {
         }
         function inVolume(x, y, z) {
             let x1 = 10, x2 = 50;
-            let y1 = 10, y2 = 50;
-            let z1 = 10, z2 = 50;
+                let y1 = 20, y2 = 80;
+                   let z1 = 15, z2 = 50;
 
             if (x >= x1 && x <= x2) {
                 if (y >= y1 && y <= y2) {
