@@ -22,18 +22,7 @@
     <favorites_list name="JS core" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="08. Biggest Element.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/08. Biggest Element.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="8" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,15 +65,21 @@
         <option value="$PROJECT_DIR$/06.Function and Arrow Functions/09. Radio Crystals.js" />
         <option value="$PROJECT_DIR$/06.Function and Arrow Functions/02.01.js" />
         <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/01. Sum First Last.js" />
-        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/02. Even Position Elements.js" />
         <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/03. Negative  Positive Numbers.js" />
         <option value="$PROJECT_DIR$/06.Function and Arrow Functions/01. Inside Volume.js" />
         <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/04. First and Last K Numbers.js" />
         <option value="$PROJECT_DIR$/06.Function and Arrow Functions/08. Trip Length.js" />
-        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/05. Last K Numbers Sequence.js" />
         <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/06. Process Odd Numbers.js" />
+        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/09. Diagonal Sums.js" />
+        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/02. Even Position Elements.js" />
+        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/05.01..js" />
+        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/05. Last K Numbers Sequence.js" />
         <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/07. Smallest Two Numbers.js" />
         <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/08. Biggest Element.js" />
+        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/test.js" />
+        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/09.01.Diagonal Sums.js" />
+        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/10. Equal Neighbors.js" />
+        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/10.01  Equal Neighbors.js" />
       </list>
     </option>
   </component>
@@ -125,8 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -145,22 +138,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="07.Lab  Arrays and Matrices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,20 +155,20 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
-  <component name="RunManager" selected="Node.js.08. Biggest Element.js">
-    <configuration default="false" name="05. Last K Numbers Sequence.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05. Last K Numbers Sequence.js" working-dir="$PROJECT_DIR$/07.Lab  Arrays and Matrices">
-      <method />
-    </configuration>
-    <configuration default="false" name="08. Trip Length.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="08. Trip Length.js" working-dir="$PROJECT_DIR$/06.Function and Arrow Functions">
-      <method />
-    </configuration>
-    <configuration default="false" name="06. Process Odd Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06. Process Odd Numbers.js" working-dir="$PROJECT_DIR$/07.Lab  Arrays and Matrices">
-      <method />
-    </configuration>
-    <configuration default="false" name="07. Smallest Two Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07. Smallest Two Numbers.js" working-dir="$PROJECT_DIR$/07.Lab  Arrays and Matrices">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.10.01  Equal Neighbors.js">
     <configuration default="false" name="08. Biggest Element.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="08. Biggest Element.js" working-dir="$PROJECT_DIR$/07.Lab  Arrays and Matrices">
+      <method />
+    </configuration>
+    <configuration default="false" name="09. Diagonal Sums.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="09. Diagonal Sums.js" working-dir="$PROJECT_DIR$/07.Lab  Arrays and Matrices">
+      <method />
+    </configuration>
+    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/07.Lab  Arrays and Matrices/09.01.Diagonal Sums.js" working-dir="$PROJECT_DIR$/07.Lab  Arrays and Matrices">
+      <method />
+    </configuration>
+    <configuration default="false" name="10. Equal Neighbors.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10. Equal Neighbors.js" working-dir="$PROJECT_DIR$/07.Lab  Arrays and Matrices">
+      <method />
+    </configuration>
+    <configuration default="false" name="10.01  Equal Neighbors.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10.01  Equal Neighbors.js" working-dir="$PROJECT_DIR$/07.Lab  Arrays and Matrices">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -244,19 +225,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.05. Last K Numbers Sequence.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.08. Trip Length.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.06. Process Odd Numbers.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.07. Smallest Two Numbers.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.08. Biggest Element.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.08. Biggest Element.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.09. Diagonal Sums.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.10. Equal Neighbors.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.10.01  Equal Neighbors.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.08. Biggest Element.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.07. Smallest Two Numbers.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.06. Process Odd Numbers.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.08. Trip Length.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.05. Last K Numbers Sequence.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.10.01  Equal Neighbors.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.10. Equal Neighbors.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.09. Diagonal Sums.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.08. Biggest Element.js" />
       </list>
     </recent_temporary>
   </component>
@@ -280,21 +261,22 @@
       <workItem from="1475073648837" duration="20418000" />
       <workItem from="1475131744258" duration="25734000" />
       <workItem from="1475161445015" duration="11882000" />
+      <workItem from="1475228299177" duration="13880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83511000" />
+    <option name="totallyTimeSpent" value="97391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="40" width="1928" height="1044" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19799894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25855714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26140156" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26140156" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -318,41 +300,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03.Expressions and Statements/01. Hello JavaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Expressions and Statements/02. Area and Perimeter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Expressions and Statements/03. Distance over Time.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Expressions and Statements/06. Compound Interest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Expressions and Statements/07. Rounding.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03.Expressions and Statements/08. Imperial Units.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -600,75 +547,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/01. Sum First Last.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="5" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/03. Negative  Positive Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="17" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/01. Inside Volume.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/04. First and Last K Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/05. Last K Numbers Sequence.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/02. Even Position Elements.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/08. Trip Length.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/06. Process Odd Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/07. Smallest Two Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="3" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -676,14 +558,117 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Function and Arrow Functions/08. Trip Length.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/02. Even Position Elements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-232">
+          <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/01. Sum First Last.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/03. Negative  Positive Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/04. First and Last K Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/05.01..js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/05. Last K Numbers Sequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/07. Smallest Two Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/06. Process Odd Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/08. Biggest Element.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="8" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="168">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/09.01.Diagonal Sums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/09. Diagonal Sums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/10.01  Equal Neighbors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/10. Equal Neighbors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="23" selection-end-column="87" />
           <folding />
         </state>
       </provider>

@@ -1,11 +1,19 @@
 function az(input) {
-    let marix = input.map(row=>row.split(' ').map(Number));
+    // let marix = input.map(row=>row.split(' ').map(Number));
+    //
+    // let biggest = Number.NEGATIVE_INFINITY;
+    //
+    // marix.forEach(row=>row.forEach(c => biggest = Math.max(biggest, c)));
+    //
+    // console.log(biggest);
 
-    let biggest = Number.NEGATIVE_INFINITY;
+    let array = input.join(' ')
+        .split(' ')
+        .map(Number)
+        .sort((a, b)=>b - a)
+        .slice(0, 1);
 
-    marix.forEach(row=>row.forEach(c => biggest = Math.max(biggest, c)));
-
-    console.log(biggest);
+    console.log(array);
 }
-az(['20 50 10', '8 33 145']
-);
+az(['20 50 10', '8 33 145']);
+az(['1 2 345 3', '3 123 6567 124']);
