@@ -22,3 +22,4 @@ function multiplicationTable(input) {
 
     return table;
 }
+console.log(multiplicationTable(['3']));

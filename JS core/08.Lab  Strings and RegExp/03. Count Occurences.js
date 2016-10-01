@@ -5,9 +5,9 @@ function aza([string,text]) {
 
     while (true) {
         p = text.indexOf(string, p + 1);
-        if (p == -1) {
+        if (p == -1)
             return count;
-        }
+
         count++;
     }
 }

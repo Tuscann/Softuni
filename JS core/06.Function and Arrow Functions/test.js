@@ -1,21 +1,100 @@
-function trip([x1,y1,x2,y2,x3,y3]) {
-    [x1, y1, x2, y2, x3, y3] = [x1, y1, x2, y2, x3, y3].map(Number);
+function radioCrystals(input) {
+    input = input.map(Number);
 
-    let AandB = Math.sqrt(Math.pow(Math.abs(x1 - x2), 2) + Math.pow(Math.abs(y1 - y2), 2));
-    let BandC = Math.sqrt(Math.pow(Math.abs(x2 - x3), 2) + Math.pow(Math.abs(y2 - y3), 2));
-    let AandC = Math.sqrt(Math.pow(Math.abs(x1 - x3), 2) + Math.pow(Math.abs(y1 - y3), 2));
+    let desired = input[0];
 
-    let distance1and2 = AandB + BandC;
-    let distance2and3 = BandC + AandC;
-    let distance1and3 = AandB + AandC;
-    if (distance1and2 <= distance2and3) {
-        console.log("1->2->3: " + distance1and2)
+    function cut(crystal) {
+        return crystal / 4;
     }
-    else if (distance1and3 < distance2and3) {
-        console.log("2->1->3: " + distance1and3);
+
+    function lap(crystal) {
+        return  crystal * 0.8;
     }
-    else {
-        console.log("1->3->2: " + distance2and3);
+
+    function grind(crystal) {
+        return crystal - 20;
     }
+
+    function etch(crystal) {
+        return crystal - 2;
+    }
+
+    function transportAndWash(crystal) {
+        console.log('Transporting and washing');
+        return Math.floor(crystal);
+    }
+
+
+    for (let i = 1; i < input.length; i++){
+        let current = input[i];
+
+        console.log(`Processing chunk ${current} microns`);
+
+        let op = 'Cut';
+        let times = 0;
+        let cutSize = cut(current);
+        while (cutSize >= desired || (parseInt(desired - cutSize) === 1)){
+            current = cutSize;
+            times++;
+            cutSize = cut(current);
+        }
+
+        if (times > 0){
+            console.log(`${op} x${times}`);
+            current = transportAndWash(current);
+            times = 0;
+        }
+
+        op = "Lap";
+        let lapSize = lap(current);
+        while (lapSize >= desired || (parseInt(desired - lapSize) === 1)){
+            current = lapSize;
+            times++;
+            lapSize = lap(current);
+        }
+
+        if (times > 0){
+            console.log(`${op} x${times}`);
+            current = transportAndWash(current);
+            times = 0;
+        }
+
+        op = "Grind";
+        let grindSize = grind(current);
+        while (grindSize >= desired || (parseInt(desired - grindSize) === 1)){
+            current = grindSize;
+            times++;
+            grindSize = grind(current);
+        }
+
+        if (times > 0){
+            console.log(`${op} x${times}`);
+            current = transportAndWash(current);
+            times = 0;
+        }
+
+        op = "Etch";
+        let etchSize = etch(current);
+        while (etchSize >= desired || (parseInt(desired - etchSize) === 1)){
+            current = etchSize;
+            times++;
+            etchSize = etch(current);
+        }
+
+        if (times > 0){
+            console.log(`${op} x${times}`);
+            current = transportAndWash(current);
+            times = 0;
+        }
+
+
+        if (parseInt(desired - current) === 1){
+            console.log(`X-ray x1`);
+        }
+    }
+
+    console.log(`Finished crystal ${desired} microns`);
 }
-trip([0, 0, 2, 0, 4, 0]);
+
+// radioCrystals([1000, 4000, 8100]);
+radioCrystals(['100', '100.1', '101.9', '102']);
