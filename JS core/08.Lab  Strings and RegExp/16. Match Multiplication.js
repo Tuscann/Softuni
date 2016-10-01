@@ -3,7 +3,7 @@ function matchMultiplication([text]) {
     let pattern = /-?\d+[ *.]+-?[\d].[\d]+/g;
 
     // -? може и да има знак минус може и да няма
-    
+
     text = text.replace(pattern, (match) =>
     {
         let numbers = match.split('*').filter(x => x != '').map(Number);
