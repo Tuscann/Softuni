@@ -18,6 +18,6 @@ function k(input) {
         console.log('None');
     }
 }
-//k(['key value', 'key eulav', 'test tset', 'key']);
+k(['key value', 'key eulav', 'test tset', 'key']);
 // k(['3 test', '3 test1', '4 test2', '4 test3', '4 test5', '4']);
 //k(['3 bla', '3 alb', '2']);

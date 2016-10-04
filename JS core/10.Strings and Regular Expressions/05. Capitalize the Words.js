@@ -1,16 +1,11 @@
 function a(input) {
 
-    let emptyString = "";
-    for (let i = 0; i < input.length; i++) {
-        let cuurent = input[0].split(' ');
+    let cuurent = input[0].split(' ')
+        .map(ch=>ch.substring(0, 1).toUpperCase()
+        + ch.substring(1, ch.length).toLowerCase())
+        .join(' ');
 
-        let regulalExp = '/[a-zA-Z]+/g';
-
-        let t = cuurent.match(regulalExp);
-
-        console.log(t);
-    }
-
-
+    console.log(cuurent);
 }
 a(['Capitalize these words']);
+a(['Was that Easy? tRY thIs onE for SiZe!']);
