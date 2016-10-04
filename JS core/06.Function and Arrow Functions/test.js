@@ -1,100 +1,32 @@
-function radioCrystals(input) {
-    input = input.map(Number);
+function dist([x1,y1,x2,y2,x3,y3]) {
+    [x1, y1, x2, y2, x3, y3] = [x1, y1, x2, y2, x3, y3].map(Number);
+    let arr = [];
+    let d1 = Math.sqrt(Math.pow(x1 - x2, 2) + Math.pow(y1 - y2, 2));
+    let d2 = Math.sqrt(Math.pow(x2 - x3, 2) + Math.pow(y2 - y3, 2));
+    let d3 = Math.sqrt(Math.pow(x1 - x3, 2) + Math.pow(y1 - y3, 2));
+    arr.push(d1, d2, d3);
+    arr = arr.sort(function(a, b){return a-b});
+    let result = arr[0] + arr[1];
+    console.log(calc(d1, d2, d3) + ': ' + result);
 
-    let desired = input[0];
-
-    function cut(crystal) {
-        return crystal / 4;
-    }
-
-    function lap(crystal) {
-        return  crystal * 0.8;
-    }
-
-    function grind(crystal) {
-        return crystal - 20;
-    }
-
-    function etch(crystal) {
-        return crystal - 2;
-    }
-
-    function transportAndWash(crystal) {
-        console.log('Transporting and washing');
-        return Math.floor(crystal);
-    }
-
-
-    for (let i = 1; i < input.length; i++){
-        let current = input[i];
-
-        console.log(`Processing chunk ${current} microns`);
-
-        let op = 'Cut';
-        let times = 0;
-        let cutSize = cut(current);
-        while (cutSize >= desired || (parseInt(desired - cutSize) === 1)){
-            current = cutSize;
-            times++;
-            cutSize = cut(current);
+    function calc(d1, d2, d3) {
+        if (d1 == d2 || d2 == d3 || d1 == d3) {
+            return "1->2->3";
         }
-
-        if (times > 0){
-            console.log(`${op} x${times}`);
-            current = transportAndWash(current);
-            times = 0;
+        else if (d1 > d2 && d1 > d3) {
+            if (d2 > d3) return "1->2->3";
+            else if (d2 < d3) return "1->3->2";
         }
-
-        op = "Lap";
-        let lapSize = lap(current);
-        while (lapSize >= desired || (parseInt(desired - lapSize) === 1)){
-            current = lapSize;
-            times++;
-            lapSize = lap(current);
+        else if (d2 > d1 && d2 > d3) {
+            if (d1 > d3) return "2->1->3";
+            else if (d1 < d3) return "2->3->1";
         }
-
-        if (times > 0){
-            console.log(`${op} x${times}`);
-            current = transportAndWash(current);
-            times = 0;
-        }
-
-        op = "Grind";
-        let grindSize = grind(current);
-        while (grindSize >= desired || (parseInt(desired - grindSize) === 1)){
-            current = grindSize;
-            times++;
-            grindSize = grind(current);
-        }
-
-        if (times > 0){
-            console.log(`${op} x${times}`);
-            current = transportAndWash(current);
-            times = 0;
-        }
-
-        op = "Etch";
-        let etchSize = etch(current);
-        while (etchSize >= desired || (parseInt(desired - etchSize) === 1)){
-            current = etchSize;
-            times++;
-            etchSize = etch(current);
-        }
-
-        if (times > 0){
-            console.log(`${op} x${times}`);
-            current = transportAndWash(current);
-            times = 0;
-        }
-
-
-        if (parseInt(desired - current) === 1){
-            console.log(`X-ray x1`);
+        else if (d3 > d1 && d3 > d2) {
+            if (d1 > d2) return "3->1->2";
+            else if (d1 < d2) return "3->2->1";
         }
     }
-
-    console.log(`Finished crystal ${desired} microns`);
 }
-
-// radioCrystals([1000, 4000, 8100]);
-radioCrystals(['100', '100.1', '101.9', '102']);
+dist([5, 1, 1, 1, 5, 4]);
+dist([0, 0, 2, 0, 4, 0]);
+dist([-1, -2, 3.5, 0, 0, 2]);
