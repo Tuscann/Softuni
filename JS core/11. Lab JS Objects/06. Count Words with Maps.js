@@ -5,12 +5,10 @@ function a(input) {
     let wordsCount = new Map();
 
     for (let something of words) {
-        if (wordsCount.has(something))
-        {
+        if (wordsCount.has(something)) {
             wordsCount.set(something, wordsCount.get(something) + 1)
         }
-        else
-        {
+        else {
             wordsCount.set(something, 1)
         }
     }

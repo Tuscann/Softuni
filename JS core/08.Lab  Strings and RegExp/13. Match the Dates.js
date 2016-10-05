@@ -12,14 +12,14 @@ function a(input) {
         let match = pattern.exec(currentSentence);
 
         while (match) {
-            dates.push(match[0]+` (Day: ${match[1]}, Month: ${match[2]}, Year: ${match[3]})`);
+            dates.push(match[0] + ` (Day: ${match[1]}, Month: ${match[2]}, Year: ${match[3]})`);
             match = pattern.exec(currentSentence)
         }
     }
     console.log(dates.join(`\n`));
 }
-a([ '1-Jan-1999 is a valid date.',
+a(['1-Jan-1999 is a valid date.',
     'So is 01-July-2000.',
     'I am an awful liar, by the way',
-    '-- Ivo, 28-Sep-2016.' ]);
+    '-- Ivo, 28-Sep-2016.']);
 a([]);
