@@ -6,9 +6,9 @@ function trip([x1,y1,x2,y2,x3,y3]) {
     let BC = Math.sqrt((x2 - x3) * (x2 - x3) + (y2 - y3) * (y2 - y3));
     let AC = Math.sqrt((x1 - x3) * (x1 - x3) + (y1 - y3) * (y1 - y3));
 
-    console.log(AB);
-    console.log(BC);
-    console.log(AC);
+    // console.log(AB);
+    // console.log(BC);
+    // console.log(AC);
 
     if (AB + BC <= BC + AC) {
         console.log('1->2->3: ' + Number(AB + BC));

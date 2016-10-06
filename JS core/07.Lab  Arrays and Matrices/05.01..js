@@ -18,5 +18,4 @@ function lastKNumbersSequence([num, len]){
     //     console.log(n);
     // }
 }
-
 lastKNumbersSequence([6, 3]);

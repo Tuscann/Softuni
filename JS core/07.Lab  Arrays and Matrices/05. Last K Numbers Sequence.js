@@ -12,7 +12,7 @@ function a(input) {
         result = tempArray.reduce((a, b)=>a + b);
 
 
-        console.log(result);
+        // console.log(result);
 
         // for ( let i = start; i <end ; i++)
         // {
@@ -29,3 +29,4 @@ function a(input) {
 }
 a(['6', '3']);
 // a(['8', '2']);
+a([6, 3]);

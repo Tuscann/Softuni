@@ -1,13 +1,14 @@
-function validateLink(array){
-    let regex = /www\.[A-Za-z0-9\-]+\.[a-z]+(?:\.[a-z]+)*/g;
-    let result = [];
-    for(let sentence of array){
-        let match = sentence.match(regex);
-        if(match != null) {
-            for (let occurrance of match) {
-                result.push(occurrance);
-            }
-        }
+function task15(input){
+    console.log("<ul>");
+    for(let i of input){
+        let text = "  <li>";
+        let sen = i.replace(`//(s*|d)<(s*|d)//`, "&lt");
+        sen = i.replace(`//(s*|d)>(s*|d)//`, "&gt;");
+        sen = i.replace("&", "&amp");
+        sen = i.replace("\"", "&quot");
+        text += sen;
+        text += "</li>";
+        console.log(text);
     }
-    console.log(result.join('\n'));
+    console.log("</ul>");
 }
