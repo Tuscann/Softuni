@@ -6,7 +6,5 @@ function a(input) {
     {
       console.log(input[i]);
     }
-
-
 }
 a([5, 20, 31, 4, 20, 2]);

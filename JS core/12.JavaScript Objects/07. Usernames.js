@@ -12,9 +12,7 @@ function a (input) {
       }
 
       return nameA.localeCompare(nameB);
-
   }
-
-
+    console.log([...userNames].sort(compareNames).join('\n'));
 }
 a(["Denise","Ignatius","Iris","Isacc","Indie","Dean","Donatello","Enfuego","Benjamin","Biser","Bounty","Renard","Rot"]);
