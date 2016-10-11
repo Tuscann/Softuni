@@ -14,8 +14,6 @@ function a(input) {
         if (!total.get(systemName).has(componentName)) {
             total.get(systemName).set(componentName, 0)
         }
-
     }
-
 }
 a([]);

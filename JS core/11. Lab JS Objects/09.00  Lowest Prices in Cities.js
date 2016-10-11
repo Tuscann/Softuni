@@ -21,7 +21,7 @@ function a(input) {
                 minPriceTown = town;
             }
         }
-        console.log(`${product}-> ${minPrice} (${minPriceTown})`);
+        console.log(`${product} -> ${minPrice} (${minPriceTown})`);
     }
 }
 a([
