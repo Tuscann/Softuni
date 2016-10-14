@@ -6,14 +6,11 @@ function a(input) {
 
     for (i = 0; i < input.length; i++) {
         let x = input[i].match(patern);
-        // console.log(x);
+
         if (x != null) {
             total += Number(x[2]);
         }
     }
-    // console.log(total);
-
-
     let x1 = Math.floor(total / 100);
     total = total % 100;
     let x2 = Math.floor((total / 10));

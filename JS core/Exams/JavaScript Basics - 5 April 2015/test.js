@@ -1,4 +1,9 @@
-function a() {
-    console.log(parseInt(3456%100));
+function dump_props(obj, obj_name) {
+    var result = "";
+    for (var i in obj) {
+        result += obj_name + "." + i + " = " + obj[i] + "<br>";
+    }
+    result += "<hr>";
+    return result;
 }
-a([]);
+console.log(dump_props(['dsfsdf','fsdfs']));
