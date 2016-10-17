@@ -22,24 +22,40 @@
     <favorites_list name="JS core" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="01.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/01.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02..html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/02..html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/05.01..js" />
-        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/05. Last K Numbers Sequence.js" />
-        <option value="$PROJECT_DIR$/07.Lab  Arrays and Matrices/08. Biggest Element.js" />
-        <option value="$PROJECT_DIR$/08.Lab  Strings and RegExp/11. Email Validation.js" />
-        <option value="$PROJECT_DIR$/12.JavaScript Objects/01. Heroic Inventory.js" />
         <option value="$PROJECT_DIR$/12.JavaScript Objects/02. JSON's Table.js" />
         <option value="$PROJECT_DIR$/12.JavaScript Objects/02.01 JSON's Table.js" />
         <option value="$PROJECT_DIR$/10.Strings and Regular Expressions/test.js" />
@@ -79,13 +95,18 @@
         <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 31 January 2016/01.01.js" />
         <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/01.Daggers and Swords.js" />
         <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 31 January 2016/02. X-Removal.js" />
-        <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/01.00 Daggers and Swords.js" />
-        <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/test.js" />
-        <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/02. X-Removal.js" />
-        <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/03. Query Mess.js" />
         <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/04. Vladko's Notebook.js" />
         <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 5 April 2015/01. Uncle Scrooge’s Bag.js" />
         <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 5 April 2015/test.js" />
+        <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/02. X-Removal.js" />
+        <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/03. Query Mess.js" />
+        <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/dfasdfas.js" />
+        <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/03.00 Query Mess.js" />
+        <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/01.00 Daggers and Swords.js" />
+        <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/test.js" />
+        <option value="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/01.01 Daggers and Swords.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/test.html" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/02..html" />
       </list>
     </option>
   </component>
@@ -126,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -154,31 +176,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Exams" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS core" />
+              <option name="myItemId" value="JavaScript Advanced" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Exams" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript Basics - 5 April 2015" />
+              <option name="myItemId" value="01.Lab DOM and Events" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -197,28 +204,30 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Fundamentals" />
       <recent name="C:\Users\123\Desktop\Softuni\JS core\Exams\JavaScript Basics - 22 Nov 2014" />
       <recent name="E:\Softuni\JS core" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\01.Lab DOM and Events" />
       <recent name="E:\Softuni\JS core\13.JS and Canvas 2D" />
       <recent name="E:\Softuni\JS core\11. Lab JS Objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.test.js (1)">
-    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014">
+  <component name="RunManager" selected="Node.js.04.02 Radical_Marketing.js">
+    <configuration default="false" name="01.00 Daggers and Swords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014/01.00 Daggers and Swords.js" working-dir="$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014">
       <method />
     </configuration>
-    <configuration default="false" name="02. X-Removal.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. X-Removal.js" working-dir="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014">
+    <configuration default="false" name="03.00 Query Mess.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014/03.00 Query Mess.js" working-dir="$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014">
       <method />
     </configuration>
-    <configuration default="false" name="03. Query Mess.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03. Query Mess.js" working-dir="$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014">
+    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014/test.js" working-dir="$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014">
       <method />
     </configuration>
-    <configuration default="false" name="01. Uncle Scrooge’s Bag.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01. Uncle Scrooge’s Bag.js" working-dir="$PROJECT_DIR$/Exams/JavaScript Basics - 5 April 2015">
+    <configuration default="false" name="01.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS core/JavaScript Advanced/01.Lab DOM and Events/01.html">
       <method />
     </configuration>
-    <configuration default="false" name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/Exams/JavaScript Basics - 5 April 2015">
+    <configuration default="false" name="04.02 Radical_Marketing.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04.02 Radical_Marketing.js" working-dir="$PROJECT_DIR$/../../16.10.2016">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -275,19 +284,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.02. X-Removal.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.03. Query Mess.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.01. Uncle Scrooge’s Bag.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.01.00 Daggers and Swords.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.03.00 Query Mess.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.01.html" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.04.02 Radical_Marketing.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.01. Uncle Scrooge’s Bag.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.03. Query Mess.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.02. X-Removal.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.04.02 Radical_Marketing.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.01.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.01.00 Daggers and Swords.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.03.00 Query Mess.js" />
       </list>
     </recent_temporary>
   </component>
@@ -339,11 +348,15 @@
       <workItem from="1476390817933" duration="3588000" />
       <workItem from="1476401534500" duration="756000" />
       <workItem from="1476452364191" duration="17804000" />
+      <workItem from="1476519180442" duration="21502000" />
+      <workItem from="1476596788572" duration="44000" />
+      <workItem from="1476694811064" duration="3775000" />
+      <workItem from="1476712519569" duration="5321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="334921000" />
+    <option name="totallyTimeSpent" value="365563000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,21 +371,21 @@
     <frame x="-4" y="24" width="1374" height="748" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11078067" sideWeight="0.7466267" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19628252" sideWeight="0.7466267" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43615258" sideWeight="0.5026022" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24543947" sideWeight="0.4951673" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43615258" sideWeight="0.5026022" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24212272" sideWeight="0.4951673" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2016851" sideWeight="0.25337332" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42951906" sideWeight="0.49739778" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47263682" sideWeight="0.49739778" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -394,45 +407,16 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11. Lab JS Objects/2.01.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11. Lab JS Objects/09.00  Lowest Prices in Cities.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11. Lab JS Objects/09.01  Lowest Prices in Cities.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11. Lab JS Objects/10.01 Extract Unique Words.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.839/01.ExamResults-Solution.js" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.783/03.SoftUniForum-Solution-2.js" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.238/03.SoftUniForum-Solution.js" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.751/03.SoftUniForum-Solution-2.js" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.237/03.SoftUniForum-Solution.js" />
-    <entry file="file://$PROJECT_DIR$/08.Lab  Strings and RegExp/02. Concatenate and Reverse.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/08.Lab  Strings and RegExp/02. Concatenate and Reverse.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="5" selection-start-line="2" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
@@ -444,56 +428,56 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.069/01.ExamResults-Solution.js" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.177/01.ExamResults-Solution.js" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.153/01.ExamResults-Solution.js" />
-    <entry file="file://$PROJECT_DIR$/12.JavaScript Objects/01. Heroic Inventory.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/12.JavaScript Objects/01. Heroic Inventory.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.JavaScript Objects/02.01 JSON's Table.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/12.JavaScript Objects/02.01 JSON's Table.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="232" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.JavaScript Objects/03. Cappy Juice.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/12.JavaScript Objects/03. Cappy Juice.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="93" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.JavaScript Objects/04. Store Catalogue.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/12.JavaScript Objects/04. Store Catalogue.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="126" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.JavaScript Objects/05. Auto-Engineering Company.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/12.JavaScript Objects/05. Auto-Engineering Company.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="224" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.JavaScript Objects/07. Usernames.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/12.JavaScript Objects/07. Usernames.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="120" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.JavaScript Objects/08. Unique Sequences.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/12.JavaScript Objects/08. Unique Sequences.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07.Lab  Arrays and Matrices/test.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/07.Lab  Arrays and Matrices/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
@@ -502,203 +486,234 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.278/solve.js" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.801/01.TetevenTrip.js" />
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 13 May 2015/02. The Captain Obvious Tribulation.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 13 May 2015/02. The Captain Obvious Tribulation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 13 May 2015/01.00  Kitodar the Miner.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 13 May 2015/01.00  Kitodar the Miner.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="104" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 13 May 2015/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="29" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 13 May 2015/01.01  Kitodar the Miner.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 13 May 2015/01.01  Kitodar the Miner.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 13 May 2015/testte.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 13 May 2015/testte.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 11 May 2016/01. Medenka Wars.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 11 May 2016/01. Medenka Wars.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
           <caret line="50" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 11 May 2016/02. Bunny Kill.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 11 May 2016/02. Bunny Kill.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 11 May 2016/04.00  Angular Parser.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 11 May 2016/04.00  Angular Parser.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="61" column="139" selection-start-line="61" selection-start-column="139" selection-end-line="61" selection-end-column="139" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 11 May 2016/02.01.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 11 May 2016/02.01.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="11" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 11 May 2016/03.00 AJAX Request Validator.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 11 May 2016/03.00 AJAX Request Validator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="16" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="246" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 29 July 2014/01.00 Prices Trends.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 29 July 2014/01.00 Prices Trends.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.782/pricesTrendsTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.JavaScript Objects/06.01 System Components.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.782/pricesTrendsTable.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/12.JavaScript Objects/06.01 System Components.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.JavaScript Objects/06.00 System Components.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/12.JavaScript Objects/06.00 System Components.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.028/01.DaggersAndSwords.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/01.01 Daggers and Swords.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/01.00 Daggers and Swords.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.028/01.DaggersAndSwords.js" />
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="996" column="0" selection-start-line="996" selection-start-column="0" selection-end-line="996" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/02. X-Removal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/04. Vladko's Notebook.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="353" selection-start-line="46" selection-start-column="353" selection-end-line="46" selection-end-column="353" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 22 Nov 2014/03. Query Mess.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 5 April 2015/test.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 5 April 2015/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 5 April 2015/02. Flea Racing.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 5 April 2015/02. Flea Racing.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="30" column="57" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 5 April 2015/01. Uncle Scrooge’s Bag.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exams/JavaScript Basics - 31 January 2016/01. Exam Results.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 31 January 2016/01. Exam Results.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 5 April 2015/01. Uncle Scrooge’s Bag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 13 May 2015/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014/02.00 X-Removal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014/02.01 X-Removal .js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014/03. Query Mess.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014/03.00 Query Mess.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014/04. Vladko's Notebook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014/01.01 Daggers and Swords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Fundamentals/Exams/JavaScript Basics - 22 Nov 2014/01.00 Daggers and Swords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../16.10.2016/04.02 Radical_Marketing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../16.10.2016/04.01 Radical_Marketing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../16.10.2016/04.00 Radical_Marketing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1021">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../16.10.2016/04.03 Ra.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/02..html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>

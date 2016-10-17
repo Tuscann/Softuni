@@ -1,5 +1,0 @@
-function d (input) {
-
-
-}
-d();
