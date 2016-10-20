@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Collect List</title>
+</head>
+<body>
+<ul id="items">
+    <li>first item</li>
+    <li>second item</li>
+    <li>third item</li>
+</ul>
+<textarea id="result"></textarea>
+<br>
+<button onclick="extractText()">Extract Text</button>
+
+<script>
+    function extractText() {
+
+        document.getElementById('result').value = Array.from(document
+                .querySelectorAll('ul#items li'))
+                .map(li=>li.textContent)
+                .join('\n');
+
+//        let itemNodes = document.querySelectorAll("ul#items li");
+//        let textarea = document.querySelector("#result");
+//        for (let node of itemNodes) {
+//            textarea.value += node.textContent + "\n";
+//        }
+//        Judge
+//    function extractText() {
+//        return function () {
+//            let itemNodes =
+//                    document.querySelectorAll("ul#items li");
+//            let textarea =
+//                    document.querySelector("#result");
+//            for (let node of itemNodes) {
+//                textarea.value += node.textContent + "\n";
+//            }
+//        }
+//    }
+
+
+    }
+</script>
+
+</body>
+</html>
