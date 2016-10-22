@@ -31,4 +31,5 @@ function solve(arr) {
         return rect;
     }
 }
-console.log(solve([[10,5],[5,12]]));
+console.log(orderRects([[3, 4], [5, 3], [3, 4], [3, 5], [12, 1]])
+);
