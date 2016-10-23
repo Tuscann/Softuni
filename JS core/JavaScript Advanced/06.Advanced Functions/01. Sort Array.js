@@ -1,4 +1,4 @@
-function as (arrayNumbers, string) {
+function as(arrayNumbers, string) {
     let sorting =
     {
         asc: Array.apply(null, arrayNumbers.sort((a, b)=>a > b)),

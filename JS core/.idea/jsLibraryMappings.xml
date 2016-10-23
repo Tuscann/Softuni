@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events" libraries="{JS core/JavaScript Advanced/01.Lab DOM and Events/node_modules}" />
     <file url="PROJECT" libraries="{jquery-3.1.1}" />
     <includedPredefinedLibrary name="ECMAScript 6" />
+    <excludedPredefinedLibrary name="JS core/JavaScript Advanced/01.Lab DOM and Events/node_modules" />
   </component>
 </project>

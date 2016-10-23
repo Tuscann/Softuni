@@ -39,5 +39,6 @@ let createBook = (function createBook() {
 
         bookContainer.appendTo(fragment);
         container.append(fragment);
+        console.log(typeof bookContainer);
     }
 })();
