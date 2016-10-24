@@ -9,20 +9,14 @@
 <input type="text" id="num2"/>
 <input type="text" id="result" readonly/>
 <br>
-<button id="sumButton">
-    Sum
-</button>
-<button id="subtractButton">
-    Subtract
-</button>
-<script src="https://code.jquery.com/jquery-3.1.1.min.js"
-        integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-        crossorigin="anonymous"></script>
+<button id="sumButton">Sum</button>
+<button id="subtractButton">Subtract</button>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script src="05. Sum.js"></script>
 <script>
-    $(function () {
-        result();
-    })
+    window.onload = function(){
+        getModel();
+    }
 </script>
 </body>
 </html>

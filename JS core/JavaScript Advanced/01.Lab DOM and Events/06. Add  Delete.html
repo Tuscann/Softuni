@@ -13,11 +13,15 @@
 
 <script>
     function addItem() {
-        function deleteItem() {
-        }
+        let li = document.createElement('li');
+        li.innerHTML = document.getElementById('newText').value + ' <a href="#">[Delete]</a>';
+        document.getElementById('items').appendChild(li);
+        document.getElementById('newText').value = '';
+        let link = li.lastElementChild;
+        link.addEventListener('click', function () {
+            this.parentNode.parentNode.removeChild(this.parentNode);
+        });
     }
-
-
 </script>
 
 
