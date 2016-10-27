@@ -1,10 +1,10 @@
-function as(arrayNumbers, string) {
+function as(itrms, sortOrder) {
     let sorting =
     {
-        asc: Array.apply(null, arrayNumbers.sort((a, b)=>a > b)),
-        desc: Array.apply(null, arrayNumbers.sort((a, b)=>b > a))
+        asc: Array.apply(null, itrms.sort((a, b)=>a > b)),
+        desc: Array.apply(null, itrms.sort((a, b)=>b > a))
     };
-    return sorting[string];
+    return sorting[sortOrder];
 }
 console.log(as([14, 7, 17, 6, 8], 'asc'));
 console.log(as([14, 7, 17, 6, 8], 'desc'));
