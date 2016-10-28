@@ -1,6 +1,3 @@
-/**
- * Created by 123 on 27/10/2016.
- */
 class Rectangle {
     constructor(width, height, color) {
         this.width = width;
