@@ -23,21 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="02. Person Class.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/02. Person Class.js">
+      <file leaf-file-name="06. Cards.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/06. Cards.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03. Get Persons.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/03. Get Persons.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -103,11 +93,11 @@
         <option value="$PROJECT_DIR$/JavaScript Advanced/07  Object Composition/07.html" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/07  Object Composition/08. Bug Tracker.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/01. Rectangle Class.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/05. Point Distance.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/04. Circle.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/06. Cards.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/02. Person Class.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/03. Get Persons.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/04. Circle.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/05. Point Distance.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/06. Cards.js" />
       </list>
     </option>
   </component>
@@ -126,9 +116,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="28" />
-    <option name="width" value="691" />
-    <option name="height" value="740" />
+    <option name="x" value="-4" />
+    <option name="y" value="24" />
+    <option name="width" value="1374" />
+    <option name="height" value="748" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -215,24 +206,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript Advanced" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10.Lab Classes and Members" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -271,20 +244,20 @@
       <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.02. Person Class.js">
-    <configuration default="false" name="01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/01. Sort Array.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions">
-      <method />
-    </configuration>
-    <configuration default="false" name="01.00  Sort Array.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01.00  Sort Array.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions">
-      <method />
-    </configuration>
-    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/05.Lab Object Composition">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.06. Cards.js">
     <configuration default="false" name="01. Array extension.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01. Array extension.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/07  Object Composition">
       <method />
     </configuration>
     <configuration default="false" name="02. Person Class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. Person Class.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members">
+      <method />
+    </configuration>
+    <configuration default="false" name="04. Circle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04. Circle.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members">
+      <method />
+    </configuration>
+    <configuration default="false" name="05. Point Distance.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05. Point Distance.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members">
+      <method />
+    </configuration>
+    <configuration default="false" name="06. Cards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06. Cards.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -341,19 +314,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.01.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.01.00  Sort Array.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.01. Array extension.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.02. Person Class.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.01. Array extension.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.02. Person Class.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.04. Circle.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.05. Point Distance.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.06. Cards.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.02. Person Class.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.01. Array extension.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.01.00  Sort Array.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.01.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.06. Cards.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.05. Point Distance.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.04. Circle.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.02. Person Class.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.01. Array extension.js" />
       </list>
     </recent_temporary>
   </component>
@@ -429,12 +402,12 @@
       <workItem from="1477424402172" duration="397000" />
       <workItem from="1477481222463" duration="1171000" />
       <workItem from="1477487716307" duration="2057000" />
-      <workItem from="1477637509804" duration="1111000" />
+      <workItem from="1477637509804" duration="5614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="466172000" />
+    <option name="totallyTimeSpent" value="470675000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -446,14 +419,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="691" height="740" extended-state="0" />
+    <frame x="-4" y="24" width="1374" height="748" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40483382" sideWeight="0.7466267" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18438661" sideWeight="0.7466267" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43615258" sideWeight="0.5026022" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25378153" sideWeight="0.4951673" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25041458" sideWeight="0.4951673" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2016851" sideWeight="0.25337332" order="1" side_tool="true" content_ui="tabs" />
@@ -744,26 +717,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/06. Cards.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/04. Circle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="282">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/05. Point Distance.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/03. Get Persons.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -776,10 +741,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/03. Get Persons.js">
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/05. Point Distance.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/06. Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
           <folding />
         </state>
       </provider>
