@@ -76,3 +76,4 @@ function generateBugManager() {
 
     return {report, setStatus, remove, sort, output};
 }
+console.log(generateBugManager('kiwi','judge rip','true','5'));

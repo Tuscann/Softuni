@@ -22,12 +22,22 @@
     <favorites_list name="JS core" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="06. Cards.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/06. Cards.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="08. Bug Tracker.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/08. Bug Tracker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+            <state relative-caret-position="522">
+              <caret line="78" column="63" selection-start-line="78" selection-start-column="63" selection-end-line="78" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08..html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/08..html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -47,16 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JavaScript Advanced/04.Lab Advanced Functions/02. Command Processor.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/04.Lab Advanced Functions/03. Max Element.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/04/01..js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/06.00.html" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/04. Book Generator.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/05. Form Validation.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/style.css" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/04. Book Generator.html" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/05.00 Form Validation.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/03.00 Timer.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/04.00 Book Generator.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/03.timeer.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/05.FormValidation.html" />
@@ -98,6 +98,16 @@
         <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/04. Circle.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/05. Point Distance.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/06. Cards.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/11.Classes and Members/01. Data Class.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/01. Data Class.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/02. Tickets.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/01. Sum Numbers.html" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/02.Lab jQuery Library/02. Search in List.html" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/02. Show More.html" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/etst.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/09.Unit Testing with Mocha/mathEnforcer.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/09.Unit Testing with Mocha/03. Math Enforcer.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/08. Bug Tracker.js" />
       </list>
     </option>
   </component>
@@ -117,9 +127,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
-    <option name="y" value="24" />
-    <option name="width" value="1374" />
-    <option name="height" value="748" />
+    <option name="y" value="40" />
+    <option name="width" value="1928" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -174,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -206,9 +217,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript Advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="12.Classes and Members" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript Advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07. Object Composition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -229,13 +275,6 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="C:\Users\123\Desktop\Softuni\JS core\node_modules\mocha" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\08.Lab Unit Testing with Mocha" />
-      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\07  Object Composition" />
-      <recent name="E:\Softuni\JS core\JavaScript Advanced\06.Advanced Functions" />
-      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\04.Lab Advanced Functions" />
-      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\03.jQuery and DOM" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced" />
       <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\03.jQuery and DOM" />
@@ -243,21 +282,68 @@
       <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\04.Lab Advanced Functions" />
       <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Fundamentals" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Softuni\JS core\JavaScript Advanced\11.Classes and Members" />
+      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\08.Lab Unit Testing with Mocha" />
+      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\07  Object Composition" />
+      <recent name="E:\Softuni\JS core\JavaScript Advanced\06.Advanced Functions" />
+      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\04.Lab Advanced Functions" />
+    </key>
   </component>
-  <component name="RunManager" selected="Node.js.06. Cards.js">
-    <configuration default="false" name="01. Array extension.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01. Array extension.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/07  Object Composition">
+  <component name="RunManager" selected="Node.js.08. Bug Tracker.js">
+    <configuration default="false" name="etst.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="etst.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members">
       <method />
     </configuration>
-    <configuration default="false" name="02. Person Class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. Person Class.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members">
+    <configuration default="false" name="mathEnforcer.sum" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/JavaScript Advanced/09.Unit Testing with Mocha/03. Math Enforcer.js</test-file>
+      <test-names>
+        <name value="mathEnforcer" />
+        <name value="sum" />
+      </test-names>
       <method />
     </configuration>
-    <configuration default="false" name="04. Circle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04. Circle.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members">
+    <configuration default="false" name="mathEnforcer.sum.with a number parametre,should return correct result" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/JavaScript Advanced/09.Unit Testing with Mocha/03. Math Enforcer.js</test-file>
+      <test-names>
+        <name value="mathEnforcer" />
+        <name value="sum" />
+        <name value="with a number parametre,should return correct result" />
+      </test-names>
       <method />
     </configuration>
-    <configuration default="false" name="05. Point Distance.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05. Point Distance.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members">
+    <configuration default="false" name="mathEnforcer.addFive" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/JavaScript Advanced/09.Unit Testing with Mocha/03. Math Enforcer.js</test-file>
+      <test-names>
+        <name value="mathEnforcer" />
+        <name value="addFive" />
+      </test-names>
       <method />
     </configuration>
-    <configuration default="false" name="06. Cards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06. Cards.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members">
+    <configuration default="false" name="08. Bug Tracker.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="08. Bug Tracker.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/07. Object Composition">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -314,19 +400,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.01. Array extension.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.02. Person Class.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.04. Circle.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.05. Point Distance.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.06. Cards.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.etst.js" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.mathEnforcer.sum" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.mathEnforcer.sum.with a number parametre,should return correct result" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.mathEnforcer.addFive" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.08. Bug Tracker.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.06. Cards.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.05. Point Distance.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.04. Circle.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.02. Person Class.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.01. Array extension.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.08. Bug Tracker.js" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.mathEnforcer.addFive" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.mathEnforcer.sum.with a number parametre,should return correct result" />
+        <item index="3" class="java.lang.String" itemvalue="Mocha.mathEnforcer.sum" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.etst.js" />
       </list>
     </recent_temporary>
   </component>
@@ -403,11 +489,13 @@
       <workItem from="1477481222463" duration="1171000" />
       <workItem from="1477487716307" duration="2057000" />
       <workItem from="1477637509804" duration="5614000" />
+      <workItem from="1477677348065" duration="2371000" />
+      <workItem from="1477727067081" duration="7079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="470675000" />
+    <option name="totallyTimeSpent" value="480125000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -419,14 +507,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="24" width="1374" height="748" extended-state="6" />
+    <frame x="-4" y="40" width="1928" height="1044" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18438661" sideWeight="0.7466267" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22748815" sideWeight="0.7466267" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43615258" sideWeight="0.5026022" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25041458" sideWeight="0.4951673" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2502781" sideWeight="0.4951673" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2016851" sideWeight="0.25337332" order="1" side_tool="true" content_ui="tabs" />
@@ -466,135 +554,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/01. Subtraction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.259/style.css" />
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="1182" column="2" selection-start-line="1182" selection-start-column="0" selection-end-line="1182" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/06.00.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/05.FormValidation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/05.00 Form Validation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/06. DOM Search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/07. Calendar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1239">
-          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/08. Wiki Parser.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/04.Lab Advanced Functions/01. Aggregates.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/05. Vector Math.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/06. Breakfast Robot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/07. Monkey Patcher.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/08. Euclids Algorithm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/05.Lab Object Composition/01. Order Rectangles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/05.Lab Object Composition/01..js" />
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/05.Lab Object Composition/02.js" />
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/02. Argument Info.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/03.00  Functional Sum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/03.01 Functional Sum.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -665,13 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/02.Lab jQuery Library/04.02 link-buttons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/04.00 Book Generator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -693,13 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/08.Lab Unit Testing with Mocha/01. Sum of Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07  Object Composition/01. Array extension.js" />
     <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07  Object Composition/02. Construction Crew.js" />
     <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07  Object Composition/03. Car Factory.js" />
@@ -713,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,14 +686,201 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/06. Cards.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="903">
           <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/01. Array extension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/08. Euclids Algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/06. Sorted List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/08.Lab Unit Testing with Mocha/01. Sum of Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/01. Data Class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/02. Tickets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/02.Lab jQuery Library/01. Text from List.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/08.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/09.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/02.Lab jQuery Library/05.01select-towns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/02.Lab jQuery Library/04.02 link-buttons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/02.Lab jQuery Library/02. Search in List.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/node_modules/rx/ts/rx.testing.es6.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/etst.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/02. Show More.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/01. Sum Numbers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/09.Unit Testing with Mocha/mathEnforcer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/09.Unit Testing with Mocha/05. ArmageDOM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/09.Unit Testing with Mocha/04. Shared Object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/09.Unit Testing with Mocha/03. Math Enforcer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/08. Bug Tracker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="78" column="63" selection-start-line="78" selection-start-column="63" selection-end-line="78" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/08..html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding />
         </state>
       </provider>
