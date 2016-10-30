@@ -23,7 +23,4 @@ function attachEvents() {
         $('#selectedTowns')
             .text("Selected towns: " + selLi.join(', '));
     });
-
-
 }
-

@@ -1,78 +1,84 @@
-function validate() {
+function solve(){
     let isCompany = false;
     setEventHandlers();
 
     function setEventHandlers() {
-        $('#company').on('change', function () {
-            let companyFieldSet = $('#companyInfo');
-            if ($(this).is(':checked')) {
-                companyFieldSet.slideDown();
+        $("#registerForm").submit(function(e) {
+            e.preventDefault();
+            ValidateData();
+        });
+
+        $("#company").on("change", function () {
+            if ($("#company").is(":checked")){
+                $("#companyInfo").show();
                 isCompany = true;
-            } else {
-                companyFieldSet.slideUp();
+            }
+            else{
+                $("#companyInfo").hide();
                 isCompany = false;
             }
         });
-
-        $('#submit').click(function (event) {
-            event.preventDefault();
-            validateForm();
-        });
     }
 
-    function validateForm() {
+    function ValidateData() {
         let formIsValid = true;
-        let username = $('#username');
-        if (!username.val().match(/^[a-zA-Z0-9]{3,20}$/)) {
-            username.css('border-color', 'red');
+
+        let username = $('#username').val();
+        if (!username.match(/^[a-zA-Z0-9]{3,20}$/)){
+            $('#username').css('border-color', 'red');
             formIsValid = false;
-        } else {
-            username.css('border', 'none');
+        }
+        else{
+            $('#username').css('border', 'none');
         }
 
-        let email = $('#email');
-        if (!email.val().match(/^.*@.*?\..*?$/)) {
-            email.css('border-color', 'red');
+        let email = $('#email').val();
+        if (!email.match(/^.*@.*\..*$/)){
+            $('#email').css('border-color', 'red');
             formIsValid = false;
-        } else {
-            email.css('border', 'none');
+        }
+        else{
+            $('#email').css('border', 'none');
         }
 
-        let password = $('#password');
-        let confirmPassword = $('#confirm-password');
+        let password = $('#password').val();
+        let confirmPassword = $('#confirm-password').val();
 
-        if (!password.val().match(/^[\w]{5,15}$/)) {
-            password.css('border-color', 'red');
-            confirmPassword.css('border-color', 'red');
+        console.log(password);
+        console.log(confirmPassword);
+
+        if (!password.match(/^[\w]{5,15}$/)){
+            $('#password').css('border-color', 'red');
+            $('#confirm-password').css('border-color', 'red');
             formIsValid = false;
-        } else {
-            if (!confirmPassword.val().match(/^[\w]{5,15}$/)) {
-                password.css('border-color', 'red');
-                confirmPassword.css('border-color', 'red');
+        }
+        else{
+            if (!confirmPassword.match(/^[\w]{5,15}$/) ||
+                password != confirmPassword){
+                $('#password').css('border-color', 'red');
+                $('#confirm-password').css('border-color', 'red');
                 formIsValid = false;
-            } else {
-                if (confirmPassword.val() != password.val()) {
-                    password.css('border-color', 'red');
-                    confirmPassword.css('border-color', 'red');
-                    formIsValid = false;
-                } else {
-                    confirmPassword.css('border', 'none');
-                    password.css('border', 'none');
-                }
+            }
+            else{
+
+                $('#password').css('border', 'none');
+                $('#confirm-password').css('border', 'none');
             }
         }
 
-        if (isCompany) {
-            let companyNumber = $('#companyNumber');
-            if (!companyNumber.val().match(/^[1-9]\d{3}$/)) {
-                companyNumber.css('border-color', 'red');
+        if (isCompany){
+            let companyNumber = $("#companyNumber").val();
+            if (!companyNumber.match(/^[1-9][0-9]{3}$/)){
+                $("#companyNumber").css('border-color', 'red');
                 formIsValid = false;
-            } else {
-                companyNumber.css('border', 'none');
+            }
+            else{
+                $("#companyNumber").css('border', 'none');
             }
         }
 
-        if (formIsValid) {
+        console.log(formIsValid);
+        if (formIsValid){
             $('#valid').show();
         }
     }

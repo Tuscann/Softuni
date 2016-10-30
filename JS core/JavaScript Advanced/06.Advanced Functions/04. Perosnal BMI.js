@@ -1,28 +1,37 @@
-function result(name, age, weight, height) {
-    let bmi = '';
-    let obj = {
-        name: name,
-        personalInfo: {age: age, weight: weight, height: height},
-        BMI: (() => {
-            let meters = height / 100;
-            return bmi = Math.round(weight / (meters * meters))
-        })(),
-        status: (() => {
-            if (bmi < 18.5) {
-                return 'underweight'
-            } else if (bmi < 25) {
-                return 'normal'
-            } else if (bmi < 30) {
-                return 'overweight'
-            } else {
-                return 'obese'
-            }
-        })()
+function solve(personName, age, weight, height) {
+
+    let output = {};
+    output.name = personName;
+    output.personalInfo = {
+        age: age,
+        weight: Math.round(Number(weight)),
+        height: Math.round(Number(height))
     };
-    if (obj.status) {
-        obj['recommendation'] = 'admission required';
+    output.BMI = Math.round(calculateBmi(weight, height));
+    function calculateBmi(w, h) {
+        h = Number(h) / 100;
+        w = Number(w);
+        return w / (h * h);
     }
-    return obj;
+    let status;
+    switch (true) {
+        case output.BMI < 18.5:
+            status = 'underweight';
+            break;
+        case output.BMI < 25:
+            status = 'normal';
+            break;
+        case output.BMI < 30:
+            status = 'overweight';
+            break;
+        default:
+            status = 'obese';
+            break;
+    }
+    output.status = status;
+    if (status === 'obese') {
+        output.recommendation = 'admission required';
+    }
+    return output;
 }
-//console.log(result('Peter', '29', '75', '182'));
-console.log(result('Honey Boo Boo', '9', '57', '137'));
+console.log(solve('Honey Boo Boo', 9, 57, 137));
