@@ -42,6 +42,7 @@ function generateLinkedList() {
         return a;
     })();
 }
+//Mocha
 let list = generateLinkedList();
 console.log(list.hasOwnProperty('size'));
 list.add(5);

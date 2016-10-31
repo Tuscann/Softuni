@@ -1,17 +1,25 @@
-function generateExtensibleObject() {
-    let myObj = {};
+function solve() {
+    let obj = {};
 
-    myObj.extend = function (source) {
-        for (let prop in source) {
-            if (source.hasOwnProperty(prop)) {
-                if (typeof source[prop] == 'function') {
-                    Object.getPrototypeOf(myObj)[prop] = source[prop]
-                } else {
-                    myObj[prop] = source[prop]
+    let myObj = Object.create(obj);
+
+    myObj.extend = function (template) {
+        for (let prop in template) {
+            if (!myObj.hasOwnProperty(prop)) {
+                if (typeof template[prop] == 'function') {
+                    Object.getPrototypeOf(myObj)[prop] = template[prop];
+                }
+                else {
+                    myObj[prop] = template[prop];
                 }
             }
         }
     };
-
     return myObj;
 }
+let template = {
+    extensionMethod: function () {
+        console.log("From extension method")
+    }
+};
+console.log(obj().extend(template));

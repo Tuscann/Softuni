@@ -1,3 +1,4 @@
+//DOM
 function colorize(selector) {
     let element = $(selector);
 
@@ -23,7 +24,6 @@ function colorize(selector) {
         if (bestSelector.attr('id') == element.attr('id')) {
             return;
         }
-
         bestSelector = bestSelector.parent();
     }
 }

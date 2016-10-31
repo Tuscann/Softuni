@@ -25,7 +25,6 @@ function solve(arr) {
                     }
                     return 0;
                 }
-
             }
         };
         return rect;

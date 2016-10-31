@@ -19,7 +19,7 @@ expect(reports.eq(0).attr('id')).to.equal('report_0', "Didn't remove correct rep
 expect(reports.eq(1).attr('id')).to.equal('report_2', "Didn't remove correct report");
 
 function solve() {
-    let storage = []
+    let storage = [];
     // let sortedMap;
     let initialId = 0;
 
@@ -93,9 +93,8 @@ function solve() {
     }
     return result
 }
-
+//DOM
 let solution = solve();
-//console.log(typeof solution.report())
 solution.report('kamen', 'kmajahsaijaos', true, 123);
 solution.report('bonev', 'kmajahsaijaos', true, 123);
 solution.report('aaa', 'kmajahsaijaos', true, 123);

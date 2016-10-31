@@ -1,3 +1,4 @@
+//Mocha
 function carProducer(requirements) {
     let carFactory = (function () {
         let engines = {
@@ -47,10 +48,8 @@ function carProducer(requirements) {
 
         return {produceCar};
     })();
-
     return carFactory.produceCar(requirements);
 }
-
 console.log(carProducer({
     model: 'VW Golf II',
     power: 90,
