@@ -44,7 +44,7 @@ let Suits = defineCards.Suits;
 let Card = defineCards.Card;
 
 let card = new Card('Q', Suits.DIAMONDS);
-let card1 = new Card("1", Suits.DIAMONDS);
+let card1 = new Card("9", Suits.SPADES);
 //
 console.log('' + card);
 console.log('' + card1);
