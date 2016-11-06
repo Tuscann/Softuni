@@ -10,3 +10,15 @@ C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\555\bin\De
 C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\555\obj\Debug\555.csprojResolveAssemblyReference.cache
 C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\555\obj\Debug\555.exe
 C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\555\obj\Debug\555.pdb
+E:\Softuni\Programming Basics Exam - 28 August 2016\555\bin\Debug\555.exe.config
+E:\Softuni\Programming Basics Exam - 28 August 2016\555\bin\Debug\555.exe
+E:\Softuni\Programming Basics Exam - 28 August 2016\555\bin\Debug\555.pdb
+E:\Softuni\Programming Basics Exam - 28 August 2016\555\bin\Debug\mscorlib.dll
+E:\Softuni\Programming Basics Exam - 28 August 2016\555\bin\Debug\normidna.nlp
+E:\Softuni\Programming Basics Exam - 28 August 2016\555\bin\Debug\normnfc.nlp
+E:\Softuni\Programming Basics Exam - 28 August 2016\555\bin\Debug\normnfd.nlp
+E:\Softuni\Programming Basics Exam - 28 August 2016\555\bin\Debug\normnfkc.nlp
+E:\Softuni\Programming Basics Exam - 28 August 2016\555\bin\Debug\normnfkd.nlp
+E:\Softuni\Programming Basics Exam - 28 August 2016\555\obj\Debug\555.csprojResolveAssemblyReference.cache
+E:\Softuni\Programming Basics Exam - 28 August 2016\555\obj\Debug\555.exe
+E:\Softuni\Programming Basics Exam - 28 August 2016\555\obj\Debug\555.pdb

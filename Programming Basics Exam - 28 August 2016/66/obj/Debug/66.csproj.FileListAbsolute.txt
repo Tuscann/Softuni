@@ -8,3 +8,14 @@ C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\66\bin\Deb
 C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\66\bin\Debug\66.pdb
 C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\66\obj\Debug\66.exe
 C:\Users\123\Desktop\Softuni\Programming Basics Exam - 28 August 2016\66\obj\Debug\66.pdb
+E:\Softuni\Programming Basics Exam - 28 August 2016\66\bin\Debug\66.exe.config
+E:\Softuni\Programming Basics Exam - 28 August 2016\66\bin\Debug\66.exe
+E:\Softuni\Programming Basics Exam - 28 August 2016\66\bin\Debug\66.pdb
+E:\Softuni\Programming Basics Exam - 28 August 2016\66\bin\Debug\mscorlib.dll
+E:\Softuni\Programming Basics Exam - 28 August 2016\66\bin\Debug\normidna.nlp
+E:\Softuni\Programming Basics Exam - 28 August 2016\66\bin\Debug\normnfc.nlp
+E:\Softuni\Programming Basics Exam - 28 August 2016\66\bin\Debug\normnfd.nlp
+E:\Softuni\Programming Basics Exam - 28 August 2016\66\bin\Debug\normnfkc.nlp
+E:\Softuni\Programming Basics Exam - 28 August 2016\66\bin\Debug\normnfkd.nlp
+E:\Softuni\Programming Basics Exam - 28 August 2016\66\obj\Debug\66.exe
+E:\Softuni\Programming Basics Exam - 28 August 2016\66\obj\Debug\66.pdb

@@ -7,7 +7,7 @@ class Program
         int days = int.Parse(Console.ReadLine());
         int employer = int.Parse(Console.ReadLine());
 
-        var realHours = (0.90 * days) * 8;
+        var realHours = 0.90 * days * 8;
         var extraHours = employer * (2 * days);
 
         var total = Math.Floor(realHours + extraHours);
