@@ -5,7 +5,7 @@ function attachEvents() {
         for (let town of $('#towns').find('option')) {
             if ($(town).text() == $('#townName').val()) {
                 $(town).remove();
-                $('#result').text(`${$('#townName').val()} deleted.`);
+                $('#result').text(`${$('#townName').val()}`);
                 isThere = true
             }
         }

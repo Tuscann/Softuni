@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="04. Class Hierarchy.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaScript Advanced/13.Class Inheritance LAB/04. Class Hierarchy.js">
+      <file leaf-file-name="3.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/Chobanov/3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+            <state relative-caret-position="204">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,8 +40,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,28 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/05. Point Distance.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/11.Classes and Members/01. Data Class.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/01. Sum Numbers.html" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/02.Lab jQuery Library/02. Search in List.html" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/02. Show More.html" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/etst.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/08.Lab Unit Testing with Mocha/02. Check for Symmetry.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/08.Lab Unit Testing with Mocha/is-symmetric.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/08.Lab Unit Testing with Mocha/03. RGB to Hex.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/08.Lab Unit Testing with Mocha/01. Sum of Numbers.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/02.Lab jQuery Library/05.01select-towns.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/01.00  Sort Array.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/05.00 Form Validation.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/03.jQuery and DOM/05.FormValidation.html" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/06.01  Breakfast Robot.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/08. Euclids Algorithm.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/02.00 Argument Info.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/07. Monkey Patcher.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/04. Perosnal BMI.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/07.html" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/04. Extensible Object.js" />
-        <option value="$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/06. Sorted List.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/07. DOM Highlighter.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/08. Bug Tracker.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/03. Car Factory.js" />
@@ -104,6 +82,28 @@
         <option value="$PROJECT_DIR$/JavaScript Advanced/13.Class Inheritance LAB/02. Inheriting toString.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/13.Class Inheritance LAB/03. Extending Prototype.js" />
         <option value="$PROJECT_DIR$/JavaScript Advanced/13.Class Inheritance LAB/04. Class Hierarchy.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/1.html" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/1.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/2.Sorted List.html" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/2.Sorted.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/2.Sorted List.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/3. Storm Watcher.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/4.Title Bar.html" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/4.Title Bar.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/1.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/17.Sample Exam - 7 Nov 2016/01. Delete Towns By Name/script1.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/4.html" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/3.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/1.html" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/terzieva/1.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/terzieva/2.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/terzieva/3.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/terzieva/4.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/Chobanov/4.html" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/Chobanov/1.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/Chobanov/1.html" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/Chobanov/2.js" />
+        <option value="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/Chobanov/3.js" />
       </list>
     </option>
   </component>
@@ -122,9 +122,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="44" />
-    <option name="width" value="960" />
-    <option name="height" value="1036" />
+    <option name="x" value="683" />
+    <option name="y" value="28" />
+    <option name="width" value="683" />
+    <option name="height" value="740" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -179,7 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,31 +209,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript Advanced" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript Advanced" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="13.Class Inheritance LAB" />
+              <option name="myItemId" value="JavaScript Fundamentals" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -254,6 +237,13 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\21.Exam - 13.11.2016\Chobanov" />
+      <recent name="E:\Softuni\JS core\JavaScript Advanced\13.Class Inheritance LAB" />
+      <recent name="E:\Softuni\JS core\JavaScript Advanced\11.Classes and Members" />
+      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\08.Lab Unit Testing with Mocha" />
+      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\07  Object Composition" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced" />
       <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\03.jQuery and DOM" />
@@ -261,28 +251,30 @@
       <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\04.Lab Advanced Functions" />
       <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Fundamentals" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Softuni\JS core\JavaScript Advanced\13.Class Inheritance LAB" />
-      <recent name="E:\Softuni\JS core\JavaScript Advanced\11.Classes and Members" />
-      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\08.Lab Unit Testing with Mocha" />
-      <recent name="C:\Users\123\Desktop\Softuni\JS core\JavaScript Advanced\07  Object Composition" />
-      <recent name="E:\Softuni\JS core\JavaScript Advanced\06.Advanced Functions" />
-    </key>
   </component>
-  <component name="RunManager" selected="Node.js.01. Person and Teacher.js">
-    <configuration default="false" name="02. Person Class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. Person Class.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.3.js (1)">
     <configuration default="false" name="06. Cards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06. Cards.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members">
       <method />
     </configuration>
-    <configuration default="false" name="02. Tickets.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. Tickets.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members">
+    <configuration default="false" name="2.Sorted List.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="2.Sorted List.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016">
       <method />
     </configuration>
-    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events">
+    <configuration default="false" name="3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="3.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016">
       <method />
     </configuration>
-    <configuration default="false" name="01. Person and Teacher.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01. Person and Teacher.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/13.Class Inheritance LAB">
+    <configuration default="false" name="JavaScript Advanced\21.Exam - 13.11.2016\terzieva\2.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/terzieva/2.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="3.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="3.js" working-dir="$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/terzieva">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -355,19 +347,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Mocha.Tests for isSymmetric(arr)" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.02. Person Class.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.06. Cards.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.02. Tickets.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.01. Person and Teacher.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.06. Cards.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.2.Sorted List.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.3.js" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.JavaScript Advanced\21.Exam - 13.11.2016\terzieva\2.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.3.js (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.01. Person and Teacher.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.02. Tickets.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.3.js (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.JavaScript Advanced\21.Exam - 13.11.2016\terzieva\2.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.3.js" />
         <item index="3" class="java.lang.String" itemvalue="Node.js.06. Cards.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.02. Person Class.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.2.Sorted List.js" />
       </list>
     </recent_temporary>
   </component>
@@ -470,11 +462,22 @@
       <workItem from="1478067509801" duration="4086000" />
       <workItem from="1478087227264" duration="93000" />
       <workItem from="1478092144215" duration="2701000" />
+      <workItem from="1478932993500" duration="1800000" />
+      <workItem from="1478957414550" duration="2577000" />
+      <workItem from="1479019714409" duration="10945000" />
+      <workItem from="1479032093434" duration="3606000" />
+      <workItem from="1479043986706" duration="150000" />
+      <workItem from="1479048668905" duration="4508000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="JavaScript_Advanced_21_Exam_-_13_11_2016_terzieva_2_js - 2016.11.13 at 16h 55m 58s.xml">
+      <configuration name="JavaScript Advanced\21.Exam - 13.11.2016\terzieva\2.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="520453000" />
+    <option name="totallyTimeSpent" value="544039000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -486,31 +489,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="44" width="960" height="1036" extended-state="0" />
+    <frame x="683" y="28" width="683" height="740" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3480129" sideWeight="0.7381657" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39449543" sideWeight="0.7381657" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43615258" sideWeight="0.5026022" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2704826" sideWeight="0.4951673" order="3" side_tool="false" content_ui="tabs" x="10" y="450" width="1899" height="223" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.4951673" order="3" side_tool="false" content_ui="tabs" x="10" y="450" width="1899" height="223" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14586625" sideWeight="0.26183432" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884398" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14586625" sideWeight="0.26183432" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47138047" sideWeight="0.49739778" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
@@ -567,265 +570,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/04.Lab Advanced Functions/03. Max Element.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/05.Lab Object Composition/01. Order Rectangles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/05.Lab Object Composition/03. List Processor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/02. Construction Crew.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/03. Car Factory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-460">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/05. String extension.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/06. Sorted List.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/07. DOM Highlighter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/07. Object Composition/04. Extensible Object.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/05.Lab Object Composition/04. Cars.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/05.Lab Object Composition/05. Sum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/01. Sort Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/01.00  Sort Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/03.00  Functional Sum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/03.01 Functional Sum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/06.Advanced Functions/04. Perosnal BMI.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/04.Lab Advanced Functions/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/05.Lab Object Composition/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/05.Lab Object Composition/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/08.Lab Unit Testing with Mocha/04. Add Subtract.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="82" column="3" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/08.Lab Unit Testing with Mocha/03. RGB to Hex.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="48" column="3" selection-start-line="3" selection-start-column="0" selection-end-line="48" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/08.Lab Unit Testing with Mocha/02. Check for Symmetry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="62" column="3" selection-start-line="3" selection-start-column="0" selection-end-line="62" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/08.Lab Unit Testing with Mocha/01. Sum of Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="43" column="3" selection-start-line="3" selection-start-column="0" selection-end-line="43" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/09.Unit Testing with Mocha/mathEnforcer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/02. Person Class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/03. Get Persons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/04. Circle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/05. Point Distance.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/06. Cards.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/03. Unity.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/02. Tickets.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/01. Data Class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/06. Sorted List.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/05. Extensible Class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="4" selection-start-line="0" selection-start-column="17" selection-end-line="20" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/04. Length Limit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/07. View Model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/08.Custom Form.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/05. Extensible Class.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/04. Length Limit.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/07. View Model.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/12.Classes and Members/08.Custom Form.js" />
     <entry file="file://$PROJECT_DIR$/JavaScript Advanced/09.Unit Testing with Mocha/01. Even Or Odd.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="903">
@@ -886,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -894,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -902,30 +648,247 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/test.js" />
     <entry file="file://$PROJECT_DIR$/JavaScript Advanced/13.Class Inheritance LAB/03. Extending Prototype.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript Advanced/13.Class Inheritance LAB/04. Class Hierarchy.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        <state relative-caret-position="243">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/01. Sum Numbers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/01.Lab DOM and Events/08. Stopwatch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/02.Lab jQuery Library/01. Text from List.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/Sample Exam - 7 Nov 2016/index.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/Sample Exam - 7 Nov 2016/script.js" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/2.Sorted List.html" />
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/2.Sorted.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/4.Title Bar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/4.Title Bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/2.Sorted List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/17.Sample Exam - 7 Nov 2016/01. Delete Towns By Name/script1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/17.Sample Exam - 7 Nov 2016/01. Delete Towns By Name/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/17.Sample Exam - 7 Nov 2016/01. Delete Towns By Name/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/11.Sample Exam 31 Oct 2016/3. Storm Watcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/17.Sample Exam - 7 Nov 2016/03. Training Course/03.TrainingCourse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/17.Sample Exam - 7 Nov 2016/04. Table Builder/04. Table Builder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/10.Lab Classes and Members/06. Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/terzieva/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/terzieva/3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.663/04-cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/terzieva/4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/Chobanov/4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/terzieva/2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1791">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/Chobanov/2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="391" column="0" selection-start-line="391" selection-start-column="0" selection-end-line="391" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/Chobanov/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/Chobanov/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Advanced/21.Exam - 13.11.2016/Chobanov/3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
