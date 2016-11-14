@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cards</title>
+    <style>
+        div.card {
+            display: inline-block; padding: 10px; margin: 10px;
+            width: 50px; height: 80px; background: #EEE;
+            border: 3px solid #DDD; border-radius: 5px;
+            font-size: 18pt; text-align: center; line-height: 75px;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="main"></div>
+<script>
+    function cardDeckBuilder(selector) {
+        class Card{
+            constructor(face, suit){
+                this.face = face;
+                let suits = {
+                    H: '\u2665',
+                    S: '\u2660',
+                    D: '\u2666',
+                    C: '\u2663'
+                };
+                this.suit = suits[suit];
+            }
+        }
+        function addCard(face, suit) {
+            let card = new Card(face, suit);
+            let domCard = $('<div>')
+                    .addClass('card')
+                    .html(`${card.face} ${card.suit}`)
+                    .click(() => reverseCards());
+            $(selector).append(domCard);
+        }
+        function reverseCards() {
+            let reversedDeck = [];
+            let deck = $('.card');
+            for (let i = deck.length - 1; i >= 0; i--){
+                reversedDeck.push(deck[i]);
+            }
+            let parent = $('.card').parent().empty();
+            for (let card of reversedDeck){
+                $(parent).append($(card).click(() => reverseCards()));
+            }
+        }
+        return {addCard};
+    }
+</script>
+<script>
+    $(function() {
+        let builder = cardDeckBuilder("#main");
+        builder.addCard("10", "D");
+        builder.addCard("K", "S");
+        builder.addCard("Q", "H");
+        builder.addCard("4", "C");
+        builder.addCard("9", "D");
+        builder.addCard("A", "S");
+    });
+</script>
+</body>
+</html>

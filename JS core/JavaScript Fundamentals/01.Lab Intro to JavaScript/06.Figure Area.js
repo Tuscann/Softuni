@@ -9,9 +9,7 @@ function Area(input) {
     let s2 = W * H;
     let s3 = Math.min(w, W) * Math.min(h, H);
 
-    let area = s1 + s2 - s3;
-
-    return area;
+    return s1 + s2 - s3;
 }
 console.log(Area(['2', '4', '5', '3']));
 console.log(Area(['13', '2', '5', '8']));

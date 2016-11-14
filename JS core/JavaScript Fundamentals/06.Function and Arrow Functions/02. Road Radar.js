@@ -61,7 +61,7 @@ function as(input) {
         }
     }
 }
-// as(['12', 'residential']);
+as(['12', 'residential']);
 // as(['22', 'residential']);
 // as(['42', 'residential']);
 // as(['62', 'residential']);
