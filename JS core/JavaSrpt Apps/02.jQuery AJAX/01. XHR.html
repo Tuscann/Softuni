@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button onclick="load()">Load</button>
+<div id="res"></div>
+<script>
+    function load() {
+
+        const repoUrl="https://api.github.com/users/testnakov/repos";
+        let req = new XMLHttpRequest();
+        req.onreadystatechange = function()
+        {
+            if (this.readyState == 4 && this.status == 200)
+                document.getElementById("res").textContent =
+                        this.responseText;
+        };
+        req.open("GET",repoUrl,true);
+        req.send();
+    }
+</script>
+</body>
+</html>

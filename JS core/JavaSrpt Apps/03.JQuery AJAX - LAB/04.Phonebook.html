@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="text">
+    <h1>Phonebook</h1>
+    <button id="btnLoad">Load</button>
+    <ul id="phonebook"></ul>
+    <h1>Create</h1>
+    Person: <input type="text" id="person"><br>
+    Phone: <input type="text" id="phone"><br>
+    <button id="btnCreate">Create</button>
+</div>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script>
+
+    $(function attachEvents() {
+        $('#btnLoad').click(loadphoneNumbers);
+        $('#btnCreate').click(addNewPhoneNumber);
+
+        const baseURL = "https://phonebook-nakov.firebaseio.com/phonebook";
+
+        function loadphoneNumbers() {
+            $('#phonebook').empty();
+            $.get(baseURL + ".json")
+                    .then(displayContacts)
+                    .catch(displayError)
+        }
+
+        function displayContacts(contacts) {
+            let keys = Object.keys(contacts);
+            for (let key of keys) {
+                let contact = contacts[key];
+                let li = $("<li>");
+                li.text(contact.person + ': ' + contact.phone + " ");
+                li.appendTo($('#phonebook'));
+                li.append($('<button>').text('[Delete]')
+                        .click(function () {
+                            deleteContact(key);
+                        }))
+            }
+
+        }
+
+        function displayError(err) {
+            $("#phonebook").append($("<li>Error</li>"))
+        }
+
+        function deleteContact(key) {
+            let delRequest = {
+                method: "DELETE",
+                url: baseURL + "/" + key + ".json"
+
+            };
+            $.ajax(delRequest)
+                    .then(loadphoneNumbers)
+                    .catch(displayError);
+        }
+
+        function addNewPhoneNumber() {
+            let person = $('#person').val();
+            let phone = $('#phone').val();
+            let newContact = {person, phone};
+
+            let createRequest = {
+                method: "POST",
+                url: baseURL + ".json",
+                data: JSON.stringify(newContact)
+
+            };
+            $.ajax(createRequest)
+                    .then(loadphoneNumbers)
+                    .catch(displayError);
+
+        }
+
+    });
+
+
+</script>
+
+</body>
+</html>

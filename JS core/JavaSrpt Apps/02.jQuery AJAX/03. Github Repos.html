@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<div id="text">
+    <h1>Welcome</h1>
+    Github username: <input type="text" id="username">
+    <button onclick="loadRepos()">Load</button>
+    <ul id="repos"></ul>
+</div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script>
+
+    function loadRepos() {
+        $("#repos").empty();
+        let usernames = $("#username").val();
+        return $.get("https://api.github.com/users/" + usernames + "/repos")
+                .then(function (data) {
+                    for (let repo of data) {
+                        let link = $("<a>");
+                        link.text(repo.full_name);
+                        link.attr('href', repo.html_url);
+                        let li=$("<li>").append(link);
+                        $("#repos").append(li)
+                    }
+
+                })
+                .catch(displayError());
+
+
+        function displayError() {
+                $('<li>').text('Error').appendTo($('#repos'));
+        }
+
+
+
+    }
+
+    //    function loadRepos() {
+    //        $("#repos").empty();
+    //        let url = "https://api.github.com/users/" +
+    //                $("#username").val() + "/repos";
+    //        return $.ajax({
+    //                          url,
+    //            success: displayRepos,
+    //            error: displayError
+    //        });
+    //        function displayRepos(respos) {
+    //            for (let repo of respos) {
+    //                let link = $('<a>').text(repo.full_name);
+    //                link.attr('href', repo.html_url);
+    //                $("#repos").append($('<li>').append(link));
+    //            }
+    //
+    //        }
+    //
+    //        function displayError(err) {
+    //            $("#repos").append($("<li>Error</li>"));
+    //        }
+    //    }
+</script>
+</body>
+</html>

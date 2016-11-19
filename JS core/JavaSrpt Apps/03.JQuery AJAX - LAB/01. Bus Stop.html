@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bus Stop</title>
+    <style>
+        #stopName {
+            font-size: 1.5em;
+            font-weight: 400;
+            padding: 0.25em;
+            background-color: aquamarine;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="stopInfo" style="width:20em">
+    <div>
+        <label for="stopId">Stop ID: </label>
+        <input id="stopId" type="text">
+        <input id="submit" type="button" value="Check" onclick="getInfo()"></div>
+    <div id="result">
+        <div id="stopName"></div>
+        <ul id="buses"></ul>
+    </div>
+</div>
+<script>
+    function getInfo() {
+        const url = 'https://judgetests.firebaseio.com/businfo/';
+        let trues = $('#stopId').val();
+
+        if (Number(trues) != 1287 &&
+                Number(trues) != 1327 &&
+                Number(trues) != 1308 &&
+                Number(trues) != 2334) {
+
+            $('#stopName').text('Error');
+        }
+        else {
+
+            $.ajax({
+                method: "GET",
+                url: url + Number(trues) + ".json",
+                success: renderBusSchedule
+            });
+
+
+            function renderBusSchedule(data) {
+                $('#stopName').text(data.name);
+                console.log(data.name);
+                console.log(data.buses);
+
+                $('#buses').empty();
+                for (let bus of Object.keys(data.buses)) {
+                    let busInfo = `Bus ${bus} arrives in ${data.buses[bus]} minutes`;
+                    $('<li>').text(busInfo).appendTo($('#buses'));
+                }
+            }
+        }
+    }
+</script>
+</body>
+</html>

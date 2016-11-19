@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bus Schedule</title>
+    <style>
+        #schedule {
+            text-align: center;
+            width: 400px;
+        }
+
+        input {
+            width: 120px;
+        }
+
+        #info {
+            background-color: aquamarine;
+            border: 1px solid black;
+            margin: 0.25em;
+        }
+
+        .info {
+            font-size: 1.5em;
+            padding: 0.25em;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="schedule">
+    <div id="info"><span class="info">Not Connected</span></div>
+    <div id="controls">
+        <input id="depart" value="Depart" type="button" onclick="result.depart()">
+        <input id="arrive" value="Arrive" type="button" onclick="result.arrive()" disabled="true">
+    </div>
+</div>
+<script>
+    function solve() {
+        const url = 'https://judgetests.firebaseio.com/schedule/';
+        let nameBusStation = '';
+        let nextID = 'depot';
+
+        function depart() {
+            $('#depart').prop('disabled', true);
+
+            $.get(url + nextID + '.json').then((response)=> {
+                //console.log(response);
+                nameBusStation = response.name;
+                nextID = response.next;
+                $('#info').find('span').text('Next stop '+ nameBusStation);
+                $('#arrive').prop('disabled', false);
+            })
+        }
+        function arrive() {
+            $('#depart').prop('disabled', false);
+            $('#arrive').prop('disabled', true);
+            $('#info').find('span').text('Arriving at '+ nameBusStation);
+        }
+        return {
+            depart,
+            arrive
+        };
+    }
+    let result = solve();
+</script>
+</body>
+</html>
