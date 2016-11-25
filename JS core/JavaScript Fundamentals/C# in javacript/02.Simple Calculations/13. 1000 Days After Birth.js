@@ -16,7 +16,7 @@ function dayt(input) {
     console.log(a.getDate()+"-"+a.getMonth()+"-"+a.getFullYear());
 }
 dayt(['25-02-1995']);
-// dayt(['07-11-2003']);
+// dayt(['07.-11-2003']);
 // dayt(['30-12-2002']);
 // dayt(['01-01-2012']);
 dayt(['14-06-1980']);
