@@ -3,9 +3,11 @@ function attachEvents() {
         username: "guest",
         password: "pass"
     };
-    let hostInfo = {
+    let hostInfo =
+    {
         appId: "kid_BJ_Ke8hZg",
-        bases: {
+        bases:
+        {
             custom: "custom",
             venues: "venues"
         },
@@ -97,7 +99,7 @@ function attachEvents() {
                                 <option value="2">2</option>
                                 <option value="3">3</option>
                                 <option value="4">4</option>
-                                <option value="5">5</option>
+                                <option value="5">5</option>                                
                               </select></td>
                             </tr>
                           </table>

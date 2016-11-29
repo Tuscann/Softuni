@@ -62,19 +62,24 @@
         }
 
         function addNewPhoneNumber() {
-            let person = $('#person').val();
-            let phone = $('#phone').val();
+            let person = $('#person').val().trim();
+            let phone = $('#phone').val().trim();
+
             let newContact = {person, phone};
 
-            let createRequest = {
-                method: "POST",
-                url: baseURL + ".json",
-                data: JSON.stringify(newContact)
+            if (person != '' && phone != ''){
+                let createRequest = {
+                    method: "POST",
+                    url: baseURL + ".json",
+                    data: JSON.stringify(newContact)
 
-            };
-            $.ajax(createRequest)
-                    .then(loadphoneNumbers)
-                    .catch(displayError);
+                };
+                $.ajax(createRequest)
+                        .then(loadphoneNumbers)
+                        .catch(displayError);
+            }
+
+
 
         }
 

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>Show Event properties</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        thead {
+            font-weight: bold;
+        }
+
+        td {
+            padding: 2px 10px 2px 10px;
+        }
+
+        .odd {
+            background-color: #efdfef;
+        }
+
+        .even {
+            background-color: #ffffff;
+        }
+    </style>
+
+    <script>
+
+        function loadCommits() {
+            $('#random').val('');
+
+            let min = $('#min').val();
+            let max = $('#max').val();
+
+            min = Math.ceil(min);
+            max = Math.floor(max);
+
+            let random = Math.floor(Math.random() * (max - min+1)) + min;
+
+            $('#random').val(random);
+
+            console.log(random)
+
+        }
+
+    </script>
+</head>
+
+
+<body>
+<h1>Properties of the DOM <span id="eventType"></span> Event Object</h1>
+<input id="min" class='bl' type="number" value="2"><br>
+<input id="max" class='bl' type="number" value="211"><br>
+<input  id="random"   type="number">
+
+<button onclick="loadCommits()">Random</button>
+</body>
+
+</html>
