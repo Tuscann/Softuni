@@ -32,9 +32,6 @@ function startApp() {
         $('#buttonCreateAd').on('click', () => processCreateAd('#formCreateAd'));
     }
 
-    /**
-     * Main logic
-     */
     function processRegistration(formId) {
         let username = $(formId).find('input[name="username"]').val().trim();
         let password = $(formId).find('input[name="passwd"]').val().trim();

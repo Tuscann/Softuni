@@ -10,10 +10,11 @@ function inside() {
         "Content-Type": "application/json"
     };
 
-
-    let table = $('#results');
+    $("#load").click(loadStudents);
+    $('#addBtn').click(addStudent);
 
     function loadStudents() {
+        let table = $('#results');
         let tr = table.find("tr:not(:first-child)");
         tr.remove();
 
@@ -39,10 +40,8 @@ function inside() {
                 }
             );
     }
-    loadStudents();
 
-
-    $('#addBtn').click(()=> {
+    function addStudent() {
         let idInput = $('#studentID');
         let firstName = $('#firstName');
         let lastName = $('#lastName');
@@ -51,6 +50,7 @@ function inside() {
 
         let id = Number(idInput.val());
         let grade = Number(gradeInput.val());
+
         let facyltyregex = /^\d+$/g;
 
         if (idInput.val() != "" &&
@@ -72,13 +72,11 @@ function inside() {
                 headers: auth,
                 data: JSON.stringify(student)
             }).then(loadStudents)
-
         }
         idInput.val('');
         firstName.val('');
         lastName.val('');
         faciltyNumber.val('');
         gradeInput.val('');
-
-    })
+    }
 }

@@ -22,7 +22,7 @@ function loginUser() {
     function loginSuccess(userInfo) {
         saveAuthInSession(userInfo);
         showHideMenuLinks();
-        listAdverts();
+        listAds();
         showInfo('Login successful.');
     }
 }
@@ -57,7 +57,7 @@ function registerUser() {
     function registerSuccess(userInfo) {
         saveAuthInSession(userInfo);
         showHideMenuLinks();
-        listAdverts();
+        listAds();
         showInfo('User registration successful.');
     }
 }

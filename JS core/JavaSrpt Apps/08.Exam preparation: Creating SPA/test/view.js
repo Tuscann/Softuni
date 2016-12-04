@@ -17,8 +17,10 @@ function showHideMenuLinks() {
         $('#linkListAds').show();
         $('#linkCreateAd').show();
         $('#linkLogout').show();
+        $('#loggedInUser').text('Hello, ' + $('#formLogin input[name=username]').val()).show();
     }
 }
+
 function showHomeView() {
     showView('viewHome')
 }
@@ -37,4 +39,6 @@ function showCreateAdView() {
     $('#formCreateAd').trigger('reset');
     showView('viewCreateAd');
 }
-
+function showListAdsView() {
+    showView('viewAds');
+}

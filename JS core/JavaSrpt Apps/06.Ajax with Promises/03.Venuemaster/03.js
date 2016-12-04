@@ -6,8 +6,7 @@ function attachEvents() {
     let hostInfo =
     {
         appId: "kid_BJ_Ke8hZg",
-        bases:
-        {
+        bases: {
             custom: "custom",
             venues: "venues"
         },
@@ -54,7 +53,10 @@ function attachEvents() {
     }
 
     function displayError(error) {
-        console.log(error);
+        let x = $('#venue-info').empty();
+        $("#venue-info").text(error.status + ":" + error.statusText);
+
+
     }
 
     function confirmPurchaseView(id) {

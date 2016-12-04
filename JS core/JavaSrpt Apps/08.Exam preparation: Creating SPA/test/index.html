@@ -25,6 +25,8 @@
 </header>
 
 <main>
+
+
     <section id="loadingBox" class="loadingBox">Loading ...</section>
 
     <section id="infoBox" class="infoBox">Info</section>
@@ -58,7 +60,7 @@
         </form>
     </section>
 
-    <section id="viewAd" class="viewAds">
+    <section id="viewAd" class="viewAd">
         <h1 class="titleForm">Advertisements</h1>
         <div id="ads" class="ads">
             <table>
@@ -84,7 +86,7 @@
         </div>
     </section>
 
-    <section id="viewDetailsAd"></section>
+    <section id="viewDetailsAd" class=""></section>
 
     <section id="viewCreateAd" class="viewCreateAd">
         <h1 class="titleForm">Create new Advertisement</h1>
@@ -121,7 +123,15 @@
             <div><input type="button" id="buttonEditAd" value="Edit"/></div>
         </form>
     </section>
-    <script>startApp();</script>
+
+    <script>
+        startApp();
+        $(document).ready(function(){
+            alert('Stop all Adblock extension and work perfect');
+        });
+
+
+    </script>
 </main>
 <footer>Prodavachnik - Simple SPA Application</footer>
 </body>

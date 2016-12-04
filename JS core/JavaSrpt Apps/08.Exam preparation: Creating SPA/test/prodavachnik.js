@@ -1,20 +1,22 @@
 function startApp() {
-    //sessionStorage.clear();
+    sessionStorage.clear();
     showHideMenuLinks();
     showView('viewHome');
 
     $('#linkHome').click(showHomeView);
     $('#linkLogin').click(showLoginView);
     $('#linkRegister').click(showRegisterView);
-    $('#linkLisAds').click(listAdverts);
+
+    $('#linkListAds').click(listAds);
+    $('#linkListAd').click(showListAdsView);
     $('#linkCreateAd').click(showCreateAdView);
     $('#linkLogout').click(logoutUser);
 
 
     $('#buttonLoginUser').click(loginUser);
     $('#buttonRegisterUser').click(registerUser);
-    $('#buttonCreateAd').click(createAdvert);
-    $('#buttonEditAd').click(editAdvert);
+    $('#buttonCreateAd').click(createAd);
+    $('#buttonEditAd').click(editAd);
 
 
     $('#infoBox, #errorBox').click(function () {
@@ -25,5 +27,6 @@ function startApp() {
         ajaxStart: function () {$('#loadingBox').show()},
         ajaxStop: function () { $('#loadingBox').hide()}
     });
+
 }
 

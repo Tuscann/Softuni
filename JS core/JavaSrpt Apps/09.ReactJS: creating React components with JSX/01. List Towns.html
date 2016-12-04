@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>List Town</title>
+    <script src="https://unpkg.com/react/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom/dist/react-dom.js"></script>
+    <script src="https://unpkg.com/babel-standalone"></script>
+</head>
+<body onload="listTowns('root')">
+<div id="root"></div>
+</body>
+<script type="text/babel">
+    function listTowns(selector) {
+
+        let Form = React.createClass({
+            handleSubmit: function (event) {
+                event.preventDefault();
+                this.props.action(event.target.parentNode[0]);
+            },
+            render: function () {
+                return (
+                        <form>
+                            <input type="text"/>
+                            <input type="submit" onClick={this.handleSubmit}/>
+                        </form>
+                );
+            }
+        });
+
+        let App = React.createClass({
+            getInitialState: function () {
+                let towns = [];
+                return {towns};
+            },
+            updateTowns: function (input) {
+                if (input.value.length > 0)
+                    this.setState({towns: input.value.split(', ')});
+                else
+                    this.setState({towns: []});
+            },
+            render: function () {
+                let towns = this.state.towns
+                        .map(function (town, i) {
+                            return <li key={i}>{town}</li>
+                        });
+
+                return (
+                        <div>
+                            <Form action={this.updateTowns}/>
+                            <ul>{towns}</ul>
+                        </div>
+                )
+            }
+        });
+
+        ReactDOM.render(
+                <App/>,
+                document.getElementById(selector)
+        );
+    }
+</script>
+</html>
