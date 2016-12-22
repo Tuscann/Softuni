@@ -1,26 +1,49 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-    <title>Post Request Example</title>
+    <title>Select Multiple</title>
 </head>
-
 <body>
+<h3>Select Trainers for PHP Course:</h3>
 
-<form method="POST">
-    Name: <input type="text" name="name"><br>
-    E-mail: <input type="text" name="email"><br>
-    <input type="submit" name="submit" value="Log In">
+<form method="get">
+    <div>Operation:
+        <select name="operation">
+            <option value="sum">Sum</option>
+            <option value="subtract">Subtract</option>
+        </select>
+    </div>
+    <div>Number 1:
+        <input type="text" name="number_one"/>
+    </div>
+    <div>Number 2:
+        <input type="text" name="number_two"/>
+    </div>
+    <div>
+        <input type="submit" name="calculate" value="Calculate!">
+    </div>
 </form>
 
-<?php
-if (isset($_POST['submit'])) {
-    $name = $_POST['name'];
-    $email = $_POST['email'];
 
-    echo 'Welcome, ' . htmlentities($name) . '!<br/>';
-    echo 'Your email address is: ' . htmlentities($email);
-}
-?>
+<form method="get">
+    <div>Beer:
+        <input type="radio" name="drink" value="beer"><br>
+    </div>
+    <div>Rakiya
+        <input type="radio" name="drink" value="rakiya"><br>
+    </div>
+    <div>
+        <input type="submit">
+    </div>
+</form>
+
+
+<h4>
+    <?php
+  if (isset($_GET['drink'])){
+      echo "Your drink is: " . $_GET['drink'];
+  }
+    ?>
+</h4>
 </body>
 </html>
