@@ -1,21 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<link rel="stylesheet" href="tee.css">
-<body>
-<div>
-    <?php
+<?php
 
- function newcal(){
-     
- }
-    ?>
+$a = rand(1, 11);
+$b = rand(1, 11);
 
-</div>
+echo "\$a = ", $a, "  \$b = ", $b,"<br/>";
 
 
-</body>
-</html>
+if ($a > $b) {
+    print("\$a{$a} > \$b{$b}");
+} else if ($a < $b) {
+    print("\$a{$a} < \$b{$b}");
+} else if ($a == $b) {
+    echo "{$a} == {$b}";
+}
+
+
+?>
+
+
