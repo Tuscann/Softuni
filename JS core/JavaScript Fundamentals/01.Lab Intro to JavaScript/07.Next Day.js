@@ -1,11 +1,11 @@
-function calcNextDay([year, month, day]) {
-    let date = new Date(year, month - 1, day);
+function numbers(year, month, day) {
 
-    let oneDay = 24 * 60 * 60 * 1000; // milliseconds in 1 day
-    let nextDate = new Date(date.getTime() + oneDay);
-    console.log(nextDate.getFullYear() + "-" +
-        (nextDate.getMonth() + 1) + '-' +
-        nextDate.getDate())
+    let today = new Date(year, month-1, day);
+    let oneDay = 24 * 60 * 60 * 1000;
+    let tomorrow = new Date(today.getTime() + oneDay);
+    return tomorrow.getFullYear() + "-" +
+        (tomorrow.getMonth() + 1) + '-' +
+        tomorrow.getDate();
 }
-calcNextDay(["2016", "9", "30"]);
-calcNextDay(["2016", "3", "27"]);
+console.log(numbers(2016, 9, 30));
+

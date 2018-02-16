@@ -1,9 +1,0 @@
-? pokazva vsichkki komandi sas console
-conf t
-ip adddresss 192
-no shexit exit
-show ip route
-show int des
-conf t    - int fa0/0 ot shemata
-wild card mask
-debug ip ospf - undebug all

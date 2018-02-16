@@ -1,9 +1,5 @@
-function mult(nums) {
-    let num1 = Number(nums[0]);
-    let num2 = Number(nums[1]);
-    let result = num1 * num2;
-    return (result)
+function mult(a, b) {
+    return a * b;
 }
-console.log(mult(['3', '2']));
-console.log(mult([23632.36, -12.3249]));
-
+console.log(mult(2, 3));
+console.log(mult(23632.36, -12.3249));

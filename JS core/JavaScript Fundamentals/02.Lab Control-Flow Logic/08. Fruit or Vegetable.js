@@ -1,22 +1,16 @@
-function choose(input) {
-    let word = String(input);
+function circleArea(a) {
+    let fruits = ['banana', "apple", "kiwi", "cherry", "lemon", "grapes", "peach"];
 
-    if (word == "banana"||word == "apple"||word == "kiwi"||word == "cherry"||word == "lemon"||word == "grapes"||word == "peach") {
-        console.log("fruit")
+    if (fruits.indexOf(a) > -1) {
+        return "fruit";
     }
-    else if(word == "tomato"||word == "cucumber"||word == "pepper"||word == "onion"||word == "garlic"||word == "parsley"){
-        console.log("vegetable")
+    else if (a === "tomato" || a === "cucumber" || a === "pepper" || a === "onion" || a === "garlic" || a === "parsley") {
+        return "vegetable";
     }
-    else{
-        console.log("unknown")
+    else {
+        return "unknown";
     }
-    // let fruits = [banana, apple, kiwi, cherry, lemon, grapes, peach];
-
-    // if(fruits.contains(word)){
-    //     console.log("fruit")
-    // }
 }
-choose('banana');
-choose('cucumber');
-choose('pizza');
-choose('lemon');
+console.log(circleArea("banana"));
+console.log(circleArea("cucumber"));
+console.log(circleArea("pizza"));

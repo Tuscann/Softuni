@@ -1,17 +1,13 @@
-function leap(input) {
+function filterByAge(year) {
 
-    let year=Number(input[0]);
-
-    let x = (year % 400 == 0)||(year % 4 == 0 && year % 100 != 0);
-
-    if (x == true) {
-        console.log("yes")
+    if (((year % 4 === 0) && (year % 100 !== 0)) || (year % 400 === 0)) {
+        return "yes"
     }
     else {
-        console.log("no")
+        return "no"
     }
 }
-leap(['1999']);
-leap(['2000']);
-leap(['1900']);
-leap(['2016']);
+
+console.log(filterByAge(1999));
+console.log(filterByAge(2000));
+console.log(filterByAge(1900));

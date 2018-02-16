@@ -1,10 +1,26 @@
-function filterByAge(input) {
+function filterByAge(minimAge, firstperson, firstAge, seconderName, secondAge) {
 
-    let minAge = Number(input[0]);
-    let nameA = String(input[1]);
-    let ageA = Number(input[2]);
-    let nameB = String(input[3]);
-    let ageB = Number(input[4]);
+    if (minimAge <= firstAge && minimAge <= secondAge) {
+
+        console.log("{ name: '" + firstperson + "', age: " + firstAge + " }");
+        console.log("{ name: '" + seconderName + "', age: " + secondAge + " }");
+    }
+    else if (minimAge <= firstAge) {
+        console.log("{ name: '" + firstperson + "', age: " + firstAge + " }")
+    }
+    else if (minimAge <= secondAge) {
+        console.log("{ name: '" + seconderName + "', age: " + firstAge + " }")
+    }
+}
+filterByAge(12, 'Ivan', 15, 'Asen', 9);
+filterByAge(19, 'Pesho', 119, 'Gosho', 20);
+
+
+
+-----------------------------------------
+
+
+function filterByAge(minAge, nameA, ageA, nameB, ageB) {
 
     let personA = {name: nameA, age: Number(ageA)};
     let personB = {name: nameB, age: Number(ageB)};
@@ -17,6 +33,8 @@ function filterByAge(input) {
         console.log(personB)
     }
 }
-filterByAge(['12', 'Ivan', '15', 'Asen', '9']);
-filterByAge(['19', 'Pesho', '119', 'Gosho', '20']);
+
+filterByAge(12, 'Ivan', 15, 'Asen', 9);
+filterByAge(19, 'Pesho', 119, 'Gosho', 20);
+
 

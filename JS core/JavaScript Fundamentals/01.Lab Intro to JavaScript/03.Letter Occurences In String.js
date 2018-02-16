@@ -1,14 +1,6 @@
-function countLetter(input) {
-    let str = String(input[0]);
-    let letter = String(input[1]);
-    let count = 0;
+function kamen(input, letter) {
 
-    for (let i = 0; i < str.length ;i++)
-        if (str[i] == letter){
-            count++;
-        }
-    return count
+    return input.split(letter).length - 1;
 }
 
-console.log(countLetter(['hello', 'l']));
-
+console.log(kamen('hello', 'l'));

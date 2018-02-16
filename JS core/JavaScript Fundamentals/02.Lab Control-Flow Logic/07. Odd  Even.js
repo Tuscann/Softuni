@@ -1,21 +1,17 @@
-/**
- * Created by 123 on 20.9.2016 г..
- */
-function number(input) {
-    let num = Math.abs(Number(input[0])); //вземам абсолутна стоиност за премахна минуса на числото
+function circleArea(a) {
 
-    if (num % 2 == 0) {
-        console.log('even')
-    }
-    else if (num % 2 == 1){
-        console.log('odd')
-    }
-    else{
-        console.log('invalid')
-    }
+    a = Math.abs(a);
 
+    if (a % 2 === 1) {
+        return "odd";
+    }
+    else if (a % 2 === 0) {
+        return "even";
+    }
+    return "invalid"
 }
-number(['5']);
-number(['8']);
-number(['1.5']);
-number([-3]);
+
+console.log(circleArea(5));
+console.log(circleArea(8));
+console.log(circleArea(1.5));
+console.log(circleArea(-3));

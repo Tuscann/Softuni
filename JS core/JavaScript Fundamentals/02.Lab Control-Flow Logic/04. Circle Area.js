@@ -1,7 +1,6 @@
-function triangleArea(r) {
-
+function circleArea(r) {
     let area = r * r * Math.PI;
     console.log(area);
     console.log(area.toFixed(2));
 }
-triangleArea(['5']);
+circleArea(5);

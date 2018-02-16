@@ -1,8 +1,7 @@
-function boxes([bottles,quantity])
-{
+function filterByAge(bottles, quantity) {
     let boxses = bottles / quantity;
-    console.log(Math.ceil(boxses));
+    return Math.ceil(boxses);
 }
-boxes(['20', '5']);
-boxes(['15', '7']);
-boxes(['5', '10']);
+console.log(filterByAge(20, 5));
+console.log(filterByAge(15, 7));
+console.log(filterByAge(5, 10));
