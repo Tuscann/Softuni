@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="content">
+    dasdas(dasdasdasd). dasdasdas (dasdasd)das()dasdasdasd
+</p>
+<script>
+    function solution(id) {
+        let text = document.getElementById(id).textContent;
+        let regex = /\((.+?)\)/g;
+        let arr = [];
+
+        while (match = regex.exec(text)) {
+            arr.push(match[1]);
+        }
+        return arr.join("; ");
+    }
+
+    console.log(solution('content'));
+
+</script>
+</body>
+</html>

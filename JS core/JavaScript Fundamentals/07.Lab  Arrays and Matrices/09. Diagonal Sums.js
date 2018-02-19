@@ -1,5 +1,5 @@
 function aza(input) {
-    let matrix = input.map(row=>row.split(' ').map(Number));
+    let matrix = input.map(row => row.split(' ').map(Number));
 
     let mainSum = 0;
     let secondarySum = 0;
@@ -10,4 +10,5 @@ function aza(input) {
     }
     console.log(mainSum + ' ' + secondarySum);
 }
+
 aza(['20 40', '10 60']);

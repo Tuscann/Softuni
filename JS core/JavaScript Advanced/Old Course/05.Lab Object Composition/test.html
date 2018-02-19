@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Titlebar</title>
+    <style>
+        .header {
+            background-color: green;
+            color: white;
+            height: 60px;
+            position: relative;
+            left: 0;
+            top: 0;
+        }
+        .button {
+            cursor: pointer;
+            display: block;
+            width: 50px;
+            height: 50px;
+            margin: 4px;
+            position: absolute;
+            text-align: center;
+            line-height: 50px;
+            font-size: 24px;
+        }
+        .title {
+            display: block;
+            position: absolute;
+            left: 80px;
+            font-size: 32px;
+            font-family: "Helvetica", sans-serif;
+            line-height: 60px;
+        }
+        .drawer {
+            left:0;
+            top:55px;
+            float:left;
+            position: absolute;
+            background-color: #eeeeff;
+            width: 180px;
+            display: block;
+        }
+        .menu-link {
+            color: black;
+            font-family: "Helvetica", sans-serif;
+            text-decoration: none;
+            font-weight: 600;
+            display: block;
+            padding: 4px;
+            padding-left: 12px;
+        }
+        .menu-link:hover {
+            color: white;
+            background-color: orangered;
+        }
+        .post {
+            margin: 48px;
+        }
+    </style>
+</head>
+<body>
+<div id="container">
+    <div id="content"></div>
+</div>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"
+        integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+        crossorigin="anonymous"></script>
+<script src="test.js"></script>
+<script>
+    let header = new TitleBar('Title Bar Problem');
+    header.addLink('/', 'Home');
+    header.addLink('about', 'About');
+    header.addLink('results', 'Results');
+    header.addLink('faq', 'FAQ');
+    header.appendTo('#container');
+</script>
+</body>
+</html>

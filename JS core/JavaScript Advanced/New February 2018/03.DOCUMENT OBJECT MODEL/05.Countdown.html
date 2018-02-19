@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="time"
+       style="border:3px solid blue; text-align:center; font-size:2em;" disabled="true"/>
+<script>
+    window.onload = function () {
+        countdown(600);
+    };
+
+    function countdown(sec) {
+        setInterval(() => {
+            sec--;
+            let minutes = Math.floor(sec / 60);
+            let secunds = sec % 60;
+
+            if (secunds < 10) {
+                secunds = "0" + secunds;
+            }
+            document.getElementById("time").value = minutes + ":" + secunds;
+
+        },1000);
+
+    }
+
+</script>
+
+</body>
+</html>

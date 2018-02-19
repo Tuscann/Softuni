@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>addClass demo</title>
+    <style>
+        p {
+            margin: 8px;
+            font-size: 16px;
+        }
+        .selected {
+            color: red;
+        }
+        .selected2 {
+            color: blue;
+        }
+        .highlight {
+            background: greenyellow;
+        }
+        div {
+            background: white;
+        }
+        .red {
+            background: red;
+        }
+        .red.green {
+            background: green;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+
+<p>Hello</p>
+<p>and</p>
+<p>Goodbye</p>
+<div>This div should be white</div>
+<div class="red">This div will be green because it now has the "green" and "red" classes.
+    It would be red if the addClass function failed.</div>
+<div>This div should be white</div>
+<p>There are zero green divs</p>
+
+<script>
+    $( "p:first" ).addClass("selected").addClass("highlight");
+    $( "p:last" ).addClass("selected2");
+    $( "div" ).addClass(function( index, currentClass ) {
+        var addedClass;
+        if ( currentClass === "red" ) {
+            addedClass = "green";
+            $( "p" ).text( "There is one green div" );
+        }
+
+        return addedClass;
+    });
+
+
+</script>
+
+</body>
+</html>
